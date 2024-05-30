@@ -1,0 +1,865 @@
+,exp,item,sentence,context_had,type,condition,patient,agent,target,plausibility
+0,WY,1,The aquarium visitor wondered which fish the penguins had eaten during the performance.,The aquarium visitor wondered which fish the penguins had,substitution,high-cloze,fish,penguins,eaten,plausible
+1,WY,1,The aquarium visitor wondered which trainer the penguins had eaten during the performance. ,The aquarium visitor wondered which trainer the penguins had,substitution,low-cloze,trainer,penguins,eaten,implausible
+2,WY,2,The storyteller explained which dragon the prince had slain with his sword.,The storyteller explained which dragon the prince had,substitution,high-cloze,dragon,prince,slain,plausible
+3,WY,2,The storyteller explained which princess the prince had slain with his sword.,The storyteller explained which princess the prince had,substitution,low-cloze,princess,prince,slain,implausible
+4,WY,3,The superintendent overheard which tenant the landlord had evicted at the end of May.,The superintendent overheard which tenant the landlord had,substitution,high-cloze,tenant,landlord,evicted,plausible
+5,WY,3,The superintendent overheard which realtor the landlord had evicted at the end of May.,The superintendent overheard which realtor the landlord had,substitution,low-cloze,realtor,landlord,evicted,implausible
+6,WY,4,The butler speculated which guests the master had invited to the party.,The butler speculated which guests the master had,substitution,high-cloze,guests,master,invited,plausible
+7,WY,4,The butler speculated which servants the master had invited to the party.,The butler speculated which servants the master had,substitution,low-cloze,servants,master,invited,implausible
+8,WY,5,The priest mentioned which nonbeliever the nun had converted on her mission trip.,The priest mentioned which nonbeliever the nun had,substitution,high-cloze,nonbeliever,nun,converted,plausible
+9,WY,5,The priest mentioned which archbishop the nun had converted on her mission trip.,The priest mentioned which archbishop the nun had,substitution,low-cloze,archbishop,nun,converted,implausible
+10,WY,6,The sheriff boasted which horse the cowboy had ridden across the town.,The sheriff boasted which horse the cowboy had,substitution,high-cloze,horse,cowboy,ridden,plausible
+11,WY,6,The sheriff boasted which bandit the cowboy had ridden across the town.,The sheriff boasted which bandit the cowboy had,substitution,low-cloze,bandit,cowboy,ridden,implausible
+12,WY,7,Mr. Stevens revealed which clerk the manager had fired for being lazy.,Mr. Stevens revealed which clerk the manager had,substitution,high-cloze,clerk,manager,fired,plausible
+13,WY,7,Mr. Stevens revealed which customer the manager had fired for being lazy.,Mr. Stevens revealed which customer the manager had,substitution,low-cloze,customer,manager,fired,implausible
+14,WY,8,The secret serviceman concealed which ex-president the agent had protected from the terrorists. ,The secret serviceman concealed which ex-president the agent had,substitution,high-cloze,ex-president,agent,protected,plausible
+15,WY,8,The secret serviceman concealed which assassin the agent had protected from the terrorists.,The secret serviceman concealed which assassin the agent had,substitution,low-cloze,assassin,agent,protected,implausible
+16,WY,9,The Roman emperor asked which god the gladiator had worshipped for strength in battle.,The Roman emperor asked which god the gladiator had,substitution,high-cloze,god,gladiator,worshipped,plausible
+17,WY,9,The Roman emperor asked which adversary the gladiator had worshipped for strength in battle. ,The Roman emperor asked which adversary the gladiator had,substitution,low-cloze,adversary,gladiator,worshipped,implausible
+18,WY,10,The author revealed which maiden the hero had saved from the tower.,The author revealed which maiden the hero had,substitution,high-cloze,maiden,hero,saved,plausible
+19,WY,10,The author revealed which ogre the hero had saved from the tower.,The author revealed which ogre the hero had,substitution,low-cloze,ogre,hero,saved,implausible
+20,WY,11,The columnist publicized which billionaire the supermodel had married on public television. ,The columnist publicized which billionaire the supermodel had,substitution,high-cloze,billionaire,supermodel,married,plausible
+21,WY,11,The columnist publicized which stylist the supermodel had married on public television.,The columnist publicized which stylist the supermodel had,substitution,low-cloze,stylist,supermodel,married,implausible
+22,WY,12,The Iranian scholar researched which camels the Persians had ridden across the desert.,The Iranian scholar researched which camels the Persians had,substitution,high-cloze,camels,Persians,ridden,plausible
+23,WY,12,The Iranian scholar researched which soldiers the Persians had ridden across the desert.,The Iranian scholar researched which soldiers the Persians had,substitution,low-cloze,soldiers,Persians,ridden,implausible
+24,WY,13,The beggar saw which leper the saint had cured in the street.,The beggar saw which leper the saint had,substitution,high-cloze,leper,saint,cured,plausible
+25,WY,13,The beggar saw which prophet the saint had cured in the street.,The beggar saw which prophet the saint had,substitution,low-cloze,prophet,saint,cured,implausible
+26,WY,14,The historian recorded which patriot the king had knighted at the ceremony.,The historian recorded which patriot the king had,substitution,high-cloze,patriot,king,knighted,plausible
+27,WY,14,The historian recorded which traitor the king had knighted at the ceremony.,The historian recorded which traitor the king had,substitution,low-cloze,traitor,king,knighted,implausible
+28,WY,15,The monk recalled which sinner the priest had forgiven in church yesterday.,The monk recalled which sinner the priest had,substitution,high-cloze,sinner,priest,forgiven,plausible
+29,WY,15,The monk recalled which cardinal the priest had forgiven in church yesterday.,The monk recalled which cardinal the priest had,substitution,low-cloze,cardinal,priest,forgiven,implausible
+30,WY,16,The scientist noted which antelope the lion had eaten for his dinner.,The scientist noted which antelope the lion had,substitution,high-cloze,antelope,lion,eaten,plausible
+31,WY,16,The scientist noted which cub the lion had eaten for his dinner.,The scientist noted which cub the lion had,substitution,low-cloze,cub,lion,eaten,implausible
+32,WY,17,The secretary confirmed which illustrator the author had hired for the new book.,The secretary confirmed which illustrator the author had,substitution,high-cloze,illustrator,author,hired,plausible
+33,WY,17,The secretary confirmed which readers the author had hired for the new book.,The secretary confirmed which readers the author had,substitution,low-cloze,readers,author,hired,implausible
+34,WY,18,The stenographer recorded which defendant the judge had sentenced to fifteen years.,The stenographer recorded which defendant the judge had,substitution,high-cloze,defendant,judge,sentenced,plausible
+35,WY,18,The stenographer recorded which lawyer the judge had sentenced to fifteen years.,The stenographer recorded which lawyer the judge had,substitution,low-cloze,lawyer,judge,sentenced,implausible
+36,WY,19,Spencer guessed which agent the actress had hired to promote her career.,Spencer guessed which agent the actress had,substitution,high-cloze,agent,actress,hired,plausible
+37,WY,19,Spencer guessed which admirer the actress had hired to promote her career.,Spencer guessed which admirer the actress had,substitution,low-cloze,admirer,actress,hired,implausible
+38,WY,20,The editor listed which orphans the philanthropist had adopted from the faraway place.,The editor listed which orphans the philanthropist had,substitution,high-cloze,orphans,philanthropist,adopted,plausible
+39,WY,20,The editor listed which volunteers the philanthropist had adopted from the faraway place.,The editor listed which volunteers the philanthropist had,substitution,low-cloze,volunteers,philanthropist,adopted,implausible
+40,WY,21,The farmer remembered which pig the butcher had slaughtered in his kitchen.,The farmer remembered which pig the butcher had,substitution,high-cloze,pig,butcher,slaughtered,plausible
+41,WY,21,The farmer remembered which vegetarian the butcher had slaughtered in his kitchen.,The farmer remembered which vegetarian the butcher had,substitution,low-cloze,vegetarian,butcher,slaughtered,implausible
+42,WY,22,The homeowner asked which insects the exterminator had killed when he came over.,The homeowner asked which insects the exterminator had,substitution,high-cloze,insects,exterminator,killed,plausible
+43,WY,22,The homeowner asked which plumber the exterminator had killed when he came over.,The homeowner asked which plumber the exterminator had,substitution,low-cloze,plumber,exterminator,killed,implausible
+44,WY,23,The barkeeper knew which barmaids the regulars had tipped for their drinks.,The barkeeper knew which barmaids the regulars had,substitution,high-cloze,barmaids,regulars,tipped,plausible
+45,WY,23,The barkeeper knew which troublemakers the regulars had tipped for their drinks.,The barkeeper knew which troublemakers the regulars had,substitution,low-cloze,troublemakers,regulars,tipped,implausible
+46,WY,24,The ethnographer asked which deer the Indians had hunted with bows and arrows.,The ethnographer asked which deer the Indians had,substitution,high-cloze,deer,Indians,hunted,plausible
+47,WY,24,The ethnographer asked which babies the Indians had hunted with bows and arrows.,The ethnographer asked which babies the Indians had,substitution,low-cloze,babies,Indians,hunted,implausible
+48,WY,25,The historian knew which princess the king had married at the royal palace.,The historian knew which princess the king had,substitution,high-cloze,princess,king,married,plausible
+49,WY,25,The historian knew which prince the king had married at the royal palace.,The historian knew which prince the king had,substitution,low-cloze,prince,king,married,implausible
+50,WY,26,The journalist reported which opponent the politician had defeated by a wide margin.,The journalist reported which opponent the politician had,substitution,high-cloze,opponent,politician,defeated,plausible
+51,WY,26,The journalist reported which voters the politician had defeated by a wide margin.,The journalist reported which voters the politician had,substitution,low-cloze,voters,politician,defeated,implausible
+52,WY,27,The parent noticed which insects the child had collected in a jar.,The parent noticed which insects the child had,substitution,high-cloze,insects,child,collected,plausible
+53,WY,27,The parent noticed which teacher the child had collected in a jar.,The parent noticed which teacher the child had,substitution,low-cloze,teacher,child,collected,implausible
+54,WY,28,The scribe recorded which loyalists the monarch had rewarded for their actions.,The scribe recorded which loyalists the monarch had,substitution,high-cloze,loyalists,monarch,rewarded,plausible
+55,WY,28,The scribe recorded which rebels the monarch had rewarded for their actions.,The scribe recorded which rebels the monarch had,substitution,low-cloze,rebels,monarch,rewarded,implausible
+56,WY,29,The teacher remembered which delinquent the principal had suspended for a week.,The teacher remembered which delinquent the principal had,substitution,high-cloze,delinquent,principal,suspended,plausible
+57,WY,29,The teacher remembered which overachiever the principal had suspended for a week.,The teacher remembered which overachiever the principal had,substitution,low-cloze,overachiever,principal,suspended,implausible
+58,WY,30,Sally heard which patient the doctor had treated first thing this morning.,Sally heard which patient the doctor had,substitution,high-cloze,patient,doctor,treated,plausible
+59,WY,30,Sally heard which nurse the doctor had treated first thing this morning.,Sally heard which nurse the doctor had,substitution,low-cloze,nurse,doctor,treated,implausible
+60,WY,31,The beach bum saw which fish the seagulls had caught along the beach.,The beach bum saw which fish the seagulls had,substitution,high-cloze,fish,seagulls,caught,plausible
+61,WY,31,The beach bum saw which picnickers the seagulls had caught along the beach.,The beach bum saw which picnickers the seagulls had,substitution,low-cloze,picnickers,seagulls,caught,implausible
+62,WY,32,The circus-goer explained which juggler the clown had tripped in the center ring.,The circus-goer explained which juggler the clown had,substitution,high-cloze,juggler,clown,tripped,plausible
+63,WY,32,The circus-goer explained which child the clown had tripped in the center ring.,The circus-goer explained which child the clown had,substitution,low-cloze,child,clown,tripped,implausible
+64,WY,33,The football fan heard which cheerleader the quarterback had dated after the season.,The football fan heard which cheerleader the quarterback had,substitution,high-cloze,cheerleader,quarterback,dated,plausible
+65,WY,33,The football fan heard which linebacker the quarterback had dated after the season.,The football fan heard which linebacker the quarterback had,substitution,low-cloze,linebacker,quarterback,dated,implausible
+66,WY,34,The seasonal laborer marked which cows the farmer had milked early this morning.,The seasonal laborer marked which cows the farmer had,substitution,high-cloze,cows,farmer,milked,plausible
+67,WY,34,The seasonal laborer marked which chickens the farmer had milked early this morning.,The seasonal laborer marked which chickens the farmer had,substitution,low-cloze,chickens,farmer,milked,implausible
+68,WY,35,The secretary knew which manager the CEO had promoted from the old office.,The secretary knew which manager the CEO had,substitution,high-cloze,manager,CEO,promoted,plausible
+69,WY,35,The secretary knew which investor the CEO had promoted from the old office.,The secretary knew which investor the CEO had,substitution,low-cloze,investor,CEO,promoted,implausible
+70,WY,36,General Jones heard which terrorist the corporal had captured during the battle.,General Jones heard which terrorist the corporal had,substitution,high-cloze,terrorist,corporal,captured,plausible
+71,WY,36,General Jones heard which comrade the corporal had captured during the battle.,General Jones heard which comrade the corporal had,substitution,low-cloze,comrade,corporal,captured,implausible
+72,WY,37,Jason saw which nerd the teacher had praised for his good behavior.,Jason saw which nerd the teacher had,substitution,high-cloze,nerd,teacher,praised,plausible
+73,WY,37,Jason saw which rascal the teacher had praised for his good behavior.,Jason saw which rascal the teacher had,substitution,low-cloze,rascal,teacher,praised,implausible
+74,WY,38,Jim forgot which addict the therapist had treated in his last session.,Jim forgot which addict the therapist had,substitution,high-cloze,addict,therapist,treated,plausible
+75,WY,38,Jim forgot which doctor the therapist had treated in his last session.,Jim forgot which doctor the therapist had,substitution,low-cloze,doctor,therapist,treated,implausible
+76,WY,39,The announcer stated which teammate the player had replaced for the upcoming game.,The announcer stated which teammate the player had,substitution,high-cloze,teammate,player,replaced,plausible
+77,WY,39,The announcer stated which rival the player had replaced for the upcoming game.,The announcer stated which rival the player had,substitution,low-cloze,rival,player,replaced,implausible
+78,WY,40,The crafts fair manager asked which cows the leatherworker had skinned to make his bags.,The crafts fair manager asked which cows the leatherworker had,substitution,high-cloze,cows,leatherworker,skinned,plausible
+79,WY,40,The crafts fair manager asked which customers the leatherworker had skinned to make his bags. ,The crafts fair manager asked which customers the leatherworker had,substitution,low-cloze,customers,leatherworker,skinned,implausible
+80,WY,41,The police woman recognized which officer the lieutenant had promoted to a higher position. ,The police woman recognized which officer the lieutenant had,substitution,high-cloze,officer,lieutenant,promoted,plausible
+81,WY,41,The police woman recognized which thief the lieutenant had promoted to a higher position. ,The police woman recognized which thief the lieutenant had,substitution,low-cloze,thief,lieutenant,promoted,implausible
+82,WY,42,The reviewer forgot which researchers the authors had cited in their paper.,The reviewer forgot which researchers the authors had,substitution,high-cloze,researchers,authors,cited,plausible
+83,WY,42,The reviewer forgot which mice the authors had cited in their paper.,The reviewer forgot which mice the authors had,substitution,low-cloze,mice,authors,cited,implausible
+84,WY,43,The swim team captain recalled which champion the swimmer had defeated at last week's race. ,The swim team captain recalled which champion the swimmer had,substitution,high-cloze,champion,swimmer,defeated,plausible
+85,WY,43,The swim team captain recalled which lifeguard the swimmer had defeated at last week's race. ,The swim team captain recalled which lifeguard the swimmer had,substitution,low-cloze,lifeguard,swimmer,defeated,implausible
+86,WY,44,The zoologist marked which pup the seal had birthed over the weekend.,The zoologist marked which pup the seal had,substitution,high-cloze,pup,seal,birthed,plausible
+87,WY,44,The zoologist marked which walrus the seal had birthed over the weekend.,The zoologist marked which walrus the seal had,substitution,low-cloze,walrus,seal,birthed,implausible
+88,WY,45,The captain realized which stowaway the sailor had hidden in the cargo hold.,The captain realized which stowaway the sailor had,substitution,high-cloze,stowaway,sailor,hidden,plausible
+89,WY,45,The captain realized which pirate the sailor had hidden in the cargo hold.,The captain realized which pirate the sailor had,substitution,low-cloze,pirate,sailor,hidden,implausible
+90,WY,46,The father recalled which girl the boy had dated in junior high.,The father recalled which girl the boy had,substitution,high-cloze,girl,boy,dated,plausible
+91,WY,46,The father recalled which dog the boy had dated in junior high.,The father recalled which dog the boy had,substitution,low-cloze,dog,boy,dated,implausible
+92,WY,47,The Japanese scientists showed which salespeople the robots had replaced in the last decade. ,The Japanese scientists showed which salespeople the robots had,substitution,high-cloze,salespeople,robots,replaced,plausible
+93,WY,47,The Japanese scientists showed which patients the robots had replaced in the last decade.,The Japanese scientists showed which patients the robots had,substitution,low-cloze,patients,robots,replaced,implausible
+94,WY,48,The principal forgot which student the teacher had disciplined after school yesterday.,The principal forgot which student the teacher had,substitution,high-cloze,student,teacher,disciplined,plausible
+95,WY,48,The principal forgot which parent the teacher had disciplined after school yesterday.,The principal forgot which parent the teacher had,substitution,low-cloze,parent,teacher,disciplined,implausible
+96,WY,49,The shepherd saw which lamb the sheep had birthed by the barn.,The shepherd saw which lamb the sheep had,substitution,high-cloze,lamb,sheep,birthed,plausible
+97,WY,49,The shepherd saw which predator the sheep had birthed by the barn.,The shepherd saw which predator the sheep had,substitution,low-cloze,predator,sheep,birthed,implausible
+98,WY,50,The snoop determined which bouncer the alcoholic had punched last Friday night.,The snoop determined which bouncer the alcoholic had,substitution,high-cloze,bouncer,alcoholic,punched,plausible
+99,WY,50,The snoop determined which psychologist the alcoholic had punched last Friday night.,The snoop determined which psychologist the alcoholic had,substitution,low-cloze,psychologist,alcoholic,punched,implausible
+100,WY,51,Carla inquired which exterminator the landlord had used in the apartment.,Carla inquired which exterminator the landlord had,substitution,high-cloze,exterminator,landlord,used,plausible
+101,WY,51,Carla inquired which neighbor the landlord had used in the apartment.,Carla inquired which neighbor the landlord had,substitution,low-cloze,neighbor,landlord,used,implausible
+102,WY,52,Karen learned which teenager the mother had grounded for disobeying her.,Karen learned which teenager the mother had,substitution,high-cloze,teenager,mother,grounded,plausible
+103,WY,52,Karen learned which baby the mother had grounded for disobeying her.,Karen learned which baby the mother had,substitution,low-cloze,baby,mother,grounded,implausible
+104,WY,53,Sandra observed which biologists the zookeeper had consulted about the food.,Sandra observed which biologists the zookeeper had,substitution,high-cloze,biologists,zookeeper,consulted,plausible
+105,WY,53,Sandra observed which gorillas the zookeeper had consulted about the food.,Sandra observed which gorillas the zookeeper had,substitution,low-cloze,gorillas,zookeeper,consulted,implausible
+106,WY,54,The anthropologist discovered which animal the caveman had hunted with flint arrows.,The anthropologist discovered which animal the caveman had,substitution,high-cloze,animal,caveman,hunted,plausible
+107,WY,54,The anthropologist discovered which goddess the caveman had hunted with flint arrows.,The anthropologist discovered which goddess the caveman had,substitution,low-cloze,goddess,caveman,hunted,implausible
+108,WY,55,The mother wondered which trick-or-treaters the neighbor had scared with his costume.,The mother wondered which trick-or-treaters the neighbor had,substitution,high-cloze,trick-or-treaters,neighbor,scared,plausible
+109,WY,55,The mother wondered which milkman the neighbor had scared with his costume.,The mother wondered which milkman the neighbor had,substitution,low-cloze,milkman,neighbor,scared,implausible
+110,WY,56,The movie buff speculated which actor the stuntman had portrayed in the opening scene.,The movie buff speculated which actor the stuntman had,substitution,high-cloze,actor,stuntman,portrayed,plausible
+111,WY,56,The movie buff speculated which director the stuntman had portrayed in the opening scene. ,The movie buff speculated which director the stuntman had,substitution,low-cloze,director,stuntman,portrayed,implausible
+112,WY,57,The researcher recorded which chimpanzee the biologist had tagged to be studied.,The researcher recorded which chimpanzee the biologist had,substitution,high-cloze,chimpanzee,biologist,tagged,plausible
+113,WY,57,The researcher recorded which assistant the biologist had tagged to be studied.,The researcher recorded which assistant the biologist had,substitution,low-cloze,assistant,biologist,tagged,implausible
+114,WY,58,The sentry knew which guard the captain had fired from the position.,The sentry knew which guard the captain had,substitution,high-cloze,captain,captain,fired,plausible
+115,WY,58,The sentry knew which townsperson the captain had fired from the position.,The sentry knew which townsperson the captain had,substitution,low-cloze,townsperson,captain,fired,implausible
+116,WY,59,The team manager knew which athlete the officials had penalized for being unsportsmanlike.,The team manager knew which athlete the officials had,substitution,high-cloze,athlete,officials,penalized,plausible
+117,WY,59,The team manager knew which umpire the officials had penalized for being unsportsmanlike. ,The team manager knew which umpire the officials had,substitution,low-cloze,umpire,officials,penalized,implausible
+118,WY,60,The theater owner described which spectators the magician had amazed with his tricks.,The theater owner described which spectators the magician had,substitution,high-cloze,spectators,magician,amazed,plausible
+119,WY,60,The theater owner described which rabbit the magician had amazed with his tricks.,The theater owner described which rabbit the magician had,substitution,low-cloze,rabbit,magician,amazed,implausible
+120,WY,61,The librarian documented which celebrities the journalist had interviewed for the magazine.,The librarian documented which celebrities the journalist had,reversal,canonical,celebrities,journalist,interviewed,plausible
+121,WY,61,The librarian documented which journalist the celebrities had interviewed for the magazine.,The librarian documented which journalist the celebrities had,reversal,reversed,journalist,celebrities,interviewed,implausible
+122,WY,62,The old widower remembered which villager the ghost had haunted for many years.,The old widower remembered which villager the ghost had,reversal,canonical,villager,ghost,haunted,plausible
+123,WY,62,The old widower remembered which ghost the villager had haunted for many years.,The old widower remembered which ghost the villager had,reversal,reversed,ghost,villager,haunted,implausible
+124,WY,63,The firefighter reported which victim the paramedic had saved after the fire.,The firefighter reported which victim the paramedic had,reversal,canonical,victim,paramedic,saved,plausible
+125,WY,63,The firefighter reported which paramedic the victim had saved after the fire.,The firefighter reported which paramedic the victim had,reversal,reversed,paramedic,victim,saved,implausible
+126,WY,64,The historian documented which prince the assassin had killed in the 10th century.,The historian documented which prince the assassin had,reversal,canonical,prince,assassin,killed,plausible
+127,WY,64,The historian documented which assassin the prince had killed in the 10th century.,The historian documented which assassin the prince had,reversal,reversed,assassin,prince,killed,implausible
+128,WY,65,The park ranger documented which eagle the hunter had shot with a rifle.,The park ranger documented which eagle the hunter had,reversal,canonical,eagle,hunter,shot,plausible
+129,WY,65,The park ranger documented which hunter the eagle had shot with a rifle.,The park ranger documented which hunter the eagle had,reversal,reversed,hunter,eagle,shot,implausible
+130,WY,66,The judo master recognized which defender the assailant had attacked late last night.,The judo master recognized which defender the assailant had,reversal,canonical,defender,assailant,attacked,plausible
+131,WY,66,The judo master recognized which assailant the defender had attacked late last night.,The judo master recognized which assailant the defender had,reversal,reversed,assailant,defender,attacked,implausible
+132,WY,67,The naturalist observed which predators the deer had avoided by sleeping in the daytime.,The naturalist observed which predators the deer had,reversal,canonical,predators,deer,avoided,plausible
+133,WY,67,The naturalist observed which deer the predators had avoided by sleeping in the daytime.,The naturalist observed which deer the predators had,reversal,reversed,deer,predators,avoided,implausible
+134,WY,68,The restaurant owner forgot which customer the waitress had served during dinner yesterday.,The restaurant owner forgot which customer the waitress had,reversal,canonical,customer,waitress,served,plausible
+135,WY,68,The restaurant owner forgot which waitress the customer had served during dinner yesterday.,The restaurant owner forgot which waitress the customer had,reversal,reversed,waitress,customer,served,implausible
+136,WY,69,The head nun explained which friar the temptress had seduced after Sunday mass.,The head nun explained which friar the temptress had,reversal,canonical,friar,temptress,seduced,plausible
+137,WY,69,The head nun explained which temptress the friar had seduced after Sunday mass.,The head nun explained which temptress the friar had,reversal,reversed,temptress,friar,seduced,implausible
+138,WY,70,The housekeeper showed which mouse the cat had killed under the table.,The housekeeper showed which mouse the cat had,reversal,canonical,mouse,cat,killed,plausible
+139,WY,70,The housekeeper showed which cat the mouse had killed under the table.,The housekeeper showed which cat the mouse had,reversal,reversed,cat,mouse,killed,implausible
+140,WY,71,The nanny knew which housekeeper the billionaire had hired from their conversation.,The nanny knew which housekeeper the billionaire had,reversal,canonical,housekeeper,billionaire,hired,plausible
+141,WY,71,The nanny knew which billionaire the housekeeper had hired from their conversation.,The nanny knew which billionaire the housekeeper had,reversal,reversed,billionaire,housekeeper,hired,implausible
+142,WY,72,The researcher learned which whale the biologist had studied in the lab.,The researcher learned which whale the biologist had,reversal,canonical,whale,biologist,studied,plausible
+143,WY,72,The researcher learned which biologist the whale had studied in the lab.,The researcher learned which biologist the whale had,reversal,reversed,biologist,whale,studied,implausible
+144,WY,73,Tracy announced which applicant the administrator had chosen after the interview.,Tracy announced which applicant the administrator had,reversal,canonical,administrator,applicant,chosen,plausible
+145,WY,73,Tracy announced which administrator the applicant had chosen after the interview.,Tracy announced which administrator the applicant had,reversal,reversed,applicant,administrator,chosen,implausible
+146,WY,74,The birthday boy saw which friend the clown had scared at the party.,The birthday boy saw which friend the clown had,reversal,canonical,friend,clown,scared,plausible
+147,WY,74,The birthday boy saw which clown the friend had scared at the party.,The birthday boy saw which clown the friend had,reversal,reversed,clown,friend,scared,implausible
+148,WY,75,The columnist publicized which photographer the celebrity had punched in the nose.,The columnist publicized which photographer the celebrity had,reversal,canonical,photographer,celebrity,punched,plausible
+149,WY,75,The columnist publicized which celebrity the photographer had punched in the nose.,The columnist publicized which celebrity the photographer had,reversal,reversed,celebrity,photographer,punched,implausible
+150,WY,76,The documentarian showed which piglets the agriculturalist had raised at the farm.,The documentarian showed which piglets the agriculturalist had,reversal,canonical,piglets,agriculturalist,raised,plausible
+151,WY,76,The documentarian showed which agriculturalist the piglets had raised at the farm.,The documentarian showed which agriculturalist the piglets had,reversal,reversed,agriculturalist,piglets,raised,implausible
+152,WY,77,The police officer noted which jeweler the burglar had robbed on his spree.,The police officer noted which jeweler the burglar had,reversal,canonical,jeweler,burglar,robbed,plausible
+153,WY,77,The police officer noted which burglar the jeweler had robbed on his spree.,The police officer noted which burglar the jeweler had,reversal,reversed,burglar,jeweler,robbed,implausible
+154,WY,78,The royal cook asked which lord the chef had served for twenty years.,The royal cook asked which lord the chef had,reversal,canonical,lord,chef,served,plausible
+155,WY,78,The royal cook asked which chef the lord had served for twenty years.,The royal cook asked which chef the lord had,reversal,reversed,chef,lord,served,implausible
+156,WY,79,The trapeze artist indicated which lion the trainer had tamed for the circus.,The trapeze artist indicated which lion the trainer had,reversal,canonical,lion,trainer,tamed,plausible
+157,WY,79,The trapeze artist indicated which trainer the lion had tamed for the circus.,The trapeze artist indicated which trainer the lion had,reversal,reversed,trainer,lion,tamed,implausible
+158,WY,80,The wildlife curator mentioned which ape the zookeeper had fed some fresh fruit.,The wildlife curator mentioned which ape the zookeeper had,reversal,canonical,ape,zookeeper,fed,plausible
+159,WY,80,The wildlife curator mentioned which zookeeper the ape had fed some fresh fruit.,The wildlife curator mentioned which zookeeper the ape had,reversal,reversed,zookeeper,ape,fed,implausible
+160,WY,81,The aid worker realized which refugees the philanthropist had helped to escape starvation.,The aid worker realized which refugees the philanthropist had,reversal,canonical,refugees,philanthropist,helped,plausible
+161,WY,81,The aid worker realized which philanthropist the refugees had helped to escape starvation.,The aid worker realized which philanthropist the refugees had,reversal,reversed,philanthropist,refugees,helped,implausible
+162,WY,82,The camper reported which girl the bear had mauled in the forest.,The camper reported which girl the bear had,reversal,canonical,girl,bear,mauled,plausible
+163,WY,82,The camper reported which bear the girl had mauled in the forest.,The camper reported which bear the girl had,reversal,reversed,bear,girl,mauled,implausible
+164,WY,83,The dance instructor noticed which onlookers the performers had impressed in the audience.,The dance instructor noticed which onlookers the performers had,reversal,canonical,onlookers,performers,impressed,plausible
+165,WY,83,The dance instructor noticed which performers the onlookers had impressed in the audience.,The dance instructor noticed which performers the onlookers had,reversal,reversed,performers,onlookers,impressed,implausible
+166,WY,84,The high schooler heard which geek the jock had bullied in the hall.,The high schooler heard which geek the jock had,reversal,canonical,geek,jock,bullied,plausible
+167,WY,84,The high schooler heard which jock the geek had bullied in the hall.,The high schooler heard which jock the geek had,reversal,reversed,jock,geek,bullied,implausible
+168,WY,85,The parent saw which child the lifeguard had rescued from the pool.,The parent saw which child the lifeguard had,reversal,canonical,child,lifeguard,rescued,plausible
+169,WY,85,The parent saw which lifeguard the child had rescued from the pool.,The parent saw which lifeguard the child had,reversal,reversed,lifeguard,child,rescued,implausible
+170,WY,86,The ringmaster recognized which cheetah the tamer had trained three years ago.,The ringmaster recognized which cheetah the tamer had,reversal,canonical,cheetah,tamer,trained,plausible
+171,WY,86,The ringmaster recognized which tamer the cheetah had trained three years ago.,The ringmaster recognized which tamer the cheetah had,reversal,reversed,tamer,cheetah,trained,implausible
+172,WY,87,The travel agent recorded which innkeeper the guests had liked in his notebook.,The travel agent recorded which innkeeper the guests had,reversal,canonical,innkeeper,guests,liked,plausible
+173,WY,87,The travel agent recorded which guests the innkeeper had liked in his notebook.,The travel agent recorded which guests the innkeeper had,reversal,reversed,guests,innkeeper,liked,implausible
+174,WY,88,The bird watcher saw which photographer the hawk had attacked in the woods.,The bird watcher saw which photographer the hawk had,reversal,canonical,photographer,hawk,attacked,plausible
+175,WY,88,The bird watcher saw which hawk the photographer had attacked in the woods.,The bird watcher saw which hawk the photographer had,reversal,reversed,hawk,photographer,attacked,implausible
+176,WY,89,The costume designer confirmed which actor the barber had shaved for the part.,The costume designer confirmed which actor the barber had,reversal,canonical,actor,barber,shaved,plausible
+177,WY,89,The costume designer confirmed which barber the actor had shaved for the part.,The costume designer confirmed which barber the actor had,reversal,reversed,barber,actor,shaved,implausible
+178,WY,90,The Indian king identified which prince the elephant had trampled during the long journey.,The Indian king identified which prince the elephant had,reversal,canonical,prince,elephant,trampled,plausible
+179,WY,90,The Indian king identified which elephant the prince had trampled during the long journey.,The Indian king identified which elephant the prince had,reversal,reversed,elephant,prince,trampled,implausible
+180,WY,91,The investigator discovered which couple the abductor had taken during their vacation.,The investigator discovered which couple the abductor had,reversal,canonical,couple,abductor,taken,plausible
+181,WY,91,The investigator discovered which abductor the couple had taken during their vacation.,The investigator discovered which abductor the couple had,reversal,reversed,abductor,couple,taken,implausible
+182,WY,92,The jail keeper forgot which guard the prisoner had attacked in his cell.,The jail keeper forgot which guard the prisoner had,reversal,canonical,guard,prisoner,attacked,plausible
+183,WY,92,The jail keeper forgot which prisoner the guard had attacked in his cell.,The jail keeper forgot which prisoner the guard had,reversal,reversed,prisoner,guard,attacked,implausible
+184,WY,93,The sailor saw which whale the man had harpooned on the starboard side.,The sailor saw which whale the man had,reversal,canonical,whale,man,harpooned,plausible
+185,WY,93,The sailor saw which man the whale had harpooned on the starboard side.,The sailor saw which man the whale had,reversal,reversed,man,whale,harpooned,implausible
+186,WY,94,The sheriff recalled which locals the gangsters had robbed in a dark alleyway.,The sheriff recalled which locals the gangsters had,reversal,canonical,locals,gangsters,robbed,plausible
+187,WY,94,The sheriff recalled which gangsters the locals had robbed in a dark alleyway.,The sheriff recalled which gangsters the locals had,reversal,reversed,gangsters,locals,robbed,implausible
+188,WY,95,The undead king recognized which woman the zombie had bitten during the fight.,The undead king recognized which woman the zombie had,reversal,canonical,woman,zombie,bitten,plausible
+189,WY,95,The undead king recognized which zombie the woman had bitten during the fight.,The undead king recognized which zombie the woman had,reversal,reversed,zombie,woman,bitten,implausible
+190,WY,96,Tonia explained which housewife the conman had swindled over the phone.,Tonia explained which housewife the conman had,reversal,canonical,housewife,conman,swindled,plausible
+191,WY,96,Tonia explained which conman the housewife had swindled over the phone.,Tonia explained which conman the housewife had,reversal,reversed,conman,housewife,swindled,implausible
+192,WY,97,The broadcaster explained which contestant the judge had disqualified from the show.,The broadcaster explained which contestant the judge had,reversal,canonical,contestant,judge,disqualified,plausible
+193,WY,97,The broadcaster explained which judge the contestant had disqualified from the show.,The broadcaster explained which judge the contestant had,reversal,reversed,judge,contestant,disqualified,implausible
+194,WY,98,The campaign volunteer speculated which mayor the voters had elected by a landslide.,The campaign volunteer speculated which mayor the voters had,reversal,canonical,mayor,voters,elected,plausible
+195,WY,98,The campaign volunteer speculated which voters the mayor had elected by a landslide.,The campaign volunteer speculated which voters the mayor had,reversal,reversed,voters,mayor,elected,implausible
+196,WY,99,The family counselor understood which daughter the stepparent had abused on a daily basis.,The family counselor understood which daughter the stepparent had,reversal,canonical,daughter,stepparent,abused,plausible
+197,WY,99,The family counselor understood which stepparent the daughter had abused on a daily basis.,The family counselor understood which stepparent the daughter had,reversal,reversed,stepparent,daughter,abused,implausible
+198,WY,100,The newscaster confirmed which fugitive the policeman had arrested following the robbery.,The newscaster confirmed which fugitive the policeman had,reversal,canonical,fugitive,policeman,arrested,plausible
+199,WY,100,The newscaster confirmed which policeman the fugitive had arrested following the robbery.,The newscaster confirmed which policeman the fugitive had,reversal,reversed,policeman,fugitive,arrested,implausible
+200,WY,101,The opera composer revealed which pirate the singer had portrayed with the greatest finesse.,The opera composer revealed which pirate the singer had,reversal,canonical,pirate,singer,portrayed,plausible
+201,WY,101,The opera composer revealed which singer the pirate had portrayed with the greatest finesse.,The opera composer revealed which singer the pirate had,reversal,reversed,singer,pirate,portrayed,implausible
+202,WY,102,The prison warden guessed which jailer the inmate had stabbed with a knife.,The prison warden guessed which jailer the inmate had,reversal,canonical,jailer,inmate,stabbed,plausible
+203,WY,102,The prison warden guessed which inmate the jailer had stabbed with a knife.,The prison warden guessed which inmate the jailer had,reversal,reversed,inmate,jailer,stabbed,implausible
+204,WY,103,The producer observed which viewers the acrobats had impressed with their tricks.,The producer observed which viewers the acrobats had,reversal,canonical,viewers,acrobats,impressed,plausible
+205,WY,103,The producer observed which acrobats the viewers had impressed with their tricks.,The producer observed which acrobats the viewers had,reversal,reversed,acrobats,viewers,impressed,implausible
+206,WY,104,The queen recognized which nobleman the comedian had entertained with his jokes.,The queen recognized which nobleman the comedian had,reversal,canonical,nobleman,comedian,entertained,plausible
+207,WY,104,The queen recognized which comedian the nobleman had entertained with his jokes.,The queen recognized which comedian the nobleman had,reversal,reversed,comedian,nobleman,entertained,implausible
+208,WY,105,The reporter inquired which animals the groomer had cleaned with special shampoo.,The reporter inquired which animals the groomer had,reversal,canonical,animals,groomer,cleaned,plausible
+209,WY,105,The reporter inquired which groomer the animals had cleaned with special shampoo.,The reporter inquired which groomer the animals had,reversal,reversed,groomer,animals,cleaned,implausible
+210,WY,106,The ape researcher identified which chimpanzee the poacher had shot in the jungle.,The ape researcher identified which chimpanzee the poacher had,reversal,canonical,chimpanzee,poacher,shot,plausible
+211,WY,106,The ape researcher identified which poacher the chimpanzee had shot in the jungle.,The ape researcher identified which poacher the chimpanzee had,reversal,reversed,poacher,chimpanzee,shot,implausible
+212,WY,107,The boatman saw which shark the diver had speared just off the shore.,The boatman saw which shark the diver had,reversal,canonical,shark,diver,speared,plausible
+213,WY,107,The boatman saw which diver the shark had speared just off the shore.,The boatman saw which diver the shark had,reversal,reversed,diver,shark,speared,implausible
+214,WY,108,The committee member guessed which advisors the president had appointed to the Cabinet.,The committee member guessed which advisors the president had,reversal,canonical,advisors,president,appointed,plausible
+215,WY,108,The committee member guessed which president the advisors had appointed to the Cabinet.,The committee member guessed which president the advisors had,reversal,reversed,president,advisors,appointed,implausible
+216,WY,109,The farmer indicated which donkey the townsperson had bought in the neighboring village.,The farmer indicated which donkey the townsperson had,reversal,canonical,donkey,townsperson,bought,plausible
+217,WY,109,The farmer indicated which townsperson the donkey had bought in the neighboring village.,The farmer indicated which townsperson the donkey had,reversal,reversed,townsperson,donkey,bought,implausible
+218,WY,110,The military man knew which soldiers the general had promoted after their tour.,The military man knew which soldiers the general had,reversal,canonical,soldiers,general,promoted,plausible
+219,WY,110,The military man knew which general the soldiers had promoted after their tour.,The military man knew which general the soldiers had,reversal,reversed,general,soldiers,promoted,implausible
+220,WY,111,The parole officer confirmed which delinquent the psychologist had treated several times already.,The parole officer confirmed which delinquent the psychologist had,reversal,canonical,delinquent,psychologist,treated,plausible
+221,WY,111,The parole officer confirmed which psychologist the delinquent had treated several times already.,The parole officer confirmed which psychologist the delinquent had,reversal,reversed,psychologist,delinquent,treated,implausible
+222,WY,112,The policeman knew which suspect the detective had arrested for the recent crime.,The policeman knew which suspect the detective had,reversal,canonical,suspect,detective,arrested,plausible
+223,WY,112,The policeman knew which detective the suspect had arrested for the recent crime.,The policeman knew which detective the suspect had,reversal,reversed,detective,suspect,arrested,implausible
+224,WY,113,The priest knew which demon the exorcist had expelled with a cross.,The priest knew which demon the exorcist had,reversal,canonical,demon,exorcist,expelled,plausible
+225,WY,113,The priest knew which exorcist the demon had expelled with a cross.,The priest knew which exorcist the demon had,reversal,reversed,exorcist,demon,expelled,implausible
+226,WY,114,Jack observed which passenger the conductor had removed from the train.,Jack observed which passenger the conductor had,reversal,canonical,passenger,conductor,removed,plausible
+227,WY,114,Jack observed which conductor the passenger had removed from the train.,Jack observed which conductor the passenger had,reversal,reversed,conductor,passenger,removed,implausible
+228,WY,115,Teresa knew which neighbor the parrot had bitten at the block party.,Teresa knew which neighbor the parrot had,reversal,canonical,neighbor,parrot,bitten,plausible
+229,WY,115,Teresa knew which parrot the neighbor had bitten at the block party.,Teresa knew which parrot the neighbor had,reversal,reversed,parrot,neighbor,bitten,implausible
+230,WY,116,The art critic identified which model the artist had drawn in the studio.,The art critic identified which model the artist had,reversal,canonical,model,artist,drawn,plausible
+231,WY,116,The art critic identified which artist the model had drawn in the studio.,The art critic identified which artist the model had,reversal,reversed,artist,model,drawn,implausible
+232,WY,117,The cotton farmer wondered which master the slave had escaped by running through the woods.,The cotton farmer wondered which master the slave had,reversal,canonical,master,slave,escaped,plausible
+233,WY,117,The cotton farmer wondered which slave the master had escaped by running through the woods.,The cotton farmer wondered which slave the master had,reversal,reversed,slave,master,escaped,implausible
+234,WY,118,The farmhand recorded which goats the breeder had sold at the market.,The farmhand recorded which goats the breeder had,reversal,canonical,goats,breeder,sold,plausible
+235,WY,118,The farmhand recorded which breeder the goats had sold at the market.,The farmhand recorded which breeder the goats had,reversal,reversed,breeder,goats,sold,implausible
+236,WY,119,The four-year-old knew which hero the dragon had eaten for dinner last night.,The four-year-old knew which hero the dragon had,reversal,canonical,hero,dragon,eaten,plausible
+237,WY,119,The four-year-old knew which dragon the hero had eaten for dinner last night.,The four-year-old knew which dragon the hero had,reversal,reversed,dragon,hero,eaten,implausible
+238,WY,120,The security guard investigated which patrolman the loiterer had evaded for three hours.,The security guard investigated which patrolman the loiterer had,reversal,canonical,patrolman,loiterer,evaded,plausible
+239,WY,120,The security guard investigated which loiterer the patrolman had evaded for three hours.,The security guard investigated which loiterer the patrolman had,reversal,reversed,loiterer,patrolman,evaded,implausible
+240,LE,121,The aquarium visitor wondered which fish the penguins had eaten from the large bucket.,The aquarium visitor wondered which fish the penguins had,reversal,canonical,fish,penguins,eaten,plausible
+241,LE,121,The aquarium visitor wondered which penguins the fish had eaten from the large bucket.,The aquarium visitor wondered which penguins the fish had,reversal,reversed,penguins,fish,eaten,implausible
+242,LE,181,The aquarium visitor wondered which fish the penguins had swum from through the cold water.,The aquarium visitor wondered which fish the penguins had,alternative,alt_reversed,fish,penguins,swum from,implausible
+243,LE,181,The aquarium visitor wondered which penguins the fish had swum from through the cold water.,The aquarium visitor wondered which penguins the fish had,alternative,alt_canonical,penguins,fish,swum from,plausible
+244,LE,122,The superintendent overheard which tenant the landlord had evicted from the apartment.,The superintendent overheard which tenant the landlord had,reversal,canonical,tenant,landlord,evicted,plausible
+245,LE,122,The superintendent overheard which landlord the tenant had evicted from the apartment.,The superintendent overheard which landlord the tenant had,reversal,reversed,landlord,tenant,evicted,implausible
+246,LE,182,The superintendent overheard which tenant the landlord had complained about for overcharging rent.,The superintendent overheard which tenant the landlord had,alternative,alt_reversed,tenant,landlord,complained about,implausible
+247,LE,182,The superintendent overheard which landlord the tenant had complained about for overcharging rent.,The superintendent overheard which landlord the tenant had,alternative,alt_canonical,landlord,tenant,complained about,plausible
+248,LE,123,The Roman emperor asked which god the gladiator had prayed to before the dangerous fight.,The Roman emperor asked which god the gladiator had,reversal,canonical,god,gladiator,prayed to,plausible
+249,LE,123,The Roman emperor asked which gladiator the god had prayed to before the dangerous fight.,The Roman emperor asked which gladiator the god had,reversal,reversed,gladiator,god,prayed to,implausible
+250,LE,183,The Roman emperor asked which god the gladiator had blessed with superhuman strength.,The Roman emperor asked which god the gladiator had,alternative,alt_reversed,god,gladiator,blessed,implausible
+251,LE,183,The Roman emperor asked which gladiator the god had blessed with superhuman strength.,The Roman emperor asked which gladiator the god had,alternative,alt_canonical,gladiator,god,blessed,plausible
+252,LE,124,The scientist noted which antelope the lion had killed after a short chase.,The scientist noted which antelope the lion had,reversal,canonical,antelope,lion,killed,plausible
+253,LE,124,The scientist noted which lion the antelope had killed after a short chase.,The scientist noted which lion the antelope had,reversal,reversed,lion,antelope,killed,implausible
+254,LE,184,The scientist noted which antelope the lion had run from without any success.,The scientist noted which antelope the lion had,alternative,alt_reversed,antelope,lion,run from,implausible
+255,LE,184,The scientist noted which lion the antelope had run from without any success.,The scientist noted which lion the antelope had,alternative,alt_canonical,lion,antelope,run from,plausible
+256,LE,125,The secretary confirmed which illustrator the author had chosen for the novel.,The secretary confirmed which illustrator the author had,reversal,canonical,illustrator,author,chosen,plausible
+257,LE,125,The secretary confirmed which author the illustrator had chosen for the novel.,The secretary confirmed which author the illustrator had,reversal,reversed,author,illustrator,chosen,implausible
+258,LE,185,The secretary confirmed which illustrator the author had drawn for in the new children's novel.,The secretary confirmed which illustrator the author had,alternative,alt_reversed,illustrator,author,drawn for,implausible
+259,LE,185,The secretary confirmed which author the illustrator had drawn for in the new children's novel.,The secretary confirmed which author the illustrator had,alternative,alt_canonical,author,illustrator,drawn for,plausible
+260,LE,126,The homeowner asked which wasps the exterminator had killed in the local park.,The homeowner asked which wasps the exterminator had,reversal,canonical,wasps,exterminator,killed,plausible
+261,LE,126,The homeowner asked which exterminator the wasps had killed in the local park.,The homeowner asked which exterminator the wasps had,reversal,reversed,exterminator,wasps,killed,implausible
+262,LE,186,The homeowner asked which wasps the exterminator had stung in the local park.,The homeowner asked which wasps the exterminator had,alternative,alt_reversed,wasps,exterminator,stung,implausible
+263,LE,186,The homeowner asked which exterminator the wasps had stung in the local park.,The homeowner asked which exterminator the wasps had,alternative,alt_canonical,exterminator,wasps,stung,plausible
+264,LE,127,The Indians asked which buffalo the pioneers had killed during the stampede.,The Indians asked which buffalo the pioneers had,reversal,canonical,buffalo,pioneers,killed,plausible
+265,LE,127,The Indians asked which pioneers the buffalo had killed during the stampede.,The Indians asked which pioneers the buffalo had,reversal,reversed,pioneers,buffalo,killed,implausible
+266,LE,187,The Indians asked which buffalo the pioneers had trampled during the stampede.,The Indians asked which buffalo the pioneers had,alternative,alt_reversed,buffalo,pioneers,trampled,implausible
+267,LE,187,The Indians asked which pioneers the buffalo had trampled during the stampede.,The Indians asked which pioneers the buffalo had,alternative,alt_canonical,pioneers,buffalo,trampled,plausible
+268,LE,128,The historian documented which prince the assassin had killed at the masquerade ball.,The historian documented which prince the assassin had,reversal,canonical,prince,assassin,killed,plausible
+269,LE,128,The historian documented which assassin the prince had killed at the masquerade ball.,The historian documented which assassin the prince had,reversal,reversed,assassin,prince,killed,implausible
+270,LE,188,The historian documented which prince the assassin had avoided on the battlefield.,The historian documented which prince the assassin had,alternative,alt_reversed,prince,assassin,avoided,implausible
+271,LE,188,The historian documented which assassin the prince had avoided on the battlefield.,The historian documented which assassin the prince had,alternative,alt_canonical,assassin,prince,avoided,plausible
+272,LE,129,The naturalist observed which predators the deer had avoided in the woods.,The naturalist observed which predators the deer had,reversal,canonical,predators,deer,avoided,plausible
+273,LE,129,The naturalist observed which deer the predators had avoided in the woods.,The naturalist observed which deer the predators had,reversal,reversed,deer,predators,avoided,implausible
+274,LE,189,The naturalist observed which predators the deer had hunted through the woods.,The naturalist observed which predators the deer had,alternative,alt_reversed,predators,deer,hunted,implausible
+275,LE,189,The naturalist observed which deer the predators had hunted through the woods.,The naturalist observed which deer the predators had,alternative,alt_canonical,deer,predators,hunted,plausible
+276,LE,130,The nanny knew which housekeeper the billionaire had hired at a high salary.,The nanny knew which housekeeper the billionaire had,reversal,canonical,housekeeper,billionaire,hired,plausible
+277,LE,130,The nanny knew which billionaire the housekeeper had hired at a high salary.,The nanny knew which billionaire the housekeeper had,reversal,reversed,billionaire,housekeeper,hired,implausible
+278,LE,190,The nanny knew which housekeeper the billionaire had worked for for many years.,The nanny knew which housekeeper the billionaire had,alternative,alt_reversed,housekeeper,billionaire,worked for,implausible
+279,LE,190,The nanny knew which billionaire the housekeeper had worked for for many years.,The nanny knew which billionaire the housekeeper had,alternative,alt_canonical,billionaire,housekeeper,worked for,plausible
+280,LE,131,The park ranger documented which elephant the poacher had killed in the national park.,The park ranger documented which elephant the poacher had,reversal,canonical,elephant,poacher,killed,plausible
+281,LE,131,The park ranger documented which poacher the tiger had killed in the national park.,The park ranger documented which poacher the tiger had,reversal,reversed,poacher,tiger,killed,implausible
+282,LE,191,The park ranger documented which tiger the poacher had mauled in the national park.,The park ranger documented which tiger the poacher had,alternative,alt_reversed,tiger,poacher,mauled,implausible
+283,LE,191,The park ranger documented which poacher the elephant had mauled in the national park.,The park ranger documented which poacher the elephant had,alternative,alt_canonical,poacher,elephant,mauled,plausible
+284,LE,132,The restaurant owner forgot which customer the waitress had served at brunch that morning.,The restaurant owner forgot which customer the waitress had,reversal,canonical,customer,waitress,served,plausible
+285,LE,132,The restaurant owner forgot which waitress the customer had served at brunch that morning.,The restaurant owner forgot which waitress the customer had,reversal,reversed,waitress,customer,served,implausible
+286,LE,192,The restaurant owner forgot which customer the waitress had tipped at brunch that morning.,The restaurant owner forgot which customer the waitress had,alternative,alt_reversed,customer,waitress,tipped,implausible
+287,LE,192,The restaurant owner forgot which waitress the customer had tipped at brunch that morning.,The restaurant owner forgot which waitress the customer had,alternative,alt_canonical,waitress,customer,tipped,plausible
+288,LE,133,The art historian researched which model the artist had painted with delicate watercolors.,The art historian researched which model the artist had,reversal,canonical,model,artist,painted,plausible
+289,LE,133,The art historian researched which artist the model had painted with delicate watercolors.,The art historian researched which artist the model had,reversal,reversed,artist,model,painted,implausible
+290,LE,193,The art historian researched which model the artist had posed for in the studio.,The art historian researched which model the artist had,alternative,alt_reversed,model,artist,posed for,implausible
+291,LE,193,The art historian researched which artist the model had posed for in the studio.,The art historian researched which artist the model had,alternative,alt_canonical,artist,model,posed for,plausible
+292,LE,134,The mafia boss knew which policeman the mobster had bribed with a suitcase of money.,The mafia boss knew which policeman the mobster had,reversal,canonical,policeman,mobster,bribed,plausible
+293,LE,134,The mafia boss knew which mobster the policeman had bribed with a suitcase of money.,The mafia boss knew which mobster the policeman had,reversal,reversed,mobster,policeman,bribed,implausible
+294,LE,194,The mafia boss knew which policeman the mobster had arrested on false charges.,The mafia boss knew which policeman the mobster had,alternative,alt_reversed,policeman,mobster,arrested,implausible
+295,LE,194,The mafia boss knew which mobster the policeman had arrested on false charges.,The mafia boss knew which mobster the policeman had,alternative,alt_canonical,mobster,policeman,arrested,plausible
+296,LE,135,The scholar wondered which king the jester had entertained at the royal feast.,The scholar wondered which king the jester had,reversal,canonical,king,jester,entertained,plausible
+297,LE,135,The scholar wondered which jester the king had entertained at the royal feast.,The scholar wondered which jester the king had,reversal,reversed,jester,king,entertained,implausible
+298,LE,195,The scholar wondered which king the jester had hired for the royal feast.,The scholar wondered which king the jester had,alternative,alt_reversed,king,jester,hired,implausible
+299,LE,195,The scholar wondered which jester the king had hired for the royal feast.,The scholar wondered which jester the king had,alternative,alt_canonical,jester,king,hired,plausible
+300,LE,136,The sports doctor recalled which player the physical therapist had treated after the soccer game.,The sports doctor recalled which player the physical therapist had,reversal,canonical,player,physical therapist,treated,plausible
+301,LE,136,The sports doctor recalled which physical therapist the player had treated after the soccer game.,The sports doctor recalled which physical therapist the player had,reversal,reversed,physical therapist,player,treated,implausible
+302,LE,196,The sports doctor recalled which player the physical therapist had seen after the soccer game.,The sports doctor recalled which player the physical therapist had,alternative,alt_reversed,player,physical therapist,seen,implausible
+303,LE,196,The sports doctor recalled which physical therapist the player had seen after the soccer game.,The sports doctor recalled which physical therapist the player had,alternative,alt_canonical,physical therapist,player,seen,plausible
+304,LE,137,The barkeeper explained which regulars the barmaid had served on Thursday night.,The barkeeper explained which regulars the barmaid had,reversal,canonical,regulars,barmaid,served,plausible
+305,LE,137,The barkeeper explained which barmaid the regulars had served on Thursday night.,The barkeeper explained which barmaid the regulars had,reversal,reversed,barmaid,regulars,served,implausible
+306,LE,197,The barkeeper explained which regulars the barmaid had tipped for excellent service.,The barkeeper explained which regulars the barmaid had,alternative,alt_reversed,regulars,barmaid,tipped,implausible
+307,LE,197,The barkeeper explained which barmaid the regulars had tipped for excellent service.,The barkeeper explained which barmaid the regulars had,alternative,alt_canonical,barmaid,regulars,tipped,plausible
+308,LE,138,The assistant guessed which skeptic the magician had convinced during a riveting performance.,The assistant guessed which skeptic the magician had,reversal,canonical,skeptic,magician,convinced,plausible
+309,LE,138,The assistant guessed which magician the skeptic had convinced during a riveting performance.,The assistant guessed which magician the skeptic had,reversal,reversed,magician,skeptic,convinced,implausible
+310,LE,198,The assistant guessed which skeptic the magician had exposed as a fraud.,The assistant guessed which skeptic the magician had,alternative,alt_reversed,skeptic,magician,exposed,implausible
+311,LE,198,The assistant guessed which magician the skeptic had exposed as a fraud.,The assistant guessed which magician the skeptic had,alternative,alt_canonical,magician,skeptic,exposed,plausible
+312,LE,139,The farmer's wife heard which chicken the farmhand had killed outside the coop.,The farmer's wife heard which chicken the farmhand had,reversal,canonical,chicken,farmhand,killed,plausible
+313,LE,139,The farmer's wife heard which farmhand the chicken had killed outside the coop.,The farmer's wife heard which farmhand the chicken had,reversal,reversed,farmhand,chicken,killed,implausible
+314,LE,199,The farmer's wife heard which chicken the farmhand had pecked outside the coop.,The farmer's wife heard which chicken the farmhand had,alternative,alt_reversed,chicken,farmhand,pecked,implausible
+315,LE,199,The farmer's wife heard which farmhand the chicken had pecked outside the coop.,The farmer's wife heard which farmhand the chicken had,alternative,alt_canonical,farmhand,chicken,pecked,plausible
+316,LE,140,The UFOlogist knew which astronaut the alien had abducted from the spaceship.,The UFOlogist knew which astronaut the alien had,reversal,canonical,astronaut,alien,abducted,plausible
+317,LE,140,The UFOlogist knew which alien the astronaut had abducted from the spaceship.,The UFOlogist knew which alien the astronaut had,reversal,reversed,alien,astronaut,abducted,implausible
+318,LE,200,The UFOlogist knew which astronaut the alien had seen on the ice planet.,The UFOlogist knew which astronaut the alien had,alternative,alt_reversed,astronaut,alien,seen,implausible
+319,LE,200,The UFOlogist knew which alien the astronaut had seen on the ice planet.,The UFOlogist knew which alien the astronaut had,alternative,alt_canonical,alien,astronaut,seen,plausible
+320,LE,141,The priest recorded which cannibal the missionary had converted in the remote territories.,The priest recorded which cannibal the missionary had,reversal,canonical,cannibal,missionary,converted,plausible
+321,LE,141,The priest recorded which missionary the cannibal had converted in the remote territories.,The priest recorded which missionary the cannibal had,reversal,reversed,missionary,cannibal,converted,implausible
+322,LE,201,The priest recorded which cannibal the missionary had eaten for his dinner.,The priest recorded which cannibal the missionary had,alternative,alt_reversed,cannibal,missionary,eaten,implausible
+323,LE,201,The priest recorded which missionary the cannibal had eaten for his dinner.,The priest recorded which missionary the cannibal had,alternative,alt_canonical,missionary,cannibal,eaten,plausible
+324,LE,142,The forest ranger learned which hiker the bear had mauled on the mountain trail.,The forest ranger learned which hiker the bear had,reversal,canonical,hiker,bear,mauled,plausible
+325,LE,142,The forest ranger learned which bear the hiker had mauled on the mountain trail.,The forest ranger learned which bear the hiker had,reversal,reversed,bear,hiker,mauled,implausible
+326,LE,202,The forest ranger learned which hiker the bear had seen in the state park.,The forest ranger learned which hiker the bear had,alternative,alt_reversed,hiker,bear,seen,implausible
+327,LE,202,The forest ranger learned which bear the hiker had seen in the state park.,The forest ranger learned which bear the hiker had,alternative,alt_canonical,bear,hiker,seen,plausible
+328,LE,143,The thief saw which con artist the detective had arrested after a long investigation.,The thief saw which con artist the detective had,reversal,canonical,con artist,detective,arrested,plausible
+329,LE,143,The thief saw which detective the con artist had arrested after a long investigation.,The thief saw which detective the con artist had,reversal,reversed,detective,con artist,arrested,implausible
+330,LE,203,The thief saw which con artist the detective had tricked during the interrogation.,The thief saw which con artist the detective had,alternative,alt_reversed,con artist,detective,tricked,implausible
+331,LE,203,The thief saw which detective the con artist had tricked during the interrogation.,The thief saw which detective the con artist had,alternative,alt_canonical,detective,con artist,tricked,plausible
+332,LE,144,The news anchor explained which criminal the journalist had interviewed over the phone.,The news anchor explained which criminal the journalist had,reversal,canonical,criminal,journalist,interviewed,plausible
+333,LE,144,The news anchor explained which journalist the criminal had interviewed over the phone.,The news anchor explained which journalist the criminal had,reversal,reversed,journalist,criminal,interviewed,implausible
+334,LE,204,The news anchor explained which criminal the journalist had confessed to over the phone.,The news anchor explained which criminal the journalist had,alternative,alt_reversed,criminal,journalist,confessed to,implausible
+335,LE,204,The news anchor explained which journalist the criminal had confessed to over the phone.,The news anchor explained which journalist the criminal had,alternative,alt_canonical,journalist,criminal,confessed to,plausible
+336,LE,145,The detective recalled which thief the cop had arrested in the bank.,The detective recalled which thief the cop had,reversal,canonical,thief,cop,arrested,plausible
+337,LE,145,The detective recalled which cop the thief had arrested in the bank.,The detective recalled which cop the thief had,reversal,reversed,cop,thief,arrested,implausible
+338,LE,205,The detective recalled which thief the cop had run from during the arrest.,The detective recalled which thief the cop had,alternative,alt_reversed,thief,cop,run from,implausible
+339,LE,205,The detective recalled which cop the thief had run from during the arrest.,The detective recalled which cop the thief had,alternative,alt_canonical,cop,thief,run from,plausible
+340,LE,146,The policeman observed which old lady the thief had robbed at a street corner.,The policeman observed which old lady the thief had,reversal,canonical,old lady,thief,robbed,plausible
+341,LE,146,The policeman observed which thief the old lady had robbed at a street corner.,The policeman observed which thief the old lady had,reversal,reversed,thief,old lady,robbed,implausible
+342,LE,206,The policeman observed which old lady the thief had identified from the line-up.,The policeman observed which old lady the thief had,alternative,alt_reversed,old lady,thief,identified,implausible
+343,LE,206,The policeman observed which thief the old lady had identified from the line-up.,The policeman observed which thief the old lady had,alternative,alt_canonical,thief,old lady,identified,plausible
+344,LE,147,The cattle rancher remembered which bull the cowboy had ridden at the local rodeo.,The cattle rancher remembered which bull the cowboy had,reversal,canonical,bull,cowboy,ridden,plausible
+345,LE,147,The cattle rancher remembered which cowboy the bull had ridden at the local rodeo.,The cattle rancher remembered which cowboy the bull had,reversal,reversed,cowboy,bull,ridden,implausible
+346,LE,207,The cattle rancher remembered which bull the cowboy had gored out on the range.,The cattle rancher remembered which bull the cowboy had,alternative,alt_reversed,bull,cowboy,gored,implausible
+347,LE,207,The cattle rancher remembered which cowboy the bull had gored out on the range.,The cattle rancher remembered which cowboy the bull had,alternative,alt_canonical,cowboy,bull,gored,plausible
+348,LE,148,The immunization specialist confirmed which patient the nurse had vaccinated for virulent measles.,The immunization specialist confirmed which patient the nurse had,reversal,canonical,patient,nurse,vaccinated,plausible
+349,LE,148,The immunization specialist confirmed which nurse the patient had vaccinated for virulent measles.,The immunization specialist confirmed which nurse the patient had,reversal,reversed,nurse,patient,vaccinated,implausible
+350,LE,208,The immunization specialist confirmed which patient the nurse had seen for a vaccine.,The immunization specialist confirmed which patient the nurse had,alternative,alt_reversed,patient,nurse,seen,implausible
+351,LE,208,The immunization specialist confirmed which nurse the patient had seen for a vaccine.,The immunization specialist confirmed which nurse the patient had,alternative,alt_canonical,nurse,patient,seen,plausible
+352,LE,149,The naturalist described which chick the snake had eaten right out of the nest.,The naturalist described which chick the snake had,reversal,canonical,chick,snake,eaten,plausible
+353,LE,149,The naturalist described which snake the chick had eaten right out of the nest.,The naturalist described which snake the chick had,reversal,reversed,snake,chick,eaten,implausible
+354,LE,209,The naturalist described which chick the snake had run from through the forest.,The naturalist described which chick the snake had,alternative,alt_reversed,chick,snake,run from,implausible
+355,LE,209,The naturalist described which snake the chick had run from through the forest.,The naturalist described which snake the chick had,alternative,alt_canonical,snake,chick,run from,plausible
+356,LE,150,The doctor knew which insects the biologist had studied in the high tech lab.,The doctor knew which insects the biologist had,reversal,canonical,insects,biologist,studied,plausible
+357,LE,150,The doctor knew which biologist the insects had studied in the high tech lab.,The doctor knew which biologist the insects had,reversal,reversed,biologist,insects,studied,implausible
+358,LE,210,The doctor knew which insects the biologist had bitten in the high tech lab.,The doctor knew which insects the biologist had,alternative,alt_reversed,insects,biologist,bitten,implausible
+359,LE,210,The doctor knew which biologist the insects had bitten in the high tech lab.,The doctor knew which biologist the insects had,alternative,alt_canonical,biologist,insects,bitten,plausible
+360,LE,151,The veteran forgot which war hero the president had honored at the grand ceremony.,The veteran forgot which war hero the president had,reversal,canonical,hero,president,honored,plausible
+361,LE,151,The veteran forgot which president the war hero had honored at the grand ceremony.,The veteran forgot which president the war hero had,reversal,reversed,president,hero,honored,implausible
+362,LE,211,The veteran forgot which war hero the president had served many years ago.,The veteran forgot which war hero the president had,alternative,alt_reversed,hero,president,served,implausible
+363,LE,211,The veteran forgot which president the war hero had served many years ago.,The veteran forgot which president the war hero had,alternative,alt_canonical,president,hero,served,plausible
+364,LE,152,The police detective described which bank teller the robber had threatened with a revolver.,The police detective described which bank teller the robber had,reversal,canonical,bank teller,robber,threatened,plausible
+365,LE,152,The police detective described which robber the bank teller had threatened with a revolver.,The police detective described which robber the bank teller had,reversal,reversed,robber,bank teller,threatened,implausible
+366,LE,212,The police detective described which bank teller the robber had identified after the hold-up.,The police detective described which bank teller the robber had,alternative,alt_reversed,bank teller,robber,identified,implausible
+367,LE,212,The police detective described which robber the bank teller had identified after the hold-up.,The police detective described which robber the bank teller had,alternative,alt_canonical,robber,bank teller,identified,plausible
+368,LE,153,The circus owner recalled which lion the animal trainer had trained for many years.,The circus owner recalled which lion the animal trainer had,reversal,canonical,lion,animal trainer,trained,plausible
+369,LE,153,The circus owner recalled which animal trainer the lion had trained for many years.,The circus owner recalled which animal trainer the lion had,reversal,reversed,animal trainer,lion,trained,implausible
+370,LE,213,The circus owner recalled which lion the animal trainer had mauled in the middle of the performance.,The circus owner recalled which lion the animal trainer had,alternative,alt_reversed,lion,animal trainer,mauled,implausible
+371,LE,213,The circus owner recalled which animal trainer the lion had mauled in the middle of the performance.,The circus owner recalled which animal trainer the lion had,alternative,alt_canonical,animal trainer,lion,mauled,plausible
+372,LE,154,The lab manager remembered which virus the researcher had studied under the microscope.,The lab manager remembered which virus the researcher had,reversal,canonical,virus,researcher,studied,plausible
+373,LE,154,The lab manager remembered which researcher the virus had studied under the microscope.,The lab manager remembered which researcher the virus had,reversal,reversed,researcher,virus,studied,implausible
+374,LE,214,The lab manager remembered which virus the researcher had infected after the vial broke.,The lab manager remembered which virus the researcher had,alternative,alt_reversed,virus,researcher,infected,implausible
+375,LE,214,The lab manager remembered which researcher the virus had infected after the vial broke.,The lab manager remembered which researcher the virus had,alternative,alt_canonical,researcher,virus,infected,plausible
+376,LE,155,The store manager noted which elderly man the IT technician had helped with software issues.,The store manager noted which elderly man the IT technician had,reversal,canonical,elderly man,IT technician,helped,plausible
+377,LE,155,The store manager noted which IT technician the elderly man had helped with software issues.,The store manager noted which IT technician the elderly man had,reversal,reversed,IT technician,elderly man,helped,implausible
+378,LE,215,The store manager noted which elderly man the IT technician had asked for earlier that day.,The store manager noted which elderly man the IT technician had,alternative,alt_reversed,elderly man,IT technician,asked for,implausible
+379,LE,215,The store manager noted which IT technician the elderly man had asked for earlier that day.,The store manager noted which IT technician the elderly man had,alternative,alt_canonical,IT technician,elderly man,asked for,plausible
+380,LE,156,The villain knew which victim the superhero had saved from the burning building.,The villain knew which victim the superhero had,reversal,canonical,victim,superhero,saved,plausible
+381,LE,156,The villain knew which superhero the victim had saved from the burning building.,The villain knew which superhero the victim had,reversal,reversed,superhero,victim,saved,implausible
+382,LE,216,The villain knew which victim the superhero had called during the emergency.,The villain knew which victim the superhero had,alternative,alt_reversed,victim,superhero,called,implausible
+383,LE,216,The villain knew which superhero the victim had called during the emergency.,The villain knew which superhero the victim had,alternative,alt_canonical,superhero,victim,called,plausible
+384,LE,157,The foreign correspondent recalled which politician the interpreter had translated for in the press conference.,The foreign correspondent recalled which politician the interpreter had,reversal,canonical,politician,interpreter,translated for,plausible
+385,LE,157,The foreign correspondent recalled which interpreter the politician had translated for in the press conference.,The foreign correspondent recalled which interpreter the politician had,reversal,reversed,interpreter,politician,translated for,implausible
+386,LE,217,The foreign correspondent recalled which politician the interpreter had used in the press conference.,The foreign correspondent recalled which politician the interpreter had,alternative,alt_reversed,politician,interpreter,used,implausible
+387,LE,217,The foreign correspondent recalled which interpreter the politician had used in the press conference.,The foreign correspondent recalled which interpreter the politician had,alternative,alt_canonical,interpreter,politician,used,plausible
+388,LE,158,The cybersecurity expert explained which hacker the government had arrested in the middle of the night.,The cybersecurity expert explained which hacker the government had,reversal,canonical,hacker,government,arrested,plausible
+389,LE,158,The cybersecurity expert explained which government the hacker had arrested in the middle of the night.,The cybersecurity expert explained which government the hacker had,reversal,reversed,government,hacker,arrested,implausible
+390,LE,218,The cybersecurity expert explained which hacker the government had infiltrated in the middle of the night.,The cybersecurity expert explained which hacker the government had,alternative,alt_reversed,hacker,government,infiltrated,implausible
+391,LE,218,The cybersecurity expert explained which government the hacker had infiltrated in the middle of the night.,The cybersecurity expert explained which government the hacker had,alternative,alt_canonical,government,hacker,infiltrated,plausible
+392,LE,159,The believer wondered which prophet the gods had chosen in the ancient days.,The believer wondered which prophet the gods had,reversal,canonical,prophet,gods,chosen,plausible
+393,LE,159,The believer wondered which gods the prophet had chosen in the ancient days.,The believer wondered which gods the prophet had,reversal,reversed,gods,prophet,chosen,implausible
+394,LE,219,The believer wondered which prophet the gods had worshipped in the ancient days.,The believer wondered which prophet the gods had,alternative,alt_reversed,prophet,gods,worshipped,implausible
+395,LE,219,The believer wondered which gods the prophet had worshipped in the ancient days.,The believer wondered which gods the prophet had,alternative,alt_canonical,gods,prophet,worshipped,plausible
+396,LE,160,The housewife knew which dog the cat had scratched across the nose.,The housewife knew which dog the cat had,reversal,canonical,dog,cat,scratched,plausible
+397,LE,160,The housewife knew which cat the dog had scratched across the nose.,The housewife knew which cat the dog had,reversal,reversed,cat,dog,scratched,implausible
+398,LE,220,The housewife knew which dog the cat had chased around the tree.,The housewife knew which dog the cat had,alternative,alt_reversed,dog,cat,chased,implausible
+399,LE,220,The housewife knew which cat the dog had chased around the tree.,The housewife knew which cat the dog had,alternative,alt_canonical,cat,dog,chased,plausible
+400,LE,161,The missionary mentioned which sinners the priest had forgiven during the service.,The missionary mentioned which sinners the priest had,reversal,canonical,sinners,priest,forgiven,plausible
+401,LE,161,The missionary mentioned which priest the sinners had forgiven during the service.,The missionary mentioned which priest the sinners had,reversal,reversed,priest,sinners,forgiven,implausible
+402,LE,221,The missionary mentioned which sinners the priest had confessed to during the service.,The missionary mentioned which sinners the priest had,alternative,alt_reversed,sinners,priest,confessed to,implausible
+403,LE,221,The missionary mentioned which priest the sinners had confessed to during the service.,The missionary mentioned which priest the sinners had,alternative,alt_canonical,priest,sinners,confessed to,plausible
+404,LE,162,The mother watched which swans the child had fed at the pond.,The mother watched which swans the child had,reversal,canonical,swans,child,fed,plausible
+405,LE,162,The mother watched which child the swans had fed at the pond.,The mother watched which child the swans had,reversal,reversed,child,swans,fed,implausible
+406,LE,222,The mother watched which swans the child had swum to at the pond.,The mother watched which swans the child had,alternative,alt_reversed,swans,child,swum to,implausible
+407,LE,222,The mother watched which child the swans had swum to at the pond.,The mother watched which child the swans had,alternative,alt_canonical,child,swans,swum to,plausible
+408,LE,163,The biologist recorded which mouse the owl had eaten after the drought.,The biologist recorded which mouse the owl had,reversal,canonical,mouse,owl,eaten,plausible
+409,LE,163,The biologist recorded which owl the mouse had eaten after the drought.,The biologist recorded which owl the mouse had,reversal,reversed,owl,mouse,eaten,implausible
+410,LE,223,The biologist recorded which mouse the owl had avoided after the drought.,The biologist recorded which mouse the owl had,alternative,alt_reversed,mouse,owl,avoided,implausible
+411,LE,223,The biologist recorded which owl the mouse had avoided after the drought.,The biologist recorded which owl the mouse had,alternative,alt_canonical,owl,mouse,avoided,plausible
+412,LE,164,The riding instructor remembered which pony the girl had ridden for the first time.,The riding instructor remembered which pony the girl had,reversal,canonical,pony,girl,ridden,plausible
+413,LE,164,The riding instructor remembered which girl the pony had ridden for the first time.,The riding instructor remembered which girl the pony had,reversal,reversed,girl,pony,ridden,implausible
+414,LE,224,The riding instructor remembered which pony the girl had thrown off for the first time.,The riding instructor remembered which pony the girl had,alternative,alt_reversed,pony,girl,thrown off,implausible
+415,LE,224,The riding instructor remembered which girl the pony had thrown off for the first time.,The riding instructor remembered which girl the pony had,alternative,alt_canonical,girl,pony,thrown off,plausible
+416,LE,165,The board of trustees noted which fraudster the tax agent had caught during the audit.,The board of trustees noted which fraudster the tax agent had,reversal,canonical,fraudster,tax agent,caught,plausible
+417,LE,165,The board of trustees noted which tax agent the fraudster had caught during the audit.,The board of trustees noted which tax agent the fraudster had,reversal,reversed,tax agent,fraudster,caught,implausible
+418,LE,225,The board of trustees noted which fraudster the tax agent had swindled during the audit.,The board of trustees noted which fraudster the tax agent had,alternative,alt_reversed,fraudster,tax agent,swindled,implausible
+419,LE,225,The board of trustees noted which tax agent the fraudster had swindled during the audit.,The board of trustees noted which tax agent the fraudster had,alternative,alt_canonical,tax agent,fraudster,swindled,plausible
+420,LE,166,The game show host recalled which cheater the judge had disqualified in the final round.,The game show host recalled which cheater the judge had,reversal,canonical,cheater,judge,disqualified,plausible
+421,LE,166,The game show host recalled which judge the cheater had disqualified in the final round.,The game show host recalled which judge the cheater had,reversal,reversed,judge,cheater,disqualified,implausible
+422,LE,226,The game show host recalled which cheater the judge had bribed before the show.,The game show host recalled which cheater the judge had,alternative,alt_reversed,cheater,judge,bribed,implausible
+423,LE,226,The game show host recalled which judge the cheater had bribed before the show.,The game show host recalled which judge the cheater had,alternative,alt_canonical,judge,cheater,bribed,plausible
+424,LE,167,The historian researched which traitor the king had executed during the uprising.,The historian researched which traitor the king had,reversal,canonical,traitor,king,executed,plausible
+425,LE,167,The historian researched which king the traitor had executed during the uprising.,The historian researched which king the traitor had,reversal,reversed,king,traitor,executed,implausible
+426,LE,227,The historian researched which traitor the king had betrayed during the uprising.,The historian researched which traitor the king had,alternative,alt_reversed,traitor,king,betrayed,implausible
+427,LE,227,The historian researched which king the traitor had betrayed during the uprising.,The historian researched which king the traitor had,alternative,alt_canonical,king,traitor,betrayed,plausible
+428,LE,168,The psychic understood which teenagers the ghost had haunted in the abandoned mansion.,The psychic understood which teenagers the ghost had,reversal,canonical,teenagers,ghost,haunted,plausible
+429,LE,168,The psychic understood which ghost the teenagers had haunted in the abandoned mansion.,The psychic understood which ghost the teenagers had,reversal,reversed,ghost,teenagers,haunted,implausible
+430,LE,228,The psychic understood which teenagers the ghost had seen in the abandoned mansion.,The psychic understood which teenagers the ghost had,alternative,alt_reversed,teenagers,ghost,seen,implausible
+431,LE,228,The psychic understood which ghost the teenagers had seen in the abandoned mansion.,The psychic understood which ghost the teenagers had,alternative,alt_canonical,ghost,teenagers,seen,plausible
+432,LE,169,The trapper heard which buck the hunter had shot in the forest.,The trapper heard which buck the hunter had,reversal,canonical,buck,hunter,shot,plausible
+433,LE,169,The trapper heard which hunter the buck had shot in the forest.,The trapper heard which hunter the buck had,reversal,reversed,hunter,buck,shot,implausible
+434,LE,229,The trapper heard which buck the hunter had run from in the forest.,The trapper heard which buck the hunter had,alternative,alt_reversed,buck,hunter,run from,implausible
+435,LE,229,The trapper heard which hunter the buck had run from in the forest.,The trapper heard which hunter the buck had,alternative,alt_canonical,hunter,buck,run from,plausible
+436,LE,170,The naturalist observed which snake the scorpion had stung in the desert cave.,The naturalist observed which snake the scorpion had,reversal,canonical,snake,scorpion,stung,plausible
+437,LE,170,The naturalist observed which scorpion the snake had stung in the desert cave.,The naturalist observed which scorpion the snake had,reversal,reversed,scorpion,snake,stung,implausible
+438,LE,230,The naturalist observed which snake the scorpion had eaten in the desert cave.,The naturalist observed which snake the scorpion had,alternative,alt_reversed,snake,scorpion,eaten,implausible
+439,LE,230,The naturalist observed which scorpion the snake had eaten in the desert cave.,The naturalist observed which scorpion the snake had,alternative,alt_canonical,scorpion,snake,eaten,plausible
+440,LE,171,The foreign correspondent reported which dictator the activist had protested outside the capitol building.,The foreign correspondent reported which dictator the activist had,reversal,canonical,dictator,activist,protested,plausible
+441,LE,171,The foreign correspondent reported which activist the dictator had protested outside the capitol building.,The foreign correspondent reported which activist the dictator had,reversal,reversed,activist,dictator,protested,implausible
+442,LE,231,The foreign correspondent reported which dictator the activist had imprisoned for thirty years.,The foreign correspondent reported which dictator the activist had,alternative,alt_reversed,dictator,activist,imprisoned,implausible
+443,LE,231,The foreign correspondent reported which activist the dictator had imprisoned for thirty years.,The foreign correspondent reported which activist the dictator had,alternative,alt_canonical,activist,dictator,imprisoned,plausible
+444,LE,172,The bartender saw which teenager the bouncer had thrown out from the crowded club.,The bartender saw which teenager the bouncer had,reversal,canonical,teenager,bouncer,thrown out,plausible
+445,LE,172,The bartender saw which bouncer the teenager had thrown out from the crowded club.,The bartender saw which bouncer the teenager had,reversal,reversed,bouncer,teenager,thrown out,implausible
+446,LE,232,The bartender saw which teenager the bouncer had bribed at the entrance.,The bartender saw which teenager the bouncer had,alternative,alt_reversed,teenager,bouncer,bribed,implausible
+447,LE,232,The bartender saw which bouncer the teenager had bribed at the entrance.,The bartender saw which bouncer the teenager had,alternative,alt_canonical,bouncer,teenager,bribed,plausible
+448,LE,173,The highway patrolman confirmed which elderly woman the hitchhiker had robbed on the side of the road.,The highway patrolman confirmed which elderly woman the hitchhiker had,reversal,canonical,woman,hitchhiker,robbed,plausible
+449,LE,173,The highway patrolman confirmed which hitchhiker the elderly woman had robbed on the side of the road.,The highway patrolman confirmed which hitchhiker the elderly woman had,reversal,reversed,hitchhiker,woman,robbed,implausible
+450,LE,233,The highway patrolman confirmed which elderly woman the hitchhiker had hit on the side of the road.,The highway patrolman confirmed which elderly woman the hitchhiker had,alternative,alt_reversed,woman,hitchhiker,hit,implausible
+451,LE,233,The highway patrolman confirmed which hitchhiker the elderly woman had hit on the side of the road.,The highway patrolman confirmed which hitchhiker the elderly woman had,alternative,alt_canonical,hitchhiker,woman,hit,plausible
+452,LE,174,The shepherd forgot which sheep the wolf had eaten from the flock.,The shepherd forgot which sheep the wolf had,reversal,canonical,sheep,wolf,eaten,plausible
+453,LE,174,The shepherd forgot which wolf the sheep had eaten from the flock.,The shepherd forgot which wolf the sheep had,reversal,reversed,wolf,sheep,eaten,implausible
+454,LE,234,The shepherd forgot which sheep the wolf had butted away from the flock.,The shepherd forgot which sheep the wolf had,alternative,alt_reversed,sheep,wolf,butted,implausible
+455,LE,234,The shepherd forgot which wolf the sheep had butted away from the flock.,The shepherd forgot which wolf the sheep had,alternative,alt_canonical,wolf,sheep,butted,plausible
+456,LE,175,The stable boy remembered which mule the trader had sold at the busy market.,The stable boy remembered which mule the trader had,reversal,canonical,mule,trader,sold,plausible
+457,LE,175,The stable boy remembered which trader the mule had sold at the busy market.,The stable boy remembered which trader the mule had,reversal,reversed,trader,mule,sold,implausible
+458,LE,235,The stable boy remembered which mule the trader had kicked at the busy market.,The stable boy remembered which mule the trader had,alternative,alt_reversed,mule,trader,kicked,implausible
+459,LE,235,The stable boy remembered which trader the mule had kicked at the busy market.,The stable boy remembered which trader the mule had,alternative,alt_canonical,trader,mule,kicked,plausible
+460,LE,176,The insect collector observed which spider the bee had stung in the garden.,The insect collector observed which spider the bee had,reversal,canonical,spider,bee,stung,plausible
+461,LE,176,The insect collector observed which bee the spider had stung in the garden.,The insect collector observed which bee the spider had,reversal,reversed,bee,spider,stung,implausible
+462,LE,236,The insect collector observed which spider the bee had trapped in the web.,The insect collector observed which spider the bee had,alternative,alt_reversed,spider,bee,trapped,implausible
+463,LE,236,The insect collector observed which bee the spider had trapped in the web.,The insect collector observed which bee the spider had,alternative,alt_canonical,bee,spider,trapped,plausible
+464,LE,177,The aquarium owner knew which orca the animal rights activist had freed in the middle of the night.,The aquarium owner knew which orca the animal rights activist had,reversal,canonical,animal,activist,freed,plausible
+465,LE,177,The aquarium owner knew which animal rights activist the orca had freed in the middle of the night.,The aquarium owner knew which animal rights activist the orca had,reversal,reversed,activist,orca,freed,implausible
+466,LE,237,The aquarium owner knew which orca the animal rights activist had befriended after many visits.,The aquarium owner knew which orca the animal rights activist had,alternative,alt_reversed,animal,activist,befriended,implausible
+467,LE,237,The aquarium owner knew which animal rights activist the orca had befriended after many visits.,The aquarium owner knew which animal rights activist the orca had,alternative,alt_canonical,activist,orca,befriended,plausible
+468,LE,178,The principal recorded which stoner the snitch had reported during an assembly.,The principal recorded which stoner the snitch had,reversal,canonical,stoner,snitch,reported,plausible
+469,LE,178,The principal recorded which snitch the stoner had reported during an assembly.,The principal recorded which snitch the stoner had,reversal,reversed,snitch,stoner,reported,implausible
+470,LE,238,The principal recorded which stoner the snitch had beaten up in the locker room.,The principal recorded which stoner the snitch had,alternative,alt_reversed,stoner,snitch,beaten up,implausible
+471,LE,238,The principal recorded which snitch the stoner had beaten up in the locker room.,The principal recorded which snitch the stoner had,alternative,alt_canonical,snitch,stoner,beaten up,plausible
+472,LE,179,The butler remembered which chauffeur the millionaire had hired the previous week.,The butler remembered which chauffeur the millionaire had,reversal,canonical,chauffeur,millionaire,hired,plausible
+473,LE,179,The butler remembered which millionaire the chauffeur had hired the previous week.,The butler remembered which millionaire the chauffeur had,reversal,reversed,millionaire,chauffeur,hired,implausible
+474,LE,239,The butler remembered which chauffeur the millionaire had driven the previous week.,The butler remembered which chauffeur the millionaire had,alternative,alt_reversed,chauffeur,millionaire,driven,implausible
+475,LE,239,The butler remembered which millionaire the chauffeur had driven the previous week.,The butler remembered which millionaire the chauffeur had,alternative,alt_canonical,millionaire,chauffeur,driven,plausible
+476,LE,180,The farmhand observed which cow the farmer had milked in the big red barn.,The farmhand observed which cow the farmer had,reversal,canonical,cow,farmer,milked,plausible
+477,LE,180,The farmhand observed which farmer the cow had milked in the big red barn.,The farmhand observed which farmer the cow had,reversal,reversed,farmer,cow,milked,implausible
+478,LE,240,The farmhand observed which cow the farmer had kicked in the big red barn.,The farmhand observed which cow the farmer had,alternative,alt_reversed,cow,farmer,kicked,implausible
+479,LE,240,The farmhand observed which farmer the cow had kicked in the big red barn.,The farmhand observed which farmer the cow had,alternative,alt_canonical,farmer,cow,kicked,plausible
+480,KO,241,The murder had been witnessing by the three bystanders.,The murder had been,reversal,reversed,,,witnessing,implausible
+481,KO,241,The murder had been witnessed in the dark.,The murder had been,reversal,canonical,,,witnessed,plausible
+482,KO,337,The bystanders had been witnessing the crime.,The bystanders had been,control,high-cloze,,,witnessing,plausible
+483,KO,337,The unpleasant cough syrup was witnessing in the dark.,The unpleasant cough syrup was,control,low-cloze,,,witnessing,implausible
+484,KO,242,Patty's overgrown lawn was mowing the boy next door.,Patty's overgrown lawn was,reversal,reversed,,,mowing,implausible
+485,KO,242,Patty's overgrown lawn was mowed only last week.,Patty's overgrown lawn was,reversal,canonical,,,mowed,plausible
+486,KO,338,Patty's teenage son was mowing the lawn.,Patty's teenage son was,control,high-cloze,,,mowing,plausible
+487,KO,338,All of her money had been mowing the grass.,All of her money had been,control,low-cloze,,,mowing,implausible
+488,KO,243,Three more martinis were ordering by Laurie's sister.,Three more martinis were,reversal,reversed,,,ordering,implausible
+489,KO,243,Three more martinis were ordered repeatedly.,Three more martinis were,reversal,canonical,,,ordered,plausible
+490,KO,339,"The regular customers were ordering quiche, as usual.",The regular customers were,control,high-cloze,,,ordering,plausible
+491,KO,339,The rough part of the wood was ordering late.,The rough part of the wood was,control,low-cloze,,,ordering,implausible
+492,KO,244,The quality of Karla's work was evaluating frequently.,The quality of Karla's work was,reversal,reversed,,,evaluating,implausible
+493,KO,244,The quality of Karla's work was evaluated frequently.,The quality of Karla's work was,reversal,canonical,,,evaluated,plausible
+494,KO,340,The engineers were evaluating the success of the new device.,The engineers were,control,high-cloze,,,evaluating,plausible
+495,KO,340,The old lady's purse had been evaluating Nelson's idea.,The old lady's purse had been,control,low-cloze,,,evaluating,implausible
+496,KO,245,The legal contract had been signing falsely.,The legal contract had been,reversal,reversed,,,signing,implausible
+497,KO,245,The legal contract had been signed by the family.,The legal contract had been,reversal,canonical,,,signed,plausible
+498,KO,341,The state's governor had been signing new legislation.,The state's governor had been,control,high-cloze,,,signing,plausible
+499,KO,341,An appointment was signing falsely.,An appointment was,control,low-cloze,,,signing,implausible
+500,KO,246,The vocabulary list was memorizing well.,The vocabulary list was,reversal,reversed,,,memorizing,implausible
+501,KO,246,The vocabulary list was memorized well.,The vocabulary list was,reversal,canonical,,,memorized,plausible
+502,KO,342,The medical students were memorizing sample exam questions all night.,The medical students were,control,high-cloze,,,memorizing,plausible
+503,KO,342,The simple coffin was memorizing the lines of the poem.,The simple coffin was,control,low-cloze,,,memorizing,implausible
+504,KO,247,The firewood had been chopping poorly.,The firewood had been,reversal,reversed,,,chopping,implausible
+505,KO,247,The firewood had been chopped by Jen's grandfather.,The firewood had been,reversal,canonical,,,chopped,plausible
+506,KO,343,Jen's grandfather had been chopping the firewood.,Jen's grandfather had been,control,high-cloze,,,chopping,plausible
+507,KO,343,Mark's wrinkly shirts were chopping vegetables.,Mark's wrinkly shirts were,control,low-cloze,,,chopping,implausible
+508,KO,248,Lisa's phone had been disconnecting last month.,Lisa's phone had been,reversal,reversed,,,disconnecting,implausible
+509,KO,248,Lisa's phone had been disconnected last month.,Lisa's phone had been,reversal,canonical,,,disconnected,plausible
+510,KO,344,The electrician had been disconnecting the machine's power source.,The electrician had been,control,high-cloze,,,disconnecting,plausible
+511,KO,344,Mother Theresa's death was disconnecting the two cables.,Mother Theresa's death was,control,low-cloze,,,disconnecting,implausible
+512,KO,249,Wendy's muddy car was washing the boys.,Wendy's muddy car was,reversal,reversed,,,washing,implausible
+513,KO,249,Wendy's muddy car was washed wearily.,Wendy's muddy car was,reversal,canonical,,,washed,plausible
+514,KO,345,Wendy and Harriet were washing the muddy car.,Wendy and Harriet were,control,high-cloze,,,washing,plausible
+515,KO,345,Frank's loan application had been washing the used pencil.,Frank's loan application had been,control,low-cloze,,,washing,implausible
+516,KO,250,The library books had been borrowing the graduate student.,The library books had been,reversal,reversed,,,borrowing,implausible
+517,KO,250,The library books had been borrowed by the graduate student.,The library books had been,reversal,canonical,,,borrowed,plausible
+518,KO,346,Katie and Lara had been borrowing dozens of books about botany from the library.,Katie and Lara had been,control,high-cloze,,,borrowing,plausible
+519,KO,346,The tragic mistake was borrowing in a hurry.,The tragic mistake was,control,low-cloze,,,borrowing,implausible
+520,KO,251,"The dark, underwater cave was exploring by the divers.","The dark, underwater cave was",reversal,reversed,,,exploring,implausible
+521,KO,251,"The dark, underwater cave was explored by the divers.","The dark, underwater cave was",reversal,canonical,,,explored,plausible
+522,KO,347,The cautious scuba divers were exploring the underwater cave.,The cautious scuba divers were,control,high-cloze,,,exploring,plausible
+523,KO,347,The phone bill had been exploring at the zoo.,The phone bill had been,control,low-cloze,,,exploring,implausible
+524,KO,252,The unpleasant cough syrup was swallowing the boy.,The unpleasant cough syrup was,reversal,reversed,,,swallowing,implausible
+525,KO,252,The unpleasant cough syrup was swallowed by the boy.,The unpleasant cough syrup was,reversal,canonical,,,swallowed,plausible
+526,KO,348,The huge adult alligator had been swallowing fish by the bucket.,The huge adult alligator had been,control,high-cloze,,,swallowing,plausible
+527,KO,348,The murder had been swallowing with disgust.,The murder had been,control,low-cloze,,,swallowing,implausible
+528,KO,253,The pizza had been delivering once more.,The pizza had been,reversal,reversed,,,delivering,implausible
+529,KO,253,The pizza had been delivered by Antonio himself.,The pizza had been,reversal,canonical,,,delivered,plausible
+530,KO,349,The exhausted messenger had been delivering packages all over town.,The exhausted messenger had been,control,high-cloze,,,delivering,plausible
+531,KO,349,A genetic mutation was delivering once more.,A genetic mutation was,control,low-cloze,,,delivering,implausible
+532,KO,254,Frank's loan application had been approving by the bank.,Frank's loan application had been,reversal,reversed,,,approving,implausible
+533,KO,254,Frank's loan application had been approved anyways.,Frank's loan application had been,reversal,canonical,,,approved,plausible
+534,KO,350,The board of directors had been approving too many expensive projects.,The board of directors had been,control,high-cloze,,,approving,plausible
+535,KO,350,Wendy's muddy car was approving the boy's request.,Wendy's muddy car was,control,low-cloze,,,approving,implausible
+536,KO,255,The cheap products had been manufacturing a Belgian firm.,The cheap products had been,reversal,reversed,,,manufacturing,implausible
+537,KO,255,The cheap products had been manufactured by a Belgian firm.,The cheap products had been,reversal,canonical,,,manufactured,plausible
+538,KO,351,The auto company had been manufacturing parts in China.,The auto company had been,control,high-cloze,,,manufacturing,plausible
+539,KO,351,A drawing of the house had been manufacturing at a factory.,A drawing of the house had been,control,low-cloze,,,manufacturing,implausible
+540,KO,256,Their secret conversation had been overhearing by a surprised neighbor.,Their secret conversation had been,reversal,reversed,,,overhearing,implausible
+541,KO,256,Their secret conversation had been overheard by a surprised neighbor.,Their secret conversation had been,reversal,canonical,,,overheard,plausible
+542,KO,352,The annoyed resident had been overhearing his neighbor's phone conversations through the wall.,The annoyed resident had been,control,high-cloze,,,overhearing,plausible
+543,KO,352,A wet snowball had been overhearing despite the precautions.,A wet snowball had been,control,low-cloze,,,overhearing,implausible
+544,KO,257,The rough part of the wood was sanding to perfection.,The rough part of the wood was,reversal,reversed,,,sanding,implausible
+545,KO,257,The rough part of the wood was sanded by the carpenter.,The rough part of the wood was,reversal,canonical,,,sanded,plausible
+546,KO,353,The skillful carpenter was sanding the rough edge of the wood.,The skillful carpenter was,control,high-cloze,,,sanding,plausible
+547,KO,353,Three more martinis were sanding the chair.,Three more martinis were,control,low-cloze,,,sanding,implausible
+548,KO,258,A package had been receiving by the secretary in the office.,A package had been,reversal,reversed,,,receiving,implausible
+549,KO,258,A package had been received by the secretary in the office.,A package had been,reversal,canonical,,,received,plausible
+550,KO,354,The secretary had been receiving flowers all day.,The secretary had been,control,high-cloze,,,receiving,plausible
+551,KO,354,The noises in the attic had been receiving assistance from the government.,The noises in the attic had been,control,low-cloze,,,receiving,implausible
+552,KO,259,The club's rules had been violating Richard.,The club's rules had been,reversal,reversed,,,violating,implausible
+553,KO,259,The club's rules had been violated only twice.,The club's rules had been,reversal,canonical,,,violated,plausible
+554,KO,355,The rebel had been violating the rules.,The rebel had been,control,high-cloze,,,violating,plausible
+555,KO,355,Thirty pounds of potatoes had been violating only twice.,Thirty pounds of potatoes had been,control,low-cloze,,,violating,implausible
+556,KO,260,A new medication had been prescribing the physician.,A new medication had been,reversal,reversed,,,prescribing,implausible
+557,KO,260,A new medication had been prescribed by the physician.,A new medication had been,reversal,canonical,,,prescribed,plausible
+558,KO,356,The new doctor had been prescribing powerful painkillers for Jelena's sore knee.,The new doctor had been,control,high-cloze,,,prescribing,plausible
+559,KO,356,The portrait of Napoleon had been prescribing with caution.,The portrait of Napoleon had been,control,low-cloze,,,prescribing,implausible
+560,KO,261,The wheat crops had been harvesting by the local farmers.,The wheat crops had been,reversal,reversed,,,harvesting,implausible
+561,KO,261,The wheat crops had been harvested after the rain.,The wheat crops had been,reversal,canonical,,,harvested,plausible
+562,KO,357,The local farmers had been harvesting the corn all week.,The local farmers had been,control,high-cloze,,,harvesting,plausible
+563,KO,357,The elevator button had been harvesting after the rain.,The elevator button had been,control,low-cloze,,,harvesting,implausible
+564,KO,262,The musical piece was composing by Beethoven in 1799.,The musical piece was,reversal,reversed,,,composing,implausible
+565,KO,262,The musical piece was composed in a dream.,The musical piece was,reversal,canonical,,,composed,plausible
+566,KO,358,Ludwig von Beethoven was composing symphonies as a teenager.,Ludwig von Beethoven was,control,high-cloze,,,composing,plausible
+567,KO,358,The bank had been composing in a dream.,The bank had been,control,low-cloze,,,composing,implausible
+568,KO,263,The old lady's purse had been snatching a kid.,The old lady's purse had been,reversal,reversed,,,snatching,implausible
+569,KO,263,The old lady's purse had been snatched with speed.,The old lady's purse had been,reversal,canonical,,,snatched,plausible
+570,KO,359,The clever dog had been snatching cookies from the table.,The clever dog had been,control,high-cloze,,,snatching,plausible
+571,KO,359,The quality of Karla's work was snatching victory from the jaws of defeat.,The quality of Karla's work was,control,low-cloze,,,snatching,implausible
+572,KO,264,Olson's bulging suitcase had been packing his assistant.,Olson's bulging suitcase had been,reversal,reversed,,,packing,implausible
+573,KO,264,Olson's bulging suitcase had been packed for the trip.,Olson's bulging suitcase had been,reversal,canonical,,,packed,plausible
+574,KO,360,The excited vacationers had been packing their suitcases when the hurricane hit.,The excited vacationers had been,control,high-cloze,,,packing,plausible
+575,KO,360,Stormy weather had been packing for the trip.,Stormy weather had been,control,low-cloze,,,packing,implausible
+576,KO,265,Several spelling errors were noticing the careful editor.,Several spelling errors were,reversal,reversed,,,noticing,implausible
+577,KO,265,Several spelling errors were noticed by the careful editor.,Several spelling errors were,reversal,canonical,,,noticed,plausible
+578,KO,361,Brittany's close friends were noticing changes in her personality.,Brittany's close friends were,control,high-cloze,,,noticing,plausible
+579,KO,361,The final destination had been noticing too late.,The final destination had been,control,low-cloze,,,noticing,implausible
+580,KO,266,An illegal weapon had been smuggling only once.,An illegal weapon had been,reversal,reversed,,,smuggling,implausible
+581,KO,266,An illegal weapon had been smuggled only once.,An illegal weapon had been,reversal,canonical,,,smuggled,plausible
+582,KO,362,The drug dealer had been smuggling heroin into Canada.,The drug dealer had been,control,high-cloze,,,smuggling,plausible
+583,KO,362,Cleopatra's beauty was smuggling only once.,Cleopatra's beauty was,control,low-cloze,,,smuggling,implausible
+584,KO,267,The leftover food was discarding wastefully.,The leftover food was,reversal,reversed,,,discarding,implausible
+585,KO,267,The leftover food was discarded wastefully.,The leftover food was,reversal,canonical,,,discarded,plausible
+586,KO,363,The campers were discarding the leftover food.,The campers were,control,high-cloze,,,discarding,plausible
+587,KO,363,The sleek new building was discarding wastefully.,The sleek new building was,control,low-cloze,,,discarding,implausible
+588,KO,268,Thirty pounds of potatoes had been peeling by the cooks.,Thirty pounds of potatoes had been,reversal,reversed,,,peeling,implausible
+589,KO,268,Thirty pounds of potatoes had been peeled carefully.,Thirty pounds of potatoes had been,reversal,canonical,,,peeled,plausible
+590,KO,364,The bored looking cooks had been peeling potatoes for hours.,The bored looking cooks had been,control,high-cloze,,,peeling,plausible
+591,KO,364,The club's rules had been peeling the sticker off the box.,The club's rules had been,control,low-cloze,,,peeling,implausible
+592,KO,269,The grimy pots and pans had been scrubbing the dishwashers.,The grimy pots and pans had been,reversal,reversed,,,scrubbing,implausible
+593,KO,269,The grimy pots and pans had been scrubbed by the dishwashers.,The grimy pots and pans had been,reversal,canonical,,,scrubbed,plausible
+594,KO,365,The guys in the kitchen had been scrubbing the pots and pans.,The guys in the kitchen had been,control,high-cloze,,,scrubbing,plausible
+595,KO,365,The stolen artwork had been scrubbing with vigor.,The stolen artwork had been,control,low-cloze,,,scrubbing,implausible
+596,KO,270,The roast lamb had been carving by a servant.,The roast lamb had been,reversal,reversed,,,carving,implausible
+597,KO,270,The roast lamb had been carved by a servant.,The roast lamb had been,reversal,canonical,,,carved,plausible
+598,KO,366,The butcher had been carving the meat.,The butcher had been,control,high-cloze,,,carving,plausible
+599,KO,366,Janet's houseplants were carving before dinner.,Janet's houseplants were,control,low-cloze,,,carving,implausible
+600,KO,271,Cleopatra's beauty was admiring many people.,Cleopatra's beauty was,reversal,reversed,,,admiring,implausible
+601,KO,271,Cleopatra's beauty was admired always.,Cleopatra's beauty was,reversal,canonical,,,admired,plausible
+602,KO,367,The men were admiring the beautiful woman from a distance.,The men were,control,high-cloze,,,admiring,plausible
+603,KO,367,An illegal weapon had been admiring always.,An illegal weapon had been,control,low-cloze,,,admiring,implausible
+604,KO,272,A wet snowball had been tossing by the girls through the window.,A wet snowball had been,reversal,reversed,,,tossing,implausible
+605,KO,272,A wet snowball had been tossed in anger.,A wet snowball had been,reversal,canonical,,,tossed,plausible
+606,KO,368,The baseball players had been tossing the ball around the infield.,The baseball players had been,control,high-cloze,,,tossing,plausible
+607,KO,368,Their secret conversation had been tossing a steak on the grill.,Their secret conversation had been,control,low-cloze,,,tossing,implausible
+608,KO,273,The sealed envelope was opening the judge.,The sealed envelope was,reversal,reversed,,,opening,implausible
+609,KO,273,The sealed envelope was opened without permission.,The sealed envelope was,reversal,canonical,,,opened,plausible
+610,KO,369,Tuxedoed waiters were opening bottles of champagne for the toast.,Tuxedoed waiters were,control,high-cloze,,,opening,plausible
+611,KO,369,The men's faces had been opening without permission.,The men's faces had been,control,low-cloze,,,opening,implausible
+612,KO,274,The man's beard had been shaving twice a day.,The man's beard had been,reversal,reversed,,,shaving,implausible
+613,KO,274,The man's beard had been shaved twice a day.,The man's beard had been,reversal,canonical,,,shaved,plausible
+614,KO,370,His uncle Ralph had been shaving his beard off.,His uncle Ralph had been,control,high-cloze,,,shaving,plausible
+615,KO,370,The popular amusement park is shaving twice a day.,The popular amusement park is,control,low-cloze,,,shaving,implausible
+616,KO,275,The elevator button had been pressing slowly.,The elevator button had been,reversal,reversed,,,pressing,implausible
+617,KO,275,The elevator button had been pressed by the attendant.,The elevator button had been,reversal,canonical,,,pressed,plausible
+618,KO,371,The attendant had been pressing the buttons.,The attendant had been,control,high-cloze,,,pressing,plausible
+619,KO,371,The wheat crops had been pressing slowly.,The wheat crops had been,control,low-cloze,,,pressing,implausible
+620,KO,276,The winning lottery numbers had been announcing the TV news.,The winning lottery numbers had been,reversal,reversed,,,announcing,implausible
+621,KO,276,The winning lottery numbers had been announced by the TV news.,The winning lottery numbers had been,reversal,canonical,,,announced,plausible
+622,KO,372,The flight attendant had been announcing the reason for the delay.,The flight attendant had been,control,high-cloze,,,announcing,plausible
+623,KO,372,The tarnished silverware was announcing on the television.,The tarnished silverware was,control,low-cloze,,,announcing,implausible
+624,KO,277,The victim's body had been identifying at the morgue.,The victim's body had been,reversal,reversed,,,identifying,implausible
+625,KO,277,The victim's body had been identified by the family members.,The victim's body had been,reversal,canonical,,,identified,plausible
+626,KO,373,The laboratory technicians had been identifying the chemical.,The laboratory technicians had been,control,high-cloze,,,identifying,plausible
+627,KO,373,The movie was identifying rare fish for the divers.,The movie was,control,low-cloze,,,identifying,implausible
+628,KO,278,The hearty meal was devouring by the kids.,The hearty meal was,reversal,reversed,,,devouring,implausible
+629,KO,278,The hearty meal was devoured with gusto.,The hearty meal was,reversal,canonical,,,devoured,plausible
+630,KO,374,The hungry boys were devouring the plate of cookies when Jack arrived.,The hungry boys were,control,high-cloze,,,devouring,plausible
+631,KO,374,The dusty tabletops were devouring with gusto.,The dusty tabletops were,control,low-cloze,,,devouring,implausible
+632,KO,279,The overgrown shrubs were trimming regularly.,The overgrown shrubs were,reversal,reversed,,,trimming,implausible
+633,KO,279,The overgrown shrubs were trimmed by a gardener.,The overgrown shrubs were,reversal,canonical,,,trimmed,plausible
+634,KO,375,A gardener was trimming the overgrown shrubbery.,A gardener was,control,high-cloze,,,trimming,plausible
+635,KO,375,The alarm clock had been trimming regularly.,The alarm clock had been,control,low-cloze,,,trimming,implausible
+636,KO,280,Wilson's unreasonable proposal was rejecting by the boss.,Wilson's unreasonable proposal was,reversal,reversed,,,rejecting,implausible
+637,KO,280,Wilson's unreasonable proposal was rejected at the hospital.,Wilson's unreasonable proposal was,reversal,canonical,,,rejected,plausible
+638,KO,376,The admissions committee was rejecting nearly every application.,The admissions committee was,control,high-cloze,,,rejecting,plausible
+639,KO,376,The rare bird's behavior was rejecting all offers.,The rare bird's behavior was,control,low-cloze,,,rejecting,implausible
+640,KO,281,Hathaway's gigantic fortune had been inheriting by his daughters.,Hathaway's gigantic fortune had been,reversal,reversed,,,inheriting,implausible
+641,KO,281,Hathaway's gigantic fortune had been inherited by his daughters.,Hathaway's gigantic fortune had been,reversal,canonical,,,inherited,plausible
+642,KO,377,Generations of aristocratic Englishmen have been inheriting their fortunes.,Generations of aristocratic Englishmen have been,control,high-cloze,,,inheriting,plausible
+643,KO,377,The strange mystery had been inheriting the estate from her grandmother.,The strange mystery had been,control,low-cloze,,,inheriting,implausible
+644,KO,282,All of her money had been spending before the wedding.,All of her money had been,reversal,reversed,,,spending,implausible
+645,KO,282,All of her money had been spent before the wedding.,All of her money had been,reversal,canonical,,,spent,plausible
+646,KO,378,The shopping fanatic had been spending all her money in Bloomingdales.,The shopping fanatic had been,control,high-cloze,,,spending,plausible
+647,KO,378,Patty's overgrown lawn was spending its time on the beach.,Patty's overgrown lawn was,control,low-cloze,,,spending,implausible
+648,KO,283,An appointment was scheduling by the secretary.,An appointment was,reversal,reversed,,,scheduling,implausible
+649,KO,283,An appointment was scheduled by the secretary.,An appointment was,reversal,canonical,,,scheduled,plausible
+650,KO,379,The secretary was scheduling new appointments for the afternoon.,The secretary was,control,high-cloze,,,scheduling,plausible
+651,KO,379,The legal contract had been scheduling for next week.,The legal contract had been,control,low-cloze,,,scheduling,implausible
+652,KO,284,The men's faces had been photographing by a security camera.,The men's faces had been,reversal,reversed,,,photographing,implausible
+653,KO,284,The men's faces had been photographed by a security camera.,The men's faces had been,reversal,canonical,,,photographed,plausible
+654,KO,380,The intrusive reporter had been photographing the celebrities at the party.,The intrusive reporter had been,control,high-cloze,,,photographing,plausible
+655,KO,380,The sealed envelope was photographing at the party.,The sealed envelope was,control,low-cloze,,,photographing,implausible
+656,KO,285,The broken television had been repairing the technician.,The broken television had been,reversal,reversed,,,repairing,implausible
+657,KO,285,The broken television had been repaired by the technician.,The broken television had been,reversal,canonical,,,repaired,plausible
+658,KO,381,The competent technician had been repairing the television.,The competent technician had been,control,high-cloze,,,repairing,plausible
+659,KO,381,Larry's note had been repairing the computer's hard drive.,Larry's note had been,control,low-cloze,,,repairing,implausible
+660,KO,286,The alarm clock had been unplugging accidentally.,The alarm clock had been,reversal,reversed,,,unplugging,implausible
+661,KO,286,The alarm clock had been unplugged late.,The alarm clock had been,reversal,canonical,,,unplugged,plausible
+662,KO,382,The frantic woman had been unplugging every electrical device in the house.,The frantic woman had been,control,high-cloze,,,unplugging,plausible
+663,KO,382,The overgrown shrubs were unplugging accidentally.,The overgrown shrubs were,control,low-cloze,,,unplugging,implausible
+664,KO,287,The car door had been unlocking late at night.,The car door had been,reversal,reversed,,,unlocking,implausible
+665,KO,287,The car door had been unlocked by the child.,The car door had been,reversal,canonical,,,unlocked,plausible
+666,KO,383,The babysitter had been unlocking the back door.,The babysitter had been,control,high-cloze,,,unlocking,plausible
+667,KO,383,The Queen's 80th birthday was unlocking late at night.,The Queen's 80th birthday was,control,low-cloze,,,unlocking,implausible
+668,KO,288,The portrait of Napoleon had been painting by a Dutch artist.,The portrait of Napoleon had been,reversal,reversed,,,painting,implausible
+669,KO,288,The portrait of Napoleon had been painted by a Dutch artist.,The portrait of Napoleon had been,reversal,canonical,,,painted,plausible
+670,KO,384,The French Impressionist artists had been painting with a focus on light and color.,The French Impressionist artists had been,control,high-cloze,,,painting,plausible
+671,KO,384,A new medication had been painting on Tuesday.,A new medication had been,control,low-cloze,,,painting,implausible
+672,KO,289,The embarrassing allegations had been denying by the mayor.,The embarrassing allegations had been,reversal,reversed,,,denying,implausible
+673,KO,289,The embarrassing allegations had been denied by the mayor.,The embarrassing allegations had been,reversal,canonical,,,denied,plausible
+674,KO,385,The embarassed mayor had been denying allegations of corruption.,The embarassed mayor had been,control,high-cloze,,,denying,plausible
+675,KO,385,Tamara's birthday gift had been denying the rumor.,Tamara's birthday gift had been,control,low-cloze,,,denying,implausible
+676,KO,290,The noises in the attic had been hearing nightly.,The noises in the attic had been,reversal,reversed,,,hearing,implausible
+677,KO,290,The noises in the attic had been heard by the boys.,The noises in the attic had been,reversal,canonical,,,heard,plausible
+678,KO,386,The frightened campers had been hearing noises in the woods.,The frightened campers had been,control,high-cloze,,,hearing,plausible
+679,KO,386,A package had been hearing nightly.,A package had been,control,low-cloze,,,hearing,implausible
+680,KO,291,The appetizers had been serving before the meal.,The appetizers had been,reversal,reversed,,,serving,implausible
+681,KO,291,The appetizers had been served before the meal.,The appetizers had been,reversal,canonical,,,served,plausible
+682,KO,387,The waiters had been serving the meal.,The waiters had been,control,high-cloze,,,serving,plausible
+683,KO,387,The final exams had been serving before the meal.,The final exams had been,control,low-cloze,,,serving,implausible
+684,KO,292,Billy's unruly hair was combing his mother to one side.,Billy's unruly hair was,reversal,reversed,,,combing,implausible
+685,KO,292,Billy's unruly hair was combed by his mother to one side.,Billy's unruly hair was,reversal,canonical,,,combed,plausible
+686,KO,388,The patient barber was combing the boy's hair to one side.,The patient barber was,control,high-cloze,,,combing,plausible
+687,KO,388,The girl's disease was combing the area for escaped prisoners.,The girl's disease was,control,low-cloze,,,combing,implausible
+688,KO,293,A drawing of the house had been sketching again.,A drawing of the house had been,reversal,reversed,,,sketching,implausible
+689,KO,293,A drawing of the house had been sketched again.,A drawing of the house had been,reversal,canonical,,,sketched,plausible
+690,KO,389,An artist in the studio had been sketching the house.,An artist in the studio had been,control,high-cloze,,,sketching,plausible
+691,KO,389,The cheap products had been sketching again.,The cheap products had been,control,low-cloze,,,sketching,implausible
+692,KO,294,The simple coffin was burying the villagers.,The simple coffin was,reversal,reversed,,,burying,implausible
+693,KO,294,The simple coffin was buried at the church.,The simple coffin was,reversal,canonical,,,buried,plausible
+694,KO,390,The tribal people were burying their dead.,The tribal people were,control,high-cloze,,,burying,plausible
+695,KO,390,The vocabulary list was burying at the church.,The vocabulary list was,control,low-cloze,,,burying,implausible
+696,KO,295,The homicide case had been investigating diligently.,The homicide case had been,reversal,reversed,,,investigating,implausible
+697,KO,295,The homicide case had been investigated by the FBI.,The homicide case had been,reversal,canonical,,,investigated,plausible
+698,KO,391,The FBI agents had been investigating the homicide case for weeks.,The FBI agents had been,control,high-cloze,,,investigating,plausible
+699,KO,391,Martin's tonsils had been investigating the problem.,Martin's tonsils had been,control,low-cloze,,,investigating,implausible
+700,KO,296,Mark's wrinkly shirts were ironing by his mother.,Mark's wrinkly shirts were,reversal,reversed,,,ironing,implausible
+701,KO,296,Mark's wrinkly shirts were ironed by his mother.,Mark's wrinkly shirts were,reversal,canonical,,,ironed,plausible
+702,KO,392,Mark's doting mother was ironing his shirts while he slept.,Mark's doting mother was,control,high-cloze,,,ironing,plausible
+703,KO,392,The firewood had been ironing her dress.,The firewood had been,control,low-cloze,,,ironing,implausible
+704,KO,297,An important lesson had been learning in space.,An important lesson had been,reversal,reversed,,,learning,implausible
+705,KO,297,An important lesson had been learned in space.,An important lesson had been,reversal,canonical,,,learned,plausible
+706,KO,393,The children had been learning Spanish.,The children had been,control,high-cloze,,,learning,plausible
+707,KO,393,The bathroom floor had been learning in space.,The bathroom floor had been,control,low-cloze,,,learning,implausible
+708,KO,298,The height of the bookcase was measuring by a carpenter.,The height of the bookcase was,reversal,reversed,,,measuring,implausible
+709,KO,298,The height of the bookcase was measured incorrectly.,The height of the bookcase was,reversal,canonical,,,measured,plausible
+710,KO,394,The carpenter was measuring the height of the bookcase.,The carpenter was,control,high-cloze,,,measuring,plausible
+711,KO,394,An urgent message had been measuring her heart rate.,An urgent message had been,control,low-cloze,,,measuring,implausible
+712,KO,299,Several important topics were discussing despite the weather.,Several important topics were,reversal,reversed,,,discussing,implausible
+713,KO,299,Several important topics were discussed by the board of trustees.,Several important topics were,reversal,canonical,,,discussed,plausible
+714,KO,395,The board members were discussing several important topics.,The board members were,control,high-cloze,,,discussing,plausible
+715,KO,395,"The fresh, warm bread was discussing despite the weather.","The fresh, warm bread was",control,low-cloze,,,discussing,implausible
+716,KO,300,The dusty tabletops were wiping thoroughly.,The dusty tabletops were,reversal,reversed,,,wiping,implausible
+717,KO,300,The dusty tabletops were wiped thoroughly.,The dusty tabletops were,reversal,canonical,,,wiped,plausible
+718,KO,396,The tired busboy was wiping for hours.,The tired busboy was,control,high-cloze,,,wiping,plausible
+719,KO,396,The hearty meal was wiping thoroughly.,The hearty meal was,control,low-cloze,,,wiping,implausible
+720,KO,301,A tiny spy camera was concealing by the agent inside a flowerpot.,A tiny spy camera was,reversal,reversed,,,concealing,implausible
+721,KO,301,A tiny spy camera was concealed by the agent inside a flowerpot.,A tiny spy camera was,reversal,canonical,,,concealed,plausible
+722,KO,397,The sneaky lawyer was concealing the truth.,The sneaky lawyer was,control,high-cloze,,,concealing,plausible
+723,KO,397,A faint light was concealing their identity.,A faint light was,control,low-cloze,,,concealing,implausible
+724,KO,302,"The fresh, warm bread was slicing by the baker into halves.","The fresh, warm bread was",reversal,reversed,,,slicing,implausible
+725,KO,302,"The fresh, warm bread was sliced with love.","The fresh, warm bread was",reversal,canonical,,,sliced,plausible
+726,KO,398,The chef's assistants were slicing the mushrooms for a pie.,The chef's assistants were,control,high-cloze,,,slicing,plausible
+727,KO,398,Several important topics were slicing with love.,Several important topics were,control,low-cloze,,,slicing,implausible
+728,KO,303,The tarnished silverware was polishing by the butler.,The tarnished silverware was,reversal,reversed,,,polishing,implausible
+729,KO,303,The tarnished silverware was polished by the butler.,The tarnished silverware was,reversal,canonical,,,polished,plausible
+730,KO,399,The thorough butler was polishing the doorknobs.,The thorough butler was,control,high-cloze,,,polishing,plausible
+731,KO,399,The winning lottery numbers had been polishing his shoes.,The winning lottery numbers had been,control,low-cloze,,,polishing,implausible
+732,KO,304,Poisonous fumes had been inhaling the firefighters.,Poisonous fumes had been,reversal,reversed,,,inhaling,implausible
+733,KO,304,Poisonous fumes had been inhaled by the firefighters.,Poisonous fumes had been,reversal,canonical,,,inhaled,plausible
+734,KO,400,The firefighters had been inhaling the smoke.,The firefighters had been,control,high-cloze,,,inhaling,plausible
+735,KO,400,The man's signature was inhaling during the fire.,The man's signature was,control,low-cloze,,,inhaling,implausible
+736,KO,305,A genetic mutation was discovering the scientists.,A genetic mutation was,reversal,reversed,,,discovering,implausible
+737,KO,305,A genetic mutation was discovered suddenly.,A genetic mutation was,reversal,canonical,,,discovered,plausible
+738,KO,401,The excited explorers were discovering ancient artifacts everywhere they looked.,The excited explorers were,control,high-cloze,,,discovering,plausible
+739,KO,401,The pizza had been discovering new methods for making dough.,The pizza had been,control,low-cloze,,,discovering,implausible
+740,KO,306,The Queen's 80th birthday was celebrating expensively.,The Queen's 80th birthday was,reversal,reversed,,,celebrating,implausible
+741,KO,306,The Queen's 80th birthday was celebrated by thousands of people in the streets.,The Queen's 80th birthday was,reversal,canonical,,,celebrated,plausible
+742,KO,402,Thousands of excited fans were celebrating the Superbowl victory in the streets.,Thousands of excited fans were,control,high-cloze,,,celebrating,plausible
+743,KO,402,The car door had been celebrating her promotion.,The car door had been,control,low-cloze,,,celebrating,implausible
+744,KO,307,The diagram on the chalkboard had been erasing Mrs. Larson.,The diagram on the chalkboard had been,reversal,reversed,,,erasing,implausible
+745,KO,307,The diagram on the chalkboard had been erased by Mrs. Larson.,The diagram on the chalkboard had been,reversal,canonical,,,erased,plausible
+746,KO,403,Mrs. Larson had been erasing the chalkboard.,Mrs. Larson had been,control,high-cloze,,,erasing,plausible
+747,KO,403,Food for the homeless had been erasing over and over.,Food for the homeless had been,control,low-cloze,,,erasing,implausible
+748,KO,308,The movie was directing Steven Spielberg.,The movie was,reversal,reversed,,,directing,implausible
+749,KO,308,The movie was directed professionally.,The movie was,reversal,canonical,,,directed,plausible
+750,KO,404,Steven Spielberg was directing another blockbuster.,Steven Spielberg was,control,high-cloze,,,directing,plausible
+751,KO,404,The victim's body had been directing the police.,The victim's body had been,control,low-cloze,,,directing,implausible
+752,KO,309,Theresa's birthday gift had been wrapping yesterday.,Theresa's birthday gift had been,reversal,reversed,,,wrapping,implausible
+753,KO,309,Theresa's birthday gift had been wrapped yesterday.,Theresa's birthday gift had been,reversal,canonical,,,wrapped,plausible
+754,KO,405,Theresa's loving grandmother had been wrapping the presents.,Theresa's loving grandmother had been,control,high-cloze,,,wrapping,plausible
+755,KO,405,The embarrassing allegations had been wrapping yesterday.,The embarrassing allegations had been,control,low-cloze,,,wrapping,implausible
+756,KO,310,The popular amusement park is visiting by millions of tourists eh year.,The popular amusement park is,reversal,reversed,,,visiting,implausible
+757,KO,310,The popular amusement park is visited daily.,The popular amusement park is,reversal,canonical,,,visited,plausible
+758,KO,406,The tourists had been visiting the amusement park in the morning.,The tourists had been,control,high-cloze,,,visiting,plausible
+759,KO,406,The man's beard had been visiting a friend in the hospital.,The man's beard had been,control,low-cloze,,,visiting,implausible
+760,KO,311,Ten new trees had been planting on dry land.,Ten new trees had been,reversal,reversed,,,planting,implausible
+761,KO,311,Ten new trees had been planted by the Forestry Service.,Ten new trees had been,reversal,canonical,,,planted,plausible
+762,KO,407,The forestry workers had been planting cedar saplings on the hillside.,The forestry workers had been,control,high-cloze,,,planting,plausible
+763,KO,407,The sin had been planting doubt in her mind.,The sin had been,control,low-cloze,,,planting,implausible
+764,KO,312,Food for the homeless had been donating neighborhood residents.,Food for the homeless had been,reversal,reversed,,,donating,implausible
+765,KO,312,Food for the homeless had been donated many times.,Food for the homeless had been,reversal,canonical,,,donated,plausible
+766,KO,408,The wealthy American philanthropist had been donating money to Romanian orphanages.,The wealthy American philanthropist had been,control,high-cloze,,,donating,plausible
+767,KO,408,The diagram on the chalkboard had been donating blood.,The diagram on the chalkboard had been,control,low-cloze,,,donating,implausible
+768,KO,313,The rare bird's behavior was observing by the biologists.,The rare bird's behavior was,reversal,reversed,,,observing,implausible
+769,KO,313,The rare bird's behavior was observed by the biologists.,The rare bird's behavior was,reversal,canonical,,,observed,plausible
+770,KO,409,The excited bird watchers were observing the rare eagle.,The excited bird watchers were,control,high-cloze,,,observing,plausible
+771,KO,409,Wilson's unreasonable proposal was observing the stars.,Wilson's unreasonable proposal was,control,low-cloze,,,observing,implausible
+772,KO,314,Stormy weather had been forecasting by the weatherman.,Stormy weather had been,reversal,reversed,,,forecasting,implausible
+773,KO,314,Stormy weather had been forecasted by the weatherman.,Stormy weather had been,reversal,canonical,,,forecasted,plausible
+774,KO,410,The weather service had been forecasting snow for the mountain areas.,The weather service had been,control,high-cloze,,,forecasting,plausible
+775,KO,410,Olson's bulging suitcase had been forecasting correctly.,Olson's bulging suitcase had been,control,low-cloze,,,forecasting,implausible
+776,KO,315,The tragic mistake was regretting by Erika for many years.,The tragic mistake was,reversal,reversed,,,regretting,implausible
+777,KO,315,The tragic mistake was regretted years later.,The tragic mistake was,reversal,canonical,,,regretted,plausible
+778,KO,411,Erika was regretting the mistake.,Erika was,control,high-cloze,,,regretting,plausible
+779,KO,411,The library books had been regretting their behavior.,The library books had been,control,low-cloze,,,regretting,implausible
+780,KO,316,The stolen artwork had been seizing without warning.,The stolen artwork had been,reversal,reversed,,,seizing,implausible
+781,KO,316,The stolen artwork had been seized by the border police.,The stolen artwork had been,reversal,canonical,,,seized,plausible
+782,KO,412,The police had been seizing shipments of drugs at the border.,The police had been,control,high-cloze,,,seizing,plausible
+783,KO,412,The grimy pots and pans had been seizing without warning.,The grimy pots and pans had been,control,low-cloze,,,seizing,implausible
+784,KO,317,The value of the jewels was estimating the dealer.,The value of the jewels was,reversal,reversed,,,estimating,implausible
+785,KO,317,The value of the jewels was estimated by the dealer.,The value of the jewels was,reversal,canonical,,,estimated,plausible
+786,KO,413,The jewel expert was estimating the value of the diamond.,The jewel expert was,control,high-cloze,,,estimating,plausible
+787,KO,413,The useful new gadget had been estimating professionally.,The useful new gadget had been,control,low-cloze,,,estimating,implausible
+788,KO,318,Larry's note had been scribbling his wife.,Larry's note had been,reversal,reversed,,,scribbling,implausible
+789,KO,318,Larry's note had been scribbled with haste.,Larry's note had been,reversal,canonical,,,scribbled,plausible
+790,KO,414,Larry's wife had been scribbling a note to him about dinner plans.,Larry's wife had been,control,high-cloze,,,scribbling,plausible
+791,KO,414,The broken television had been scribbling his thoughts on a napkin.,The broken television had been,control,low-cloze,,,scribbling,implausible
+792,KO,319,Carrie's morning meeting was canceling as expected.,Carrie's morning meeting was,reversal,reversed,,,canceling,implausible
+793,KO,319,Carrie's morning meeting was canceled by the boss.,Carrie's morning meeting was,reversal,canonical,,,canceled,plausible
+794,KO,415,Carrie had been canceling all of her meetings.,Carrie had been,control,high-cloze,,,canceling,plausible
+795,KO,415,The bubblegum had been canceling as expected.,The bubblegum had been,control,low-cloze,,,canceling,implausible
+796,KO,320,The girl's disease was curing a simple treatment.,The girl's disease was,reversal,reversed,,,curing,implausible
+797,KO,320,The girl's disease was cured by a simple treatment.,The girl's disease was,reversal,canonical,,,cured,plausible
+798,KO,416,The foreign doctors were curing hundreds of villagers of malaria.,The foreign doctors were,control,high-cloze,,,curing,plausible
+799,KO,416,Billy's unruly hair was curing his cold.,Billy's unruly hair was,control,low-cloze,,,curing,implausible
+800,KO,321,Janet's houseplants were watering too much.,Janet's houseplants were,reversal,reversed,,,watering,implausible
+801,KO,321,Janet's houseplants were watered by her neighbor.,Janet's houseplants were,reversal,canonical,,,watered,plausible
+802,KO,417,The gardener was watering the plants.,The gardener was,control,high-cloze,,,watering,plausible
+803,KO,417,The roast lamb had been watering too much.,The roast lamb had been,control,low-cloze,,,watering,implausible
+804,KO,322,The useful new gadget had been inventing by a bored waiter.,The useful new gadget had been,reversal,reversed,,,inventing,implausible
+805,KO,322,The useful new gadget had been invented by a bored waiter.,The useful new gadget had been,reversal,canonical,,,invented,plausible
+806,KO,418,The resourceful engineers had been inventing tiny new devices.,The resourceful engineers had been,control,high-cloze,,,inventing,plausible
+807,KO,418,The value of the jewels was inventing the digital computer.,The value of the jewels was,control,low-cloze,,,inventing,implausible
+808,KO,323,The phone bill had been paying his roommate.,The phone bill had been,reversal,reversed,,,paying,implausible
+809,KO,323,The phone bill had been paid quickly.,The phone bill had been,reversal,canonical,,,paid,plausible
+810,KO,419,Juan and Perry had been paying too much for their apartment.,Juan and Perry had been,control,high-cloze,,,paying,plausible
+811,KO,419,"The dark, underwater cave was paying attention to the divers.","The dark, underwater cave was",control,low-cloze,,,paying,implausible
+812,KO,324,The man's signature was forging the lawyers.,The man's signature was,reversal,reversed,,,forging,implausible
+813,KO,324,The man's signature was forged by the lawyers.,The man's signature was,reversal,canonical,,,forged,plausible
+814,KO,420,The con artists were forging the signatures on checks.,The con artists were,control,high-cloze,,,forging,plausible
+815,KO,420,Poisonous fumes had been forging very well.,Poisonous fumes had been,control,low-cloze,,,forging,implausible
+816,KO,325,The bank had been robbing two masked men.,The bank had been,reversal,reversed,,,robbing,implausible
+817,KO,325,The bank had been robbed repeatedly.,The bank had been,reversal,canonical,,,robbed,plausible
+818,KO,421,The clever burglars had been robbing houses in broad daylight.,The clever burglars had been,control,high-cloze,,,robbing,plausible
+819,KO,421,The musical piece was robbing repeatedly.,The musical piece was,control,low-cloze,,,robbing,implausible
+820,KO,326,An urgent message had been sending by the ambassador to the President.,An urgent message had been,reversal,reversed,,,sending,implausible
+821,KO,326,An urgent message had been sent again.,An urgent message had been,reversal,canonical,,,sent,plausible
+822,KO,422,The Prime Minister had been sending urgent messages to her Ambassador.,The Prime Minister had been,control,high-cloze,,,sending,plausible
+823,KO,422,The height of the bookcase was sending mixed signals to the carpenter.,The height of the bookcase was,control,low-cloze,,,sending,implausible
+824,KO,327,The sleek new building was designing a team of German architects.,The sleek new building was,reversal,reversed,,,designing,implausible
+825,KO,327,The sleek new building was designed by a team of German architects.,The sleek new building was,reversal,canonical,,,designed,plausible
+826,KO,423,A team of architects had been designing the new building.,A team of architects had been,control,high-cloze,,,designing,plausible
+827,KO,423,The leftover food was designing with flair.,The leftover food was,control,low-cloze,,,designing,implausible
+828,KO,328,The final exams had been grading in school.,The final exams had been,reversal,reversed,,,grading,implausible
+829,KO,328,The final exams had been graded in school.,The final exams had been,reversal,canonical,,,graded,plausible
+830,KO,424,The professor had been grading the final exams until 4 AM.,The professor had been,control,high-cloze,,,grading,plausible
+831,KO,424,The appetizers had been grading Iverson's students.,The appetizers had been,control,low-cloze,,,grading,implausible
+832,KO,329,The final destination had been reaching too late.,The final destination had been,reversal,reversed,,,reaching,implausible
+833,KO,329,The final destination had been reached too late.,The final destination had been,reversal,canonical,,,reached,plausible
+834,KO,425,The curious child had been reaching for the cup on the table.,The curious child had been,control,high-cloze,,,reaching,plausible
+835,KO,425,Several spelling errors were reaching too late.,Several spelling errors were,control,low-cloze,,,reaching,implausible
+836,KO,330,A faint light was perceiving by the rescue workers.,A faint light was,reversal,reversed,,,perceiving,implausible
+837,KO,330,A faint light was perceived underwater.,A faint light was,reversal,canonical,,,perceived,plausible
+838,KO,426,The worried pilot was perceiving a rattling sound in the jet's engine.,The worried pilot was,control,high-cloze,,,perceiving,plausible
+839,KO,426,A tiny spy camera was perceiving underwater.,A tiny spy camera was,control,low-cloze,,,perceiving,implausible
+840,KO,331,The bubblegum had been chewing by the boy.,The bubblegum had been,reversal,reversed,,,chewing,implausible
+841,KO,331,The bubblegum had been chewed by the boy.,The bubblegum had been,reversal,canonical,,,chewed,plausible
+842,KO,427,The hungry dog had been chewing a bone.,The hungry dog had been,control,high-cloze,,,chewing,plausible
+843,KO,427,Carrie's morning meeting was chewing for a long time.,Carrie's morning meeting was,control,low-cloze,,,chewing,implausible
+844,KO,332,Martin's tonsils had been removing at the hospital.,Martin's tonsils had been,reversal,reversed,,,removing,implausible
+845,KO,332,Martin's tonsils had been removed at the hospital.,Martin's tonsils had been,reversal,canonical,,,removed,plausible
+846,KO,428,The surgeon had been removing the cancerous growth.,The surgeon had been,control,high-cloze,,,removing,plausible
+847,KO,428,The homicide case had been removing at the hospital.,The homicide case had been,control,low-cloze,,,removing,implausible
+848,KO,333,Mother Theresa's death was mourning millions of people.,Mother Theresa's death was,reversal,reversed,,,mourning,implausible
+849,KO,333,Mother Theresa's death was mourned by millions of people.,Mother Theresa's death was,reversal,canonical,,,mourned,plausible
+850,KO,429,The black-clad women were mourning the death of their brother.,The black-clad women were,control,high-cloze,,,mourning,plausible
+851,KO,429,Lisa's phone had been mourning the loss of a loved one.,Lisa's phone had been,control,low-cloze,,,mourning,implausible
+852,KO,334,The bathroom floor had been mopping by a janitor.,The bathroom floor had been,reversal,reversed,,,mopping,implausible
+853,KO,334,The bathroom floor had been mopped in the past.,The bathroom floor had been,reversal,canonical,,,mopped,plausible
+854,KO,430,The school janitor had been mopping the bathroom.,The school janitor had been,control,high-cloze,,,mopping,plausible
+855,KO,430,An important lesson had been mopping in the past.,An important lesson had been,control,low-cloze,,,mopping,implausible
+856,KO,335,The sin had been confessing by the repentant Catholic.,The sin had been,reversal,reversed,,,confessing,implausible
+857,KO,335,The sin had been confessed on Sunday.,The sin had been,reversal,canonical,,,confessed,plausible
+858,KO,431,The repentant Catholic had been confessing his sins.,The repentant Catholic had been,control,high-cloze,,,confessing,plausible
+859,KO,431,Ten new trees had been confessing on Sunday.,Ten new trees had been,control,low-cloze,,,confessing,implausible
+860,KO,336,The strange mystery had been solving the detectives.,The strange mystery had been,reversal,reversed,,,solving,implausible
+861,KO,336,The strange mystery had been solved at the station.,The strange mystery had been,reversal,canonical,,,solved,plausible
+862,KO,432,The brilliant detective had been solving mysterious crimes for two decades.,The brilliant detective had been,control,high-cloze,,,solving,plausible
+863,KO,432,Hathaway's gigantic fortune had been solving at the station.,Hathaway's gigantic fortune had been,control,low-cloze,,,solving,implausible
