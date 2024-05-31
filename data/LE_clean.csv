@@ -1,0 +1,241 @@
+,sentence,item,type,condition,patient,agent,context_had,target,item_num_original
+0,The aquarium visitor wondered which fish the penguins had eaten from the large bucket.,1,reversal,canonical,fish,penguins,The aquarium visitor wondered which fish the penguins had,eaten,1
+1,The aquarium visitor wondered which penguins the fish had eaten from the large bucket.,1,reversal,reversed,penguins,fish,The aquarium visitor wondered which penguins the fish had,eaten,1
+2,The aquarium visitor wondered which fish the penguins had swum from through the cold water.,1,alternative,alt_reversed,fish,penguins,The aquarium visitor wondered which fish the penguins had,swum from,1
+3,The aquarium visitor wondered which penguins the fish had swum from through the cold water.,1,alternative,alt_canonical,penguins,fish,The aquarium visitor wondered which penguins the fish had,swum from,1
+4,The superintendent overheard which tenant the landlord had evicted from the apartment.,2,reversal,canonical,tenant,landlord,The superintendent overheard which tenant the landlord had,evicted,2
+5,The superintendent overheard which landlord the tenant had evicted from the apartment.,2,reversal,reversed,landlord,tenant,The superintendent overheard which landlord the tenant had,evicted,2
+6,The superintendent overheard which tenant the landlord had complained about for overcharging rent.,2,alternative,alt_reversed,tenant,landlord,The superintendent overheard which tenant the landlord had,complained about,2
+7,The superintendent overheard which landlord the tenant had complained about for overcharging rent.,2,alternative,alt_canonical,landlord,tenant,The superintendent overheard which landlord the tenant had,complained about,2
+8,The Roman emperor asked which god the gladiator had prayed to before the dangerous fight.,3,reversal,canonical,god,gladiator,The Roman emperor asked which god the gladiator had,prayed to,3
+9,The Roman emperor asked which gladiator the god had prayed to before the dangerous fight.,3,reversal,reversed,gladiator,god,The Roman emperor asked which gladiator the god had,prayed to,3
+10,The Roman emperor asked which god the gladiator had blessed with superhuman strength.,3,alternative,alt_reversed,god,gladiator,The Roman emperor asked which god the gladiator had,blessed,3
+11,The Roman emperor asked which gladiator the god had blessed with superhuman strength.,3,alternative,alt_canonical,gladiator,god,The Roman emperor asked which gladiator the god had,blessed,3
+12,The scientist noted which antelope the lion had killed after a short chase.,4,reversal,canonical,antelope,lion,The scientist noted which antelope the lion had,killed,4
+13,The scientist noted which lion the antelope had killed after a short chase.,4,reversal,reversed,lion,antelope,The scientist noted which lion the antelope had,killed,4
+14,The scientist noted which antelope the lion had run from without any success.,4,alternative,alt_reversed,antelope,lion,The scientist noted which antelope the lion had,run from,4
+15,The scientist noted which lion the antelope had run from without any success.,4,alternative,alt_canonical,lion,antelope,The scientist noted which lion the antelope had,run from,4
+16,The secretary confirmed which illustrator the author had chosen for the novel.,5,reversal,canonical,illustrator,author,The secretary confirmed which illustrator the author had,chosen,5
+17,The secretary confirmed which author the illustrator had chosen for the novel.,5,reversal,reversed,author,illustrator,The secretary confirmed which author the illustrator had,chosen,5
+18,The secretary confirmed which illustrator the author had drawn for in the new children's novel.,5,alternative,alt_reversed,illustrator,author,The secretary confirmed which illustrator the author had,drawn for,5
+19,The secretary confirmed which author the illustrator had drawn for in the new children's novel.,5,alternative,alt_canonical,author,illustrator,The secretary confirmed which author the illustrator had,drawn for,5
+20,The homeowner asked which wasps the exterminator had killed in the local park.,6,reversal,canonical,wasps,exterminator,The homeowner asked which wasps the exterminator had,killed,7
+21,The homeowner asked which exterminator the wasps had killed in the local park.,6,reversal,reversed,exterminator,wasps,The homeowner asked which exterminator the wasps had,killed,7
+22,The homeowner asked which wasps the exterminator had stung in the local park.,6,alternative,alt_reversed,wasps,exterminator,The homeowner asked which wasps the exterminator had,stung,7
+23,The homeowner asked which exterminator the wasps had stung in the local park.,6,alternative,alt_canonical,exterminator,wasps,The homeowner asked which exterminator the wasps had,stung,7
+24,The Indians asked which buffalo the pioneers had killed during the stampede.,7,reversal,canonical,buffalo,pioneers,The Indians asked which buffalo the pioneers had,killed,8
+25,The Indians asked which pioneers the buffalo had killed during the stampede.,7,reversal,reversed,pioneers,buffalo,The Indians asked which pioneers the buffalo had,killed,8
+26,The Indians asked which buffalo the pioneers had trampled during the stampede.,7,alternative,alt_reversed,buffalo,pioneers,The Indians asked which buffalo the pioneers had,trampled,8
+27,The Indians asked which pioneers the buffalo had trampled during the stampede.,7,alternative,alt_canonical,pioneers,buffalo,The Indians asked which pioneers the buffalo had,trampled,8
+28,The historian documented which prince the assassin had killed at the masquerade ball.,8,reversal,canonical,prince,assassin,The historian documented which prince the assassin had,killed,9
+29,The historian documented which assassin the prince had killed at the masquerade ball.,8,reversal,reversed,assassin,prince,The historian documented which assassin the prince had,killed,9
+30,The historian documented which prince the assassin had avoided on the battlefield.,8,alternative,alt_reversed,prince,assassin,The historian documented which prince the assassin had,avoided,9
+31,The historian documented which assassin the prince had avoided on the battlefield.,8,alternative,alt_canonical,assassin,prince,The historian documented which assassin the prince had,avoided,9
+32,The naturalist observed which predators the deer had avoided in the woods.,9,reversal,canonical,predators,deer,The naturalist observed which predators the deer had,avoided,10
+33,The naturalist observed which deer the predators had avoided in the woods.,9,reversal,reversed,deer,predators,The naturalist observed which deer the predators had,avoided,10
+34,The naturalist observed which predators the deer had hunted through the woods.,9,alternative,alt_reversed,predators,deer,The naturalist observed which predators the deer had,hunted,10
+35,The naturalist observed which deer the predators had hunted through the woods.,9,alternative,alt_canonical,deer,predators,The naturalist observed which deer the predators had,hunted,10
+36,The nanny knew which housekeeper the billionaire had hired at a high salary.,10,reversal,canonical,housekeeper,billionaire,The nanny knew which housekeeper the billionaire had,hired,11
+37,The nanny knew which billionaire the housekeeper had hired at a high salary.,10,reversal,reversed,billionaire,housekeeper,The nanny knew which billionaire the housekeeper had,hired,11
+38,The nanny knew which housekeeper the billionaire had worked for for many years.,10,alternative,alt_reversed,housekeeper,billionaire,The nanny knew which housekeeper the billionaire had,worked for,11
+39,The nanny knew which billionaire the housekeeper had worked for for many years.,10,alternative,alt_canonical,billionaire,housekeeper,The nanny knew which billionaire the housekeeper had,worked for,11
+40,The park ranger documented which elephant the poacher had killed in the national park.,11,reversal,canonical,elephant,poacher,The park ranger documented which elephant the poacher had,killed,12
+41,The park ranger documented which poacher the tiger had killed in the national park.,11,reversal,reversed,poacher,tiger,The park ranger documented which poacher the tiger had,killed,12
+42,The park ranger documented which tiger the poacher had mauled in the national park.,11,alternative,alt_reversed,tiger,poacher,The park ranger documented which tiger the poacher had,mauled,12
+43,The park ranger documented which poacher the elephant had mauled in the national park.,11,alternative,alt_canonical,poacher,elephant,The park ranger documented which poacher the elephant had,mauled,12
+44,The restaurant owner forgot which customer the waitress had served at brunch that morning.,12,reversal,canonical,customer,waitress,The restaurant owner forgot which customer the waitress had,served,14
+45,The restaurant owner forgot which waitress the customer had served at brunch that morning.,12,reversal,reversed,waitress,customer,The restaurant owner forgot which waitress the customer had,served,14
+46,The restaurant owner forgot which customer the waitress had tipped at brunch that morning.,12,alternative,alt_reversed,customer,waitress,The restaurant owner forgot which customer the waitress had,tipped,14
+47,The restaurant owner forgot which waitress the customer had tipped at brunch that morning.,12,alternative,alt_canonical,waitress,customer,The restaurant owner forgot which waitress the customer had,tipped,14
+48,The art historian researched which model the artist had painted with delicate watercolors.,13,reversal,canonical,model,artist,The art historian researched which model the artist had,painted,16
+49,The art historian researched which artist the model had painted with delicate watercolors.,13,reversal,reversed,artist,model,The art historian researched which artist the model had,painted,16
+50,The art historian researched which model the artist had posed for in the studio.,13,alternative,alt_reversed,model,artist,The art historian researched which model the artist had,posed for,16
+51,The art historian researched which artist the model had posed for in the studio.,13,alternative,alt_canonical,artist,model,The art historian researched which artist the model had,posed for,16
+52,The mafia boss knew which policeman the mobster had bribed with a suitcase of money.,14,reversal,canonical,policeman,mobster,The mafia boss knew which policeman the mobster had,bribed,17
+53,The mafia boss knew which mobster the policeman had bribed with a suitcase of money.,14,reversal,reversed,mobster,policeman,The mafia boss knew which mobster the policeman had,bribed,17
+54,The mafia boss knew which policeman the mobster had arrested on false charges.,14,alternative,alt_reversed,policeman,mobster,The mafia boss knew which policeman the mobster had,arrested,17
+55,The mafia boss knew which mobster the policeman had arrested on false charges.,14,alternative,alt_canonical,mobster,policeman,The mafia boss knew which mobster the policeman had,arrested,17
+56,The scholar wondered which king the jester had entertained at the royal feast.,15,reversal,canonical,king,jester,The scholar wondered which king the jester had,entertained,18
+57,The scholar wondered which jester the king had entertained at the royal feast.,15,reversal,reversed,jester,king,The scholar wondered which jester the king had,entertained,18
+58,The scholar wondered which king the jester had hired for the royal feast.,15,alternative,alt_reversed,king,jester,The scholar wondered which king the jester had,hired,18
+59,The scholar wondered which jester the king had hired for the royal feast.,15,alternative,alt_canonical,jester,king,The scholar wondered which jester the king had,hired,18
+60,The sports doctor recalled which player the physical therapist had treated after the soccer game.,16,reversal,canonical,player,physical therapist,The sports doctor recalled which player the physical therapist had,treated,19
+61,The sports doctor recalled which physical therapist the player had treated after the soccer game.,16,reversal,reversed,physical therapist,player,The sports doctor recalled which physical therapist the player had,treated,19
+62,The sports doctor recalled which player the physical therapist had seen after the soccer game.,16,alternative,alt_reversed,player,physical therapist,The sports doctor recalled which player the physical therapist had,seen,19
+63,The sports doctor recalled which physical therapist the player had seen after the soccer game.,16,alternative,alt_canonical,physical therapist,player,The sports doctor recalled which physical therapist the player had,seen,19
+64,The barkeeper explained which regulars the barmaid had served on Thursday night.,17,reversal,canonical,regulars,barmaid,The barkeeper explained which regulars the barmaid had,served,20
+65,The barkeeper explained which barmaid the regulars had served on Thursday night.,17,reversal,reversed,barmaid,regulars,The barkeeper explained which barmaid the regulars had,served,20
+66,The barkeeper explained which regulars the barmaid had tipped for excellent service.,17,alternative,alt_reversed,regulars,barmaid,The barkeeper explained which regulars the barmaid had,tipped,20
+67,The barkeeper explained which barmaid the regulars had tipped for excellent service.,17,alternative,alt_canonical,barmaid,regulars,The barkeeper explained which barmaid the regulars had,tipped,20
+68,The assistant guessed which skeptic the magician had convinced during a riveting performance.,18,reversal,canonical,skeptic,magician,The assistant guessed which skeptic the magician had,convinced,21
+69,The assistant guessed which magician the skeptic had convinced during a riveting performance.,18,reversal,reversed,magician,skeptic,The assistant guessed which magician the skeptic had,convinced,21
+70,The assistant guessed which skeptic the magician had exposed as a fraud.,18,alternative,alt_reversed,skeptic,magician,The assistant guessed which skeptic the magician had,exposed,21
+71,The assistant guessed which magician the skeptic had exposed as a fraud.,18,alternative,alt_canonical,magician,skeptic,The assistant guessed which magician the skeptic had,exposed,21
+72,The farmer's wife heard which chicken the farmhand had killed outside the coop.,19,reversal,canonical,chicken,farmhand,The farmer's wife heard which chicken the farmhand had,killed,22
+73,The farmer's wife heard which farmhand the chicken had killed outside the coop.,19,reversal,reversed,farmhand,chicken,The farmer's wife heard which farmhand the chicken had,killed,22
+74,The farmer's wife heard which chicken the farmhand had pecked outside the coop.,19,alternative,alt_reversed,chicken,farmhand,The farmer's wife heard which chicken the farmhand had,pecked,22
+75,The farmer's wife heard which farmhand the chicken had pecked outside the coop.,19,alternative,alt_canonical,farmhand,chicken,The farmer's wife heard which farmhand the chicken had,pecked,22
+76,The UFOlogist knew which astronaut the alien had abducted from the spaceship.,20,reversal,canonical,astronaut,alien,The UFOlogist knew which astronaut the alien had,abducted,23
+77,The UFOlogist knew which alien the astronaut had abducted from the spaceship.,20,reversal,reversed,alien,astronaut,The UFOlogist knew which alien the astronaut had,abducted,23
+78,The UFOlogist knew which astronaut the alien had seen on the ice planet.,20,alternative,alt_reversed,astronaut,alien,The UFOlogist knew which astronaut the alien had,seen,23
+79,The UFOlogist knew which alien the astronaut had seen on the ice planet.,20,alternative,alt_canonical,alien,astronaut,The UFOlogist knew which alien the astronaut had,seen,23
+80,The priest recorded which cannibal the missionary had converted in the remote territories.,21,reversal,canonical,cannibal,missionary,The priest recorded which cannibal the missionary had,converted,24
+81,The priest recorded which missionary the cannibal had converted in the remote territories.,21,reversal,reversed,missionary,cannibal,The priest recorded which missionary the cannibal had,converted,24
+82,The priest recorded which cannibal the missionary had eaten for his dinner.,21,alternative,alt_reversed,cannibal,missionary,The priest recorded which cannibal the missionary had,eaten,24
+83,The priest recorded which missionary the cannibal had eaten for his dinner.,21,alternative,alt_canonical,missionary,cannibal,The priest recorded which missionary the cannibal had,eaten,24
+84,The forest ranger learned which hiker the bear had mauled on the mountain trail.,22,reversal,canonical,hiker,bear,The forest ranger learned which hiker the bear had,mauled,25
+85,The forest ranger learned which bear the hiker had mauled on the mountain trail.,22,reversal,reversed,bear,hiker,The forest ranger learned which bear the hiker had,mauled,25
+86,The forest ranger learned which hiker the bear had seen in the state park.,22,alternative,alt_reversed,hiker,bear,The forest ranger learned which hiker the bear had,seen,25
+87,The forest ranger learned which bear the hiker had seen in the state park.,22,alternative,alt_canonical,bear,hiker,The forest ranger learned which bear the hiker had,seen,25
+88,The thief saw which con artist the detective had arrested after a long investigation.,23,reversal,canonical,con artist,detective,The thief saw which con artist the detective had,arrested,26
+89,The thief saw which detective the con artist had arrested after a long investigation.,23,reversal,reversed,detective,con artist,The thief saw which detective the con artist had,arrested,26
+90,The thief saw which con artist the detective had tricked during the interrogation.,23,alternative,alt_reversed,con artist,detective,The thief saw which con artist the detective had,tricked,26
+91,The thief saw which detective the con artist had tricked during the interrogation.,23,alternative,alt_canonical,detective,con artist,The thief saw which detective the con artist had,tricked,26
+92,The news anchor explained which criminal the journalist had interviewed over the phone.,24,reversal,canonical,criminal,journalist,The news anchor explained which criminal the journalist had,interviewed,27
+93,The news anchor explained which journalist the criminal had interviewed over the phone.,24,reversal,reversed,journalist,criminal,The news anchor explained which journalist the criminal had,interviewed,27
+94,The news anchor explained which criminal the journalist had confessed to over the phone.,24,alternative,alt_reversed,criminal,journalist,The news anchor explained which criminal the journalist had,confessed to,27
+95,The news anchor explained which journalist the criminal had confessed to over the phone.,24,alternative,alt_canonical,journalist,criminal,The news anchor explained which journalist the criminal had,confessed to,27
+96,The detective recalled which thief the cop had arrested in the bank.,25,reversal,canonical,thief,cop,The detective recalled which thief the cop had,arrested,28
+97,The detective recalled which cop the thief had arrested in the bank.,25,reversal,reversed,cop,thief,The detective recalled which cop the thief had,arrested,28
+98,The detective recalled which thief the cop had run from during the arrest.,25,alternative,alt_reversed,thief,cop,The detective recalled which thief the cop had,run from,28
+99,The detective recalled which cop the thief had run from during the arrest.,25,alternative,alt_canonical,cop,thief,The detective recalled which cop the thief had,run from,28
+100,The policeman observed which old lady the thief had robbed at a street corner.,26,reversal,canonical,old lady,thief,The policeman observed which old lady the thief had,robbed,29
+101,The policeman observed which thief the old lady had robbed at a street corner.,26,reversal,reversed,thief,old lady,The policeman observed which thief the old lady had,robbed,29
+102,The policeman observed which old lady the thief had identified from the line-up.,26,alternative,alt_reversed,old lady,thief,The policeman observed which old lady the thief had,identified,29
+103,The policeman observed which thief the old lady had identified from the line-up.,26,alternative,alt_canonical,thief,old lady,The policeman observed which thief the old lady had,identified,29
+104,The cattle rancher remembered which bull the cowboy had ridden at the local rodeo.,27,reversal,canonical,bull,cowboy,The cattle rancher remembered which bull the cowboy had,ridden,30
+105,The cattle rancher remembered which cowboy the bull had ridden at the local rodeo.,27,reversal,reversed,cowboy,bull,The cattle rancher remembered which cowboy the bull had,ridden,30
+106,The cattle rancher remembered which bull the cowboy had gored out on the range.,27,alternative,alt_reversed,bull,cowboy,The cattle rancher remembered which bull the cowboy had,gored,30
+107,The cattle rancher remembered which cowboy the bull had gored out on the range.,27,alternative,alt_canonical,cowboy,bull,The cattle rancher remembered which cowboy the bull had,gored,30
+108,The immunization specialist confirmed which patient the nurse had vaccinated for virulent measles.,28,reversal,canonical,patient,nurse,The immunization specialist confirmed which patient the nurse had,vaccinated,31
+109,The immunization specialist confirmed which nurse the patient had vaccinated for virulent measles.,28,reversal,reversed,nurse,patient,The immunization specialist confirmed which nurse the patient had,vaccinated,31
+110,The immunization specialist confirmed which patient the nurse had seen for a vaccine.,28,alternative,alt_reversed,patient,nurse,The immunization specialist confirmed which patient the nurse had,seen,31
+111,The immunization specialist confirmed which nurse the patient had seen for a vaccine.,28,alternative,alt_canonical,nurse,patient,The immunization specialist confirmed which nurse the patient had,seen,31
+112,The naturalist described which chick the snake had eaten right out of the nest.,29,reversal,canonical,chick,snake,The naturalist described which chick the snake had,eaten,32
+113,The naturalist described which snake the chick had eaten right out of the nest.,29,reversal,reversed,snake,chick,The naturalist described which snake the chick had,eaten,32
+114,The naturalist described which chick the snake had run from through the forest.,29,alternative,alt_reversed,chick,snake,The naturalist described which chick the snake had,run from,32
+115,The naturalist described which snake the chick had run from through the forest.,29,alternative,alt_canonical,snake,chick,The naturalist described which snake the chick had,run from,32
+116,The doctor knew which insects the biologist had studied in the high tech lab.,30,reversal,canonical,insects,biologist,The doctor knew which insects the biologist had,studied,33
+117,The doctor knew which biologist the insects had studied in the high tech lab.,30,reversal,reversed,biologist,insects,The doctor knew which biologist the insects had,studied,33
+118,The doctor knew which insects the biologist had bitten in the high tech lab.,30,alternative,alt_reversed,insects,biologist,The doctor knew which insects the biologist had,bitten,33
+119,The doctor knew which biologist the insects had bitten in the high tech lab.,30,alternative,alt_canonical,biologist,insects,The doctor knew which biologist the insects had,bitten,33
+120,The veteran forgot which war hero the president had honored at the grand ceremony.,31,reversal,canonical,hero,president,The veteran forgot which war hero the president had,honored,34
+121,The veteran forgot which president the war hero had honored at the grand ceremony.,31,reversal,reversed,president,hero,The veteran forgot which president the war hero had,honored,34
+122,The veteran forgot which war hero the president had served many years ago.,31,alternative,alt_reversed,hero,president,The veteran forgot which war hero the president had,served,34
+123,The veteran forgot which president the war hero had served many years ago.,31,alternative,alt_canonical,president,hero,The veteran forgot which president the war hero had,served,34
+124,The police detective described which bank teller the robber had threatened with a revolver.,32,reversal,canonical,bank teller,robber,The police detective described which bank teller the robber had,threatened,35
+125,The police detective described which robber the bank teller had threatened with a revolver.,32,reversal,reversed,robber,bank teller,The police detective described which robber the bank teller had,threatened,35
+126,The police detective described which bank teller the robber had identified after the hold-up.,32,alternative,alt_reversed,bank teller,robber,The police detective described which bank teller the robber had,identified,35
+127,The police detective described which robber the bank teller had identified after the hold-up.,32,alternative,alt_canonical,robber,bank teller,The police detective described which robber the bank teller had,identified,35
+128,The circus owner recalled which lion the animal trainer had trained for many years.,33,reversal,canonical,lion,animal trainer,The circus owner recalled which lion the animal trainer had,trained,36
+129,The circus owner recalled which animal trainer the lion had trained for many years.,33,reversal,reversed,animal trainer,lion,The circus owner recalled which animal trainer the lion had,trained,36
+130,The circus owner recalled which lion the animal trainer had mauled in the middle of the performance.,33,alternative,alt_reversed,lion,animal trainer,The circus owner recalled which lion the animal trainer had,mauled,36
+131,The circus owner recalled which animal trainer the lion had mauled in the middle of the performance.,33,alternative,alt_canonical,animal trainer,lion,The circus owner recalled which animal trainer the lion had,mauled,36
+132,The lab manager remembered which virus the researcher had studied under the microscope.,34,reversal,canonical,virus,researcher,The lab manager remembered which virus the researcher had,studied,37
+133,The lab manager remembered which researcher the virus had studied under the microscope.,34,reversal,reversed,researcher,virus,The lab manager remembered which researcher the virus had,studied,37
+134,The lab manager remembered which virus the researcher had infected after the vial broke.,34,alternative,alt_reversed,virus,researcher,The lab manager remembered which virus the researcher had,infected,37
+135,The lab manager remembered which researcher the virus had infected after the vial broke.,34,alternative,alt_canonical,researcher,virus,The lab manager remembered which researcher the virus had,infected,37
+136,The store manager noted which elderly man the IT technician had helped with software issues.,35,reversal,canonical,elderly man,IT technician,The store manager noted which elderly man the IT technician had,helped,38
+137,The store manager noted which IT technician the elderly man had helped with software issues.,35,reversal,reversed,IT technician,elderly man,The store manager noted which IT technician the elderly man had,helped,38
+138,The store manager noted which elderly man the IT technician had asked for earlier that day.,35,alternative,alt_reversed,elderly man,IT technician,The store manager noted which elderly man the IT technician had,asked for,38
+139,The store manager noted which IT technician the elderly man had asked for earlier that day.,35,alternative,alt_canonical,IT technician,elderly man,The store manager noted which IT technician the elderly man had,asked for,38
+140,The villain knew which victim the superhero had saved from the burning building.,36,reversal,canonical,victim,superhero,The villain knew which victim the superhero had,saved,39
+141,The villain knew which superhero the victim had saved from the burning building.,36,reversal,reversed,superhero,victim,The villain knew which superhero the victim had,saved,39
+142,The villain knew which victim the superhero had called during the emergency.,36,alternative,alt_reversed,victim,superhero,The villain knew which victim the superhero had,called,39
+143,The villain knew which superhero the victim had called during the emergency.,36,alternative,alt_canonical,superhero,victim,The villain knew which superhero the victim had,called,39
+144,The foreign correspondent recalled which politician the interpreter had translated for in the press conference.,37,reversal,canonical,politician,interpreter,The foreign correspondent recalled which politician the interpreter had,translated for,40
+145,The foreign correspondent recalled which interpreter the politician had translated for in the press conference.,37,reversal,reversed,interpreter,politician,The foreign correspondent recalled which interpreter the politician had,translated for,40
+146,The foreign correspondent recalled which politician the interpreter had used in the press conference.,37,alternative,alt_reversed,politician,interpreter,The foreign correspondent recalled which politician the interpreter had,used,40
+147,The foreign correspondent recalled which interpreter the politician had used in the press conference.,37,alternative,alt_canonical,interpreter,politician,The foreign correspondent recalled which interpreter the politician had,used,40
+148,The cybersecurity expert explained which hacker the government had arrested in the middle of the night.,38,reversal,canonical,hacker,government,The cybersecurity expert explained which hacker the government had,arrested,41
+149,The cybersecurity expert explained which government the hacker had arrested in the middle of the night.,38,reversal,reversed,government,hacker,The cybersecurity expert explained which government the hacker had,arrested,41
+150,The cybersecurity expert explained which hacker the government had infiltrated in the middle of the night.,38,alternative,alt_reversed,hacker,government,The cybersecurity expert explained which hacker the government had,infiltrated,41
+151,The cybersecurity expert explained which government the hacker had infiltrated in the middle of the night.,38,alternative,alt_canonical,government,hacker,The cybersecurity expert explained which government the hacker had,infiltrated,41
+152,The believer wondered which prophet the gods had chosen in the ancient days.,39,reversal,canonical,prophet,gods,The believer wondered which prophet the gods had,chosen,42
+153,The believer wondered which gods the prophet had chosen in the ancient days.,39,reversal,reversed,gods,prophet,The believer wondered which gods the prophet had,chosen,42
+154,The believer wondered which prophet the gods had worshipped in the ancient days.,39,alternative,alt_reversed,prophet,gods,The believer wondered which prophet the gods had,worshipped,42
+155,The believer wondered which gods the prophet had worshipped in the ancient days.,39,alternative,alt_canonical,gods,prophet,The believer wondered which gods the prophet had,worshipped,42
+156,The housewife knew which dog the cat had scratched across the nose.,40,reversal,canonical,dog,cat,The housewife knew which dog the cat had,scratched,43
+157,The housewife knew which cat the dog had scratched across the nose.,40,reversal,reversed,cat,dog,The housewife knew which cat the dog had,scratched,43
+158,The housewife knew which dog the cat had chased around the tree.,40,alternative,alt_reversed,dog,cat,The housewife knew which dog the cat had,chased,43
+159,The housewife knew which cat the dog had chased around the tree.,40,alternative,alt_canonical,cat,dog,The housewife knew which cat the dog had,chased,43
+160,The missionary mentioned which sinners the priest had forgiven during the service.,41,reversal,canonical,sinners,priest,The missionary mentioned which sinners the priest had,forgiven,44
+161,The missionary mentioned which priest the sinners had forgiven during the service.,41,reversal,reversed,priest,sinners,The missionary mentioned which priest the sinners had,forgiven,44
+162,The missionary mentioned which sinners the priest had confessed to during the service.,41,alternative,alt_reversed,sinners,priest,The missionary mentioned which sinners the priest had,confessed to,44
+163,The missionary mentioned which priest the sinners had confessed to during the service.,41,alternative,alt_canonical,priest,sinners,The missionary mentioned which priest the sinners had,confessed to,44
+164,The mother watched which swans the child had fed at the pond.,42,reversal,canonical,swans,child,The mother watched which swans the child had,fed,45
+165,The mother watched which child the swans had fed at the pond.,42,reversal,reversed,child,swans,The mother watched which child the swans had,fed,45
+166,The mother watched which swans the child had swum to at the pond.,42,alternative,alt_reversed,swans,child,The mother watched which swans the child had,swum to,45
+167,The mother watched which child the swans had swum to at the pond.,42,alternative,alt_canonical,child,swans,The mother watched which child the swans had,swum to,45
+168,The biologist recorded which mouse the owl had eaten after the drought.,43,reversal,canonical,mouse,owl,The biologist recorded which mouse the owl had,eaten,46
+169,The biologist recorded which owl the mouse had eaten after the drought.,43,reversal,reversed,owl,mouse,The biologist recorded which owl the mouse had,eaten,46
+170,The biologist recorded which mouse the owl had avoided after the drought.,43,alternative,alt_reversed,mouse,owl,The biologist recorded which mouse the owl had,avoided,46
+171,The biologist recorded which owl the mouse had avoided after the drought.,43,alternative,alt_canonical,owl,mouse,The biologist recorded which owl the mouse had,avoided,46
+172,The riding instructor remembered which pony the girl had ridden for the first time.,44,reversal,canonical,pony,girl,The riding instructor remembered which pony the girl had,ridden,47
+173,The riding instructor remembered which girl the pony had ridden for the first time.,44,reversal,reversed,girl,pony,The riding instructor remembered which girl the pony had,ridden,47
+174,The riding instructor remembered which pony the girl had thrown off for the first time.,44,alternative,alt_reversed,pony,girl,The riding instructor remembered which pony the girl had,thrown off,47
+175,The riding instructor remembered which girl the pony had thrown off for the first time.,44,alternative,alt_canonical,girl,pony,The riding instructor remembered which girl the pony had,thrown off,47
+176,The board of trustees noted which fraudster the tax agent had caught during the audit.,45,reversal,canonical,fraudster,tax agent,The board of trustees noted which fraudster the tax agent had,caught,48
+177,The board of trustees noted which tax agent the fraudster had caught during the audit.,45,reversal,reversed,tax agent,fraudster,The board of trustees noted which tax agent the fraudster had,caught,48
+178,The board of trustees noted which fraudster the tax agent had swindled during the audit.,45,alternative,alt_reversed,fraudster,tax agent,The board of trustees noted which fraudster the tax agent had,swindled,48
+179,The board of trustees noted which tax agent the fraudster had swindled during the audit.,45,alternative,alt_canonical,tax agent,fraudster,The board of trustees noted which tax agent the fraudster had,swindled,48
+180,The game show host recalled which cheater the judge had disqualified in the final round.,46,reversal,canonical,cheater,judge,The game show host recalled which cheater the judge had,disqualified,49
+181,The game show host recalled which judge the cheater had disqualified in the final round.,46,reversal,reversed,judge,cheater,The game show host recalled which judge the cheater had,disqualified,49
+182,The game show host recalled which cheater the judge had bribed before the show.,46,alternative,alt_reversed,cheater,judge,The game show host recalled which cheater the judge had,bribed,49
+183,The game show host recalled which judge the cheater had bribed before the show.,46,alternative,alt_canonical,judge,cheater,The game show host recalled which judge the cheater had,bribed,49
+184,The historian researched which traitor the king had executed during the uprising.,47,reversal,canonical,traitor,king,The historian researched which traitor the king had,executed,50
+185,The historian researched which king the traitor had executed during the uprising.,47,reversal,reversed,king,traitor,The historian researched which king the traitor had,executed,50
+186,The historian researched which traitor the king had betrayed during the uprising.,47,alternative,alt_reversed,traitor,king,The historian researched which traitor the king had,betrayed,50
+187,The historian researched which king the traitor had betrayed during the uprising.,47,alternative,alt_canonical,king,traitor,The historian researched which king the traitor had,betrayed,50
+188,The psychic understood which teenagers the ghost had haunted in the abandoned mansion.,48,reversal,canonical,teenagers,ghost,The psychic understood which teenagers the ghost had,haunted,51
+189,The psychic understood which ghost the teenagers had haunted in the abandoned mansion.,48,reversal,reversed,ghost,teenagers,The psychic understood which ghost the teenagers had,haunted,51
+190,The psychic understood which teenagers the ghost had seen in the abandoned mansion.,48,alternative,alt_reversed,teenagers,ghost,The psychic understood which teenagers the ghost had,seen,51
+191,The psychic understood which ghost the teenagers had seen in the abandoned mansion.,48,alternative,alt_canonical,ghost,teenagers,The psychic understood which ghost the teenagers had,seen,51
+192,The trapper heard which buck the hunter had shot in the forest.,49,reversal,canonical,buck,hunter,The trapper heard which buck the hunter had,shot,52
+193,The trapper heard which hunter the buck had shot in the forest.,49,reversal,reversed,hunter,buck,The trapper heard which hunter the buck had,shot,52
+194,The trapper heard which buck the hunter had run from in the forest.,49,alternative,alt_reversed,buck,hunter,The trapper heard which buck the hunter had,run from,52
+195,The trapper heard which hunter the buck had run from in the forest.,49,alternative,alt_canonical,hunter,buck,The trapper heard which hunter the buck had,run from,52
+196,The naturalist observed which snake the scorpion had stung in the desert cave.,50,reversal,canonical,snake,scorpion,The naturalist observed which snake the scorpion had,stung,53
+197,The naturalist observed which scorpion the snake had stung in the desert cave.,50,reversal,reversed,scorpion,snake,The naturalist observed which scorpion the snake had,stung,53
+198,The naturalist observed which snake the scorpion had eaten in the desert cave.,50,alternative,alt_reversed,snake,scorpion,The naturalist observed which snake the scorpion had,eaten,53
+199,The naturalist observed which scorpion the snake had eaten in the desert cave.,50,alternative,alt_canonical,scorpion,snake,The naturalist observed which scorpion the snake had,eaten,53
+200,The foreign correspondent reported which dictator the activist had protested outside the capitol building.,51,reversal,canonical,dictator,activist,The foreign correspondent reported which dictator the activist had,protested,54
+201,The foreign correspondent reported which activist the dictator had protested outside the capitol building.,51,reversal,reversed,activist,dictator,The foreign correspondent reported which activist the dictator had,protested,54
+202,The foreign correspondent reported which dictator the activist had imprisoned for thirty years.,51,alternative,alt_reversed,dictator,activist,The foreign correspondent reported which dictator the activist had,imprisoned,54
+203,The foreign correspondent reported which activist the dictator had imprisoned for thirty years.,51,alternative,alt_canonical,activist,dictator,The foreign correspondent reported which activist the dictator had,imprisoned,54
+204,The bartender saw which teenager the bouncer had thrown out from the crowded club.,52,reversal,canonical,teenager,bouncer,The bartender saw which teenager the bouncer had,thrown out,55
+205,The bartender saw which bouncer the teenager had thrown out from the crowded club.,52,reversal,reversed,bouncer,teenager,The bartender saw which bouncer the teenager had,thrown out,55
+206,The bartender saw which teenager the bouncer had bribed at the entrance.,52,alternative,alt_reversed,teenager,bouncer,The bartender saw which teenager the bouncer had,bribed,55
+207,The bartender saw which bouncer the teenager had bribed at the entrance.,52,alternative,alt_canonical,bouncer,teenager,The bartender saw which bouncer the teenager had,bribed,55
+208,The highway patrolman confirmed which elderly woman the hitchhiker had robbed on the side of the road.,53,reversal,canonical,woman,hitchhiker,The highway patrolman confirmed which elderly woman the hitchhiker had,robbed,56
+209,The highway patrolman confirmed which hitchhiker the elderly woman had robbed on the side of the road.,53,reversal,reversed,hitchhiker,woman,The highway patrolman confirmed which hitchhiker the elderly woman had,robbed,56
+210,The highway patrolman confirmed which elderly woman the hitchhiker had hit on the side of the road.,53,alternative,alt_reversed,woman,hitchhiker,The highway patrolman confirmed which elderly woman the hitchhiker had,hit,56
+211,The highway patrolman confirmed which hitchhiker the elderly woman had hit on the side of the road.,53,alternative,alt_canonical,hitchhiker,woman,The highway patrolman confirmed which hitchhiker the elderly woman had,hit,56
+212,The shepherd forgot which sheep the wolf had eaten from the flock.,54,reversal,canonical,sheep,wolf,The shepherd forgot which sheep the wolf had,eaten,57
+213,The shepherd forgot which wolf the sheep had eaten from the flock.,54,reversal,reversed,wolf,sheep,The shepherd forgot which wolf the sheep had,eaten,57
+214,The shepherd forgot which sheep the wolf had butted away from the flock.,54,alternative,alt_reversed,sheep,wolf,The shepherd forgot which sheep the wolf had,butted,57
+215,The shepherd forgot which wolf the sheep had butted away from the flock.,54,alternative,alt_canonical,wolf,sheep,The shepherd forgot which wolf the sheep had,butted,57
+216,The stable boy remembered which mule the trader had sold at the busy market.,55,reversal,canonical,mule,trader,The stable boy remembered which mule the trader had,sold,109
+217,The stable boy remembered which trader the mule had sold at the busy market.,55,reversal,reversed,trader,mule,The stable boy remembered which trader the mule had,sold,109
+218,The stable boy remembered which mule the trader had kicked at the busy market.,55,alternative,alt_reversed,mule,trader,The stable boy remembered which mule the trader had,kicked,109
+219,The stable boy remembered which trader the mule had kicked at the busy market.,55,alternative,alt_canonical,trader,mule,The stable boy remembered which trader the mule had,kicked,109
+220,The insect collector observed which spider the bee had stung in the garden.,56,reversal,canonical,spider,bee,The insect collector observed which spider the bee had,stung,111
+221,The insect collector observed which bee the spider had stung in the garden.,56,reversal,reversed,bee,spider,The insect collector observed which bee the spider had,stung,111
+222,The insect collector observed which spider the bee had trapped in the web.,56,alternative,alt_reversed,spider,bee,The insect collector observed which spider the bee had,trapped,111
+223,The insect collector observed which bee the spider had trapped in the web.,56,alternative,alt_canonical,bee,spider,The insect collector observed which bee the spider had,trapped,111
+224,The aquarium owner knew which orca the animal rights activist had freed in the middle of the night.,57,reversal,canonical,animal,activist,The aquarium owner knew which orca the animal rights activist had,freed,114
+225,The aquarium owner knew which animal rights activist the orca had freed in the middle of the night.,57,reversal,reversed,activist,orca,The aquarium owner knew which animal rights activist the orca had,freed,114
+226,The aquarium owner knew which orca the animal rights activist had befriended after many visits.,57,alternative,alt_reversed,animal,activist,The aquarium owner knew which orca the animal rights activist had,befriended,114
+227,The aquarium owner knew which animal rights activist the orca had befriended after many visits.,57,alternative,alt_canonical,activist,orca,The aquarium owner knew which animal rights activist the orca had,befriended,114
+228,The principal recorded which stoner the snitch had reported during an assembly.,58,reversal,canonical,stoner,snitch,The principal recorded which stoner the snitch had,reported,115
+229,The principal recorded which snitch the stoner had reported during an assembly.,58,reversal,reversed,snitch,stoner,The principal recorded which snitch the stoner had,reported,115
+230,The principal recorded which stoner the snitch had beaten up in the locker room.,58,alternative,alt_reversed,stoner,snitch,The principal recorded which stoner the snitch had,beaten up,115
+231,The principal recorded which snitch the stoner had beaten up in the locker room.,58,alternative,alt_canonical,snitch,stoner,The principal recorded which snitch the stoner had,beaten up,115
+232,The butler remembered which chauffeur the millionaire had hired the previous week.,59,reversal,canonical,chauffeur,millionaire,The butler remembered which chauffeur the millionaire had,hired,116
+233,The butler remembered which millionaire the chauffeur had hired the previous week.,59,reversal,reversed,millionaire,chauffeur,The butler remembered which millionaire the chauffeur had,hired,116
+234,The butler remembered which chauffeur the millionaire had driven the previous week.,59,alternative,alt_reversed,chauffeur,millionaire,The butler remembered which chauffeur the millionaire had,driven,116
+235,The butler remembered which millionaire the chauffeur had driven the previous week.,59,alternative,alt_canonical,millionaire,chauffeur,The butler remembered which millionaire the chauffeur had,driven,116
+236,The farmhand observed which cow the farmer had milked in the big red barn.,60,reversal,canonical,cow,farmer,The farmhand observed which cow the farmer had,milked,117
+237,The farmhand observed which farmer the cow had milked in the big red barn.,60,reversal,reversed,farmer,cow,The farmhand observed which farmer the cow had,milked,117
+238,The farmhand observed which cow the farmer had kicked in the big red barn.,60,alternative,alt_reversed,cow,farmer,The farmhand observed which cow the farmer had,kicked,117
+239,The farmhand observed which farmer the cow had kicked in the big red barn.,60,alternative,alt_canonical,farmer,cow,The farmhand observed which farmer the cow had,kicked,117

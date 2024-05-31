@@ -1,0 +1,121 @@
+,sentence,item,type,condition,context_had,target
+0,The fertilizer enriched the soil so the plants could grow.,121,control,high-cloze,The fertilizer enriched the,soil
+1,The fertilizer enriched the paint so the plants could grow.,121,control,low-cloze,The fertilizer enriched the,paint
+2,All the guests had a very good time at the party he gave.,122,control,high-cloze,All the guests had a very good,time
+3,All the guests had a very good word at the party he gave.,122,control,low-cloze,All the guests had a very good,word
+4,The mole lived in a hole in the ground at the bottom of the hill.,123,control,high-cloze,The mole lived in a hole in the,ground
+5,The mole lived in a hole in the pill at the bottom of the hill.,123,control,low-cloze,The mole lived in a hole in the,pill
+6,Most shark attacks occur very close to shore and in the summer months.,124,control,high-cloze,Most shark attacks occur very close to,shore
+7,Most shark attacks occur very close to scissors and in the summer months.,124,control,low-cloze,Most shark attacks occur very close to,scissors
+8,The bad boy was sent to his room without any dessert.,125,control,high-cloze,The bad boy was sent to his,room
+9,The bad boy was sent to his beach without any dessert.,125,control,low-cloze,The bad boy was sent to his,beach
+10,New York is a very busy city that never sleeps.,126,control,high-cloze,New York is a very busy,city
+11,New York is a very busy baby that never sleeps.,126,control,low-cloze,New York is a very busy,baby
+12,The boys helped Jane wax her car because she didn't know how.,127,control,high-cloze,The boys helped Jane wax her,car
+13,The boys helped Jane wax her paper because she didn't know how.,127,control,low-cloze,The boys helped Jane wax her,paper
+14,We sometimes forget that golf is just a game that doesn't mean life or death.,128,control,high-cloze,We sometimes forget that golf is just a,game
+15,We sometimes forget that golf is just a race that doesn't mean life or death.,128,control,low-cloze,We sometimes forget that golf is just a,race
+16,The cows moved from the sun into the shade because of the heat.,129,control,high-cloze,The cows moved from the sun into the,shade
+17,The cows moved from the sun into the court because of the heat.,129,control,low-cloze,The cows moved from the sun into the,court
+18,The wealthy child attended a private school on the far side of town.,130,control,high-cloze,The wealthy child attended a private,school
+19,The wealthy child attended a private party on the far side of town.,130,control,low-cloze,The wealthy child attended a private,party
+20,I added my name to the list right after Mary.,131,control,high-cloze,I added my name to the,list
+21,I added my name to the check right after Mary.,131,control,low-cloze,I added my name to the,check
+22,The ship disappeared into the thick fog and was never seen again.,132,control,high-cloze,The ship disappeared into the thick,fog
+23,The ship disappeared into the thick ground and was never seen again.,132,control,low-cloze,The ship disappeared into the thick,ground
+24,Abby brushed her teeth after every meal and every snack.,133,control,high-cloze,Abby brushed her teeth after every,meal
+25,Abby brushed her teeth after every meal and every snack.,133,control,low-cloze,Abby brushed her teeth after every,game
+26,George must keep his pet on a leash so it does not run away.,134,control,high-cloze,George must keep his pet on a,leash
+27,George must keep his pet on a shore so it does not run away.,134,control,low-cloze,George must keep his pet on a,shore
+28,Yesterday they canoed down the river with a big group of friends.,135,control,high-cloze,Yesterday they canoed down the,river
+29,Yesterday they canoed down the room with a big group of friends.,135,control,low-cloze,Yesterday they canoed down the,room
+30,The gambler had a streak of bad luck right after his birthday.,136,control,high-cloze,The gambler had a streak of bad,luck
+31,The gambler had a streak of bad gas right after his birthday.,136,control,low-cloze,The gambler had a streak of bad,gas
+32,He liked lemon and sugar in his tea but not in his coffee.,137,control,high-cloze,He liked lemon and sugar in his,tea
+33,He liked lemon and sugar in his wine but not in his coffee.,137,control,low-cloze,He liked lemon and sugar in his,wine
+34,They sat together without speaking a single word and looked out the window.,138,control,high-cloze,They sat together without speaking a single,word
+35,They sat together without speaking a single time and looked out the window.,138,control,low-cloze,They sat together without speaking a single,time
+36,Emily poured cereal in a bowl to eat for breakfast.,139,control,high-cloze,Emily poured cereal in a,bowl
+37,Emily poured cereal in a closet to eat for breakfast.,139,control,low-cloze,Emily poured cereal in a,closet
+38,On my birthday my grandma always bakes me a cake with pink and white frosting.,140,control,high-cloze,On my birthday my grandma always bakes me a,cake
+39,On my birthday my grandma always bakes me a loaf with pink and white frosting.,140,control,low-cloze,On my birthday my grandma always bakes me a,loaf
+40,The carpenter pounded in the last nail with his hammer and was glad to be done.,141,control,high-cloze,The carpenter pounded in the last nail with his,hammer
+41,The carpenter pounded in the last nail with his car and was glad to be done.,141,control,low-cloze,The carpenter pounded in the last nail with his,car
+42,Karen cut the long string with a pair of scissors that she found in the cabinet.,142,control,high-cloze,Karen cut the long string with a pair of,scissors
+43,Karen cut the long string with a pair of weeds that she found in the cabinet.,142,control,low-cloze,Karen cut the long string with a pair of,weeds
+44,Tonight make sure you wish on a star like Sara told you to.,143,control,high-cloze,Tonight make sure you wish on a,star
+45,Tonight make sure you wish on a scale like Sara told you to.,143,control,low-cloze,Tonight make sure you wish on a,scale
+46,The tenants decided to take their landlord to court for treating them so unfairly.,144,control,high-cloze,The tenants decided to take their landlord to,court
+47,The tenants decided to take their landlord to tea for treating them so unfairly.,144,control,low-cloze,The tenants decided to take their landlord to,tea
+48,The cold drink was served with a slice of lemon and a bright green straw.,145,control,high-cloze,The cold drink was served with a slice of,lemon
+49,The cold drink was served with a slice of cheese and a bright green straw.,145,control,low-cloze,The cold drink was served with a slice of,cheese
+50,"To help everyone find her house, Lisa drew a map with lots of colors.",146,control,high-cloze,"To help everyone find her house, Lisa drew a",map
+51,"To help everyone find her house, Lisa drew a flag with lots of colors.",146,control,low-cloze,"To help everyone find her house, Lisa drew a",flag
+52,They drank champagne to celebrate their twelfth wedding anniversary with friends and family.,147,control,high-cloze,They drank champagne to celebrate their twelfth wedding,anniversary
+53,They drank champagne to celebrate their twelfth wedding cake with friends and family.,147,control,low-cloze,They drank champagne to celebrate their twelfth wedding,cake
+54,The mother fed the newborn baby right after her lunch.,148,control,high-cloze,The mother fed the newborn,baby
+55,The mother fed the newborn hen right after her lunch.,148,control,low-cloze,The mother fed the newborn,hen
+56,The halftime entertainment was the junior high marching band playing their fight song.,149,control,high-cloze,The halftime entertainment was the junior high marching,band
+57,The halftime entertainment was the junior high marching choir playing their fight song.,149,control,low-cloze,The halftime entertainment was the junior high marching,choir
+58,On hot days many people sun themselves on the beach and read a book.,150,control,high-cloze,On hot days many people sun themselves on the,beach
+59,On hot days many people sun themselves on the roof and read a book.,150,control,low-cloze,On hot days many people sun themselves on the,roof
+60,The kids fed the ducks some stale bread from their pantry.,151,control,high-cloze,The kids fed the ducks some stale,bread
+61,The kids fed the ducks some stale cream from their pantry.,151,control,low-cloze,The kids fed the ducks some stale,cream
+62,The teller cashed the large traveller's check that John gave him.,152,control,high-cloze,The teller cashed the large traveller’s,check
+63,The teller cashed the large traveller's dollars that John gave him.,152,control,low-cloze,The teller cashed the large traveller’s,dollars
+64,On top of the hamburger there was melted cheese and it tasted great.,153,control,high-cloze,On top of the hamburger there was melted,cheese
+65,On top of the hamburger there was melted sandwich and it tasted great.,153,control,low-cloze,On top of the hamburger there was melted,sandwich
+66,The organist accompanied the church choir every Sunday morning at 10am.,154,control,high-cloze,The organist accompanied the church,choir
+67,The organist accompanied the church dentist every Sunday morning at 10am.,154,control,low-cloze,The organist accompanied the church,dentist
+68,Every Sunday morning people pray in their local church with their families and neighbors.,155,control,high-cloze,Every Sunday morning people pray in their local,church
+69,Every Sunday morning people pray in their local school with their families and neighbors.,155,control,low-cloze,Every Sunday morning people pray in their local,school
+70,The butler hung their clothes in the closet in the back hallway.,156,control,high-cloze,The butler hung their clothes in the,closet
+71,The butler hung their clothes in the church in the back hallway.,156,control,low-cloze,The butler hung their clothes in the,church
+72,I like hot fudge with ice cream and a cherry on top.,157,control,high-cloze,I like hot fudge with ice,cream
+73,I like hot fudge with ice lemon and a cherry on top.,157,control,low-cloze,I like hot fudge with ice,lemon
+74,John poured himself a glass of sparkling red wine to enjoy with dessert.,158,control,high-cloze,John poured himself a glass of sparkling red,wine
+75,John poured himself a glass of sparkling red soil to enjoy with dessert.,158,control,low-cloze,John poured himself a glass of sparkling red,soil
+76,Because he had a toothache he called his dentist to see what he would recommend.,159,control,high-cloze,Because he had a toothache he called his,dentist
+77,Because he had a toothache he called his band to see what he would recommend.,159,control,low-cloze,Because he had a toothache he called his,band
+78,Tim put his feet up on his father's oak desk even though he knew it was wrong.,160,control,high-cloze,Tim put his feet up on his father's oak,desk
+79,Tim put his feet up on his father's oak map even though he knew it was wrong.,160,control,low-cloze,Tim put his feet up on his father's oak,map
+80,The society's annual dues were fifty dollars from each returning member.,161,control,high-cloze,The society's annual dues were fifty,dollars
+81,The society's annual dues were fifty lessons from each returning member.,161,control,low-cloze,The society's annual dues were fifty,lessons
+82,The racing cars received the checkered flag to begin the race.,162,control,high-cloze,The racing cars received the checkered,flag
+83,The racing cars received the checkered star to begin the race.,162,control,low-cloze,The racing cars received the checkered,star
+84,Jack ordered a hamburger and french fries from the cashier.,163,control,high-cloze,Jack ordered a hamburger and french,fries
+85,Jack ordered a hamburger and french meal from the cashier.,163,control,low-cloze,Jack ordered a hamburger and french,meal
+86,My cat is covered with white fur and a few brown spots.,164,control,high-cloze,My cat is covered with white,fur
+87,My cat is covered with white fog and a few brown spots.,164,control,low-cloze,My cat is covered with white,fog
+88,The attendant filled the car with gas and washed the windows.,165,control,high-cloze,The attendant filled the car with,gas
+89,The attendant filled the car with shade and washed the windows.,165,control,low-cloze,The attendant filled the car with,shade
+90,A female chicken is called a hen and her babies are called chicks.,166,control,high-cloze,A female chicken is called a,hen
+91,A female chicken is called a hammer and her babies are called chicks.,166,control,low-cloze,A female chicken is called a,hammer
+92,The policeman's gun was sitting in his shoulder holster when the phone rang.,167,control,high-cloze,The policeman's gun was sitting in his shoulder,holster
+93,The policeman's gun was sitting in his shoulder leash when the phone rang.,167,control,low-cloze,The policeman's gun was sitting in his shoulder,leash
+94,They could not afford to give their daughter piano lessons so she taught herself.,168,control,high-cloze,They could not afford to give their daughter piano,lessons
+95,They could not afford to give their daughter piano muscles so she taught herself.,168,control,low-cloze,They could not afford to give their daughter piano,muscles
+96,Cut me a slice of bread from that loaf sitting on the counter.,169,control,high-cloze,Cut me a slice of bread from that,loaf
+97,Cut me a slice of bread from that holster sitting on the counter.,169,control,low-cloze,Cut me a slice of bread from that,holster
+98,The maid loaded the laundry into the washing machine and poured in the detergent.,170,control,high-cloze,The maid loaded the laundry into the washing,machine
+99,The maid loaded the laundry into the washing river and poured in the detergent.,170,control,low-cloze,The maid loaded the laundry into the washing,river
+100,Before exercising Jack always stretches his muscles for at least ten minutes.,171,control,high-cloze,Before exercising Jack always stretches his,muscles
+101,Before exercising Jack always stretches his luck for at least ten minutes.,171,control,low-cloze,Before exercising Jack always stretches his,luck
+102,My car needs a new coat of paint as soon as possible.,172,control,high-cloze,My car needs a new coat of,paint
+103,My car needs a new coat of fur as soon as possible.,172,control,low-cloze,My car needs a new coat of,fur
+104,They placed an ad in the daily paper asking for a babysitter.,173,control,high-cloze,They placed an ad in the daily,paper
+105,They placed an ad in the daily list asking for a babysitter.,173,control,low-cloze,They placed an ad in the daily,list
+106,They ate ice cream and cake at his birthday party last Sunday afternoon.,174,control,high-cloze,They ate ice cream and cake at his birthday,party
+107,They ate ice cream and cake at his birthday anniversary last Sunday afternoon.,174,control,low-cloze,They ate ice cream and cake at his birthday,anniversary
+108,In the morning he forgot to take his vitamin pill so he had to take it later.,175,control,high-cloze,In the morning he forgot to take his vitamin,pill
+109,In the morning he forgot to take his vitamin bread so he had to take it later.,175,control,low-cloze,In the morning he forgot to take his vitamin,bread
+110,The horse collapsed right after winning the race at the famous racetrack.,176,control,high-cloze,The horse collapsed right after winning the,race
+111,The horse collapsed right after winning the desk at the famous racetrack.,176,control,low-cloze,The horse collapsed right after winning the,desk
+112,He finally decided to shingle the damaged roof that the storm had ruined last year.,177,control,high-cloze,He finally decided to shingle the damaged,roof
+113,He finally decided to shingle the damaged city that the storm had ruined last year.,177,control,low-cloze,He finally decided to shingle the damaged,city
+114,I ordered a ham and cheese sandwich for lunch yesterday.,178,control,high-cloze,I ordered a ham and cheese,sandwich
+115,I ordered a ham and cheese bowl for lunch yesterday.,178,control,low-cloze,I ordered a ham and cheese,bowl
+116,Pam weighed herself on the bathroom scale to monitor her progress.,179,control,high-cloze,Pam weighed herself on the bathroom,scale
+117,Pam weighed herself on the bathroom machine to monitor her progress.,179,control,low-cloze,Pam weighed herself on the bathroom,machine
+118,They're out in the garden pulling weeds so the flowers can grow.,180,control,high-cloze,They're out in the garden pulling,weeds
+119,They're out in the garden pulling fries so the flowers can grow.,180,control,low-cloze,They're out in the garden pulling,fries
