@@ -1,4 +1,4 @@
-# RoleReversalLM
+# Argument Roles in Language Models
 
 This repository contains all the data and scripts used for the paper, "A Psycholinguistic Evaluation of Language Models' Sensitivity to Argument Roles".
 
