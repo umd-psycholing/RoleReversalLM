@@ -1,0 +1,25 @@
+{
+    "KO_clean.csv": {
+        "reversal": ["reversed", "canonical"], 
+        "comparison": ["low-cloze", "high-cloze"],
+        "comparison_condition" : "Cloze",
+        "name" : "Kim & Osterhout"
+    },
+    "LE_clean.csv": {
+        "reversal": ["reversed", "canonical"],
+        "comparison": ["alt_reversed", "alt_canonical"],
+        "comparison_condition": "Alternative",
+        "name" : "Ehrenhofer et al"
+    },
+    "WY_rev_sub_clean.csv": {
+        "reversal": ["reversed", "canonical"],
+        "comparison": ["low-cloze", "high-cloze"],
+        "comparison_condition": "Substitution",
+        "name" : "Chow et al"
+    },
+    "WY_con_clean.csv": {
+        "comparison": ["low-cloze", "high-cloze"],
+        "comparison_condition": "Control",
+        "name": "Chow et al"
+    }
+}
