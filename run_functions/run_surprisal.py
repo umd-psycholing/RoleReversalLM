@@ -90,7 +90,7 @@ plt.figure.savefig("figures/surprisal_effects.png")
 # Plotting the control/cloze conditions
 cloze_conditions = ['Kim & Osterhout Control', 'Chow et al Control']
 cloze_effect_table = melted[melted['condition'].isin(cloze_conditions)]
-g = sns.FacetGrid(cloze_effect_table, col = "condition", hue = "Model", height = 15, sharex=False, sharey=True, col_wrap=3)
+g = sns.FacetGrid(cloze_effect_table, col = "condition", col_order=expt_conditions, hue = "Model", height = 15, sharex=False, sharey=True, col_wrap=3)
 g.map(sns.barplot, "Model", "Surprisal Effect", order = model_names)
 g.set_titles(template="{col_name}", size = 64)
 g.set_axis_labels("", "Surprisal Effect")
