@@ -1,0 +1,241 @@
+,sentence,item,type,condition,patient,agent,context_had,target,patient_pos,agent_pos,target_pos
+0,The aquarium visitor wondered which fish the penguins had eaten during the performance.,1,substitution,high-cloze,fish,penguins,The aquarium visitor wondered which fish the penguins had,eaten,5,7,9
+1,The aquarium visitor wondered which trainer the penguins had eaten during the performance. ,1,substitution,low-cloze,trainer,penguins,The aquarium visitor wondered which trainer the penguins had,eaten,5,7,9
+2,The storyteller explained which dragon the prince had slain with his sword.,2,substitution,high-cloze,dragon,prince,The storyteller explained which dragon the prince had,slain,4,6,8
+3,The storyteller explained which princess the prince had slain with his sword.,2,substitution,low-cloze,princess,prince,The storyteller explained which princess the prince had,slain,4,6,8
+4,The superintendent overheard which tenant the landlord had evicted at the end of May.,3,substitution,high-cloze,tenant,landlord,The superintendent overheard which tenant the landlord had,evicted,4,6,8
+5,The superintendent overheard which realtor the landlord had evicted at the end of May.,3,substitution,low-cloze,realtor,landlord,The superintendent overheard which realtor the landlord had,evicted,4,6,8
+6,The butler speculated which guests the master had invited to the party.,4,substitution,high-cloze,guests,master,The butler speculated which guests the master had,invited,4,6,8
+7,The butler speculated which servants the master had invited to the party.,4,substitution,low-cloze,servants,master,The butler speculated which servants the master had,invited,4,6,8
+8,The priest mentioned which nonbeliever the nun had converted on her mission trip.,5,substitution,high-cloze,nonbeliever,nun,The priest mentioned which nonbeliever the nun had,converted,4,6,8
+9,The priest mentioned which archbishop the nun had converted on her mission trip.,5,substitution,low-cloze,archbishop,nun,The priest mentioned which archbishop the nun had,converted,4,6,8
+10,The sheriff boasted which horse the cowboy had ridden across the town.,6,substitution,high-cloze,horse,cowboy,The sheriff boasted which horse the cowboy had,ridden,4,6,8
+11,The sheriff boasted which bandit the cowboy had ridden across the town.,6,substitution,low-cloze,bandit,cowboy,The sheriff boasted which bandit the cowboy had,ridden,4,6,8
+12,Mr. Stevens revealed which clerk the manager had fired for being lazy.,7,substitution,high-cloze,clerk,manager,Mr. Stevens revealed which clerk the manager had,fired,4,6,8
+13,Mr. Stevens revealed which customer the manager had fired for being lazy.,7,substitution,low-cloze,customer,manager,Mr. Stevens revealed which customer the manager had,fired,4,6,8
+14,The secret serviceman concealed which ex-president the agent had protected from the terrorists. ,8,substitution,high-cloze,ex-president,agent,The secret serviceman concealed which ex-president the agent had,protected,5,7,9
+15,The secret serviceman concealed which assassin the agent had protected from the terrorists.,8,substitution,low-cloze,assassin,agent,The secret serviceman concealed which assassin the agent had,protected,5,7,9
+16,The Roman emperor asked which god the gladiator had worshipped for strength in battle.,9,substitution,high-cloze,god,gladiator,The Roman emperor asked which god the gladiator had,worshipped,5,7,9
+17,The Roman emperor asked which adversary the gladiator had worshipped for strength in battle. ,9,substitution,low-cloze,adversary,gladiator,The Roman emperor asked which adversary the gladiator had,worshipped,5,7,9
+18,The author revealed which maiden the hero had saved from the tower.,10,substitution,high-cloze,maiden,hero,The author revealed which maiden the hero had,saved,4,6,8
+19,The author revealed which ogre the hero had saved from the tower.,10,substitution,low-cloze,ogre,hero,The author revealed which ogre the hero had,saved,4,6,8
+20,The columnist publicized which billionaire the supermodel had married on public television. ,11,substitution,high-cloze,billionaire,supermodel,The columnist publicized which billionaire the supermodel had,married,4,6,8
+21,The columnist publicized which stylist the supermodel had married on public television.,11,substitution,low-cloze,stylist,supermodel,The columnist publicized which stylist the supermodel had,married,4,6,8
+22,The Iranian scholar researched which camels the Persians had ridden across the desert.,12,substitution,high-cloze,camels,Persians,The Iranian scholar researched which camels the Persians had,ridden,5,7,9
+23,The Iranian scholar researched which soldiers the Persians had ridden across the desert.,12,substitution,low-cloze,soldiers,Persians,The Iranian scholar researched which soldiers the Persians had,ridden,5,7,9
+24,The beggar saw which leper the saint had cured in the street.,13,substitution,high-cloze,leper,saint,The beggar saw which leper the saint had,cured,4,6,8
+25,The beggar saw which prophet the saint had cured in the street.,13,substitution,low-cloze,prophet,saint,The beggar saw which prophet the saint had,cured,4,6,8
+26,The historian recorded which patriot the king had knighted at the ceremony.,14,substitution,high-cloze,patriot,king,The historian recorded which patriot the king had,knighted,4,6,8
+27,The historian recorded which traitor the king had knighted at the ceremony.,14,substitution,low-cloze,traitor,king,The historian recorded which traitor the king had,knighted,4,6,8
+28,The monk recalled which sinner the priest had forgiven in church yesterday.,15,substitution,high-cloze,sinner,priest,The monk recalled which sinner the priest had,forgiven,4,6,8
+29,The monk recalled which cardinal the priest had forgiven in church yesterday.,15,substitution,low-cloze,cardinal,priest,The monk recalled which cardinal the priest had,forgiven,4,6,8
+30,The scientist noted which antelope the lion had eaten for his dinner.,16,substitution,high-cloze,antelope,lion,The scientist noted which antelope the lion had,eaten,4,6,8
+31,The scientist noted which cub the lion had eaten for his dinner.,16,substitution,low-cloze,cub,lion,The scientist noted which cub the lion had,eaten,4,6,8
+32,The secretary confirmed which illustrator the author had hired for the new book.,17,substitution,high-cloze,illustrator,author,The secretary confirmed which illustrator the author had,hired,4,6,8
+33,The secretary confirmed which readers the author had hired for the new book.,17,substitution,low-cloze,readers,author,The secretary confirmed which readers the author had,hired,4,6,8
+34,The stenographer recorded which defendant the judge had sentenced to fifteen years.,18,substitution,high-cloze,defendant,judge,The stenographer recorded which defendant the judge had,sentenced,4,6,8
+35,The stenographer recorded which lawyer the judge had sentenced to fifteen years.,18,substitution,low-cloze,lawyer,judge,The stenographer recorded which lawyer the judge had,sentenced,4,6,8
+36,Spencer guessed which agent the actress had hired to promote her career.,19,substitution,high-cloze,agent,actress,Spencer guessed which agent the actress had,hired,3,5,7
+37,Spencer guessed which admirer the actress had hired to promote her career.,19,substitution,low-cloze,admirer,actress,Spencer guessed which admirer the actress had,hired,3,5,7
+38,The editor listed which orphans the philanthropist had adopted from the faraway place.,20,substitution,high-cloze,orphans,philanthropist,The editor listed which orphans the philanthropist had,adopted,4,6,8
+39,The editor listed which volunteers the philanthropist had adopted from the faraway place.,20,substitution,low-cloze,volunteers,philanthropist,The editor listed which volunteers the philanthropist had,adopted,4,6,8
+40,The farmer remembered which pig the butcher had slaughtered in his kitchen.,21,substitution,high-cloze,pig,butcher,The farmer remembered which pig the butcher had,slaughtered,4,6,8
+41,The farmer remembered which vegetarian the butcher had slaughtered in his kitchen.,21,substitution,low-cloze,vegetarian,butcher,The farmer remembered which vegetarian the butcher had,slaughtered,4,6,8
+42,The homeowner asked which insects the exterminator had killed when he came over.,22,substitution,high-cloze,insects,exterminator,The homeowner asked which insects the exterminator had,killed,4,6,8
+43,The homeowner asked which plumber the exterminator had killed when he came over.,22,substitution,low-cloze,plumber,exterminator,The homeowner asked which plumber the exterminator had,killed,4,6,8
+44,The barkeeper knew which barmaids the regulars had tipped for their drinks.,23,substitution,high-cloze,barmaids,regulars,The barkeeper knew which barmaids the regulars had,tipped,4,6,8
+45,The barkeeper knew which troublemakers the regulars had tipped for their drinks.,23,substitution,low-cloze,troublemakers,regulars,The barkeeper knew which troublemakers the regulars had,tipped,4,6,8
+46,The ethnographer asked which deer the Indians had hunted with bows and arrows.,24,substitution,high-cloze,deer,Indians,The ethnographer asked which deer the Indians had,hunted,4,6,8
+47,The ethnographer asked which babies the Indians had hunted with bows and arrows.,24,substitution,low-cloze,babies,Indians,The ethnographer asked which babies the Indians had,hunted,4,6,8
+48,The historian knew which princess the king had married at the royal palace.,25,substitution,high-cloze,princess,king,The historian knew which princess the king had,married,4,6,8
+49,The historian knew which prince the king had married at the royal palace.,25,substitution,low-cloze,prince,king,The historian knew which prince the king had,married,4,6,8
+50,The journalist reported which opponent the politician had defeated by a wide margin.,26,substitution,high-cloze,opponent,politician,The journalist reported which opponent the politician had,defeated,4,6,8
+51,The journalist reported which voters the politician had defeated by a wide margin.,26,substitution,low-cloze,voters,politician,The journalist reported which voters the politician had,defeated,4,6,8
+52,The parent noticed which insects the child had collected in a jar.,27,substitution,high-cloze,insects,child,The parent noticed which insects the child had,collected,4,6,8
+53,The parent noticed which teacher the child had collected in a jar.,27,substitution,low-cloze,teacher,child,The parent noticed which teacher the child had,collected,4,6,8
+54,The scribe recorded which loyalists the monarch had rewarded for their actions.,28,substitution,high-cloze,loyalists,monarch,The scribe recorded which loyalists the monarch had,rewarded,4,6,8
+55,The scribe recorded which rebels the monarch had rewarded for their actions.,28,substitution,low-cloze,rebels,monarch,The scribe recorded which rebels the monarch had,rewarded,4,6,8
+56,The teacher remembered which delinquent the principal had suspended for a week.,29,substitution,high-cloze,delinquent,principal,The teacher remembered which delinquent the principal had,suspended,4,6,8
+57,The teacher remembered which overachiever the principal had suspended for a week.,29,substitution,low-cloze,overachiever,principal,The teacher remembered which overachiever the principal had,suspended,4,6,8
+58,Sally heard which patient the doctor had treated first thing this morning.,30,substitution,high-cloze,patient,doctor,Sally heard which patient the doctor had,treated,3,5,7
+59,Sally heard which nurse the doctor had treated first thing this morning.,30,substitution,low-cloze,nurse,doctor,Sally heard which nurse the doctor had,treated,3,5,7
+60,The beach bum saw which fish the seagulls had caught along the beach.,31,substitution,high-cloze,fish,seagulls,The beach bum saw which fish the seagulls had,caught,5,7,9
+61,The beach bum saw which picnickers the seagulls had caught along the beach.,31,substitution,low-cloze,picnickers,seagulls,The beach bum saw which picnickers the seagulls had,caught,5,7,9
+62,The circus-goer explained which juggler the clown had tripped in the center ring.,32,substitution,high-cloze,juggler,clown,The circus-goer explained which juggler the clown had,tripped,4,6,8
+63,The circus-goer explained which child the clown had tripped in the center ring.,32,substitution,low-cloze,child,clown,The circus-goer explained which child the clown had,tripped,4,6,8
+64,The football fan heard which cheerleader the quarterback had dated after the season.,33,substitution,high-cloze,cheerleader,quarterback,The football fan heard which cheerleader the quarterback had,dated,5,7,9
+65,The football fan heard which linebacker the quarterback had dated after the season.,33,substitution,low-cloze,linebacker,quarterback,The football fan heard which linebacker the quarterback had,dated,5,7,9
+66,The seasonal laborer marked which cows the farmer had milked early this morning.,34,substitution,high-cloze,cows,farmer,The seasonal laborer marked which cows the farmer had,milked,5,7,9
+67,The seasonal laborer marked which chickens the farmer had milked early this morning.,34,substitution,low-cloze,chickens,farmer,The seasonal laborer marked which chickens the farmer had,milked,5,7,9
+68,The secretary knew which manager the CEO had promoted from the old office.,35,substitution,high-cloze,manager,CEO,The secretary knew which manager the CEO had,promoted,4,6,8
+69,The secretary knew which investor the CEO had promoted from the old office.,35,substitution,low-cloze,investor,CEO,The secretary knew which investor the CEO had,promoted,4,6,8
+70,General Jones heard which terrorist the corporal had captured during the battle.,36,substitution,high-cloze,terrorist,corporal,General Jones heard which terrorist the corporal had,captured,4,6,8
+71,General Jones heard which comrade the corporal had captured during the battle.,36,substitution,low-cloze,comrade,corporal,General Jones heard which comrade the corporal had,captured,4,6,8
+72,Jason saw which nerd the teacher had praised for his good behavior.,37,substitution,high-cloze,nerd,teacher,Jason saw which nerd the teacher had,praised,3,5,7
+73,Jason saw which rascal the teacher had praised for his good behavior.,37,substitution,low-cloze,rascal,teacher,Jason saw which rascal the teacher had,praised,3,5,7
+74,Jim forgot which addict the therapist had treated in his last session.,38,substitution,high-cloze,addict,therapist,Jim forgot which addict the therapist had,treated,3,5,7
+75,Jim forgot which doctor the therapist had treated in his last session.,38,substitution,low-cloze,doctor,therapist,Jim forgot which doctor the therapist had,treated,3,5,7
+76,The announcer stated which teammate the player had replaced for the upcoming game.,39,substitution,high-cloze,teammate,player,The announcer stated which teammate the player had,replaced,4,6,8
+77,The announcer stated which rival the player had replaced for the upcoming game.,39,substitution,low-cloze,rival,player,The announcer stated which rival the player had,replaced,4,6,8
+78,The crafts fair manager asked which cows the leatherworker had skinned to make his bags.,40,substitution,high-cloze,cows,leatherworker,The crafts fair manager asked which cows the leatherworker had,skinned,6,8,10
+79,The crafts fair manager asked which customers the leatherworker had skinned to make his bags. ,40,substitution,low-cloze,customers,leatherworker,The crafts fair manager asked which customers the leatherworker had,skinned,6,8,10
+80,The police woman recognized which officer the lieutenant had promoted to a higher position. ,41,substitution,high-cloze,officer,lieutenant,The police woman recognized which officer the lieutenant had,promoted,5,7,9
+81,The police woman recognized which thief the lieutenant had promoted to a higher position. ,41,substitution,low-cloze,thief,lieutenant,The police woman recognized which thief the lieutenant had,promoted,5,7,9
+82,The reviewer forgot which researchers the authors had cited in their paper.,42,substitution,high-cloze,researchers,authors,The reviewer forgot which researchers the authors had,cited,4,6,8
+83,The reviewer forgot which mice the authors had cited in their paper.,42,substitution,low-cloze,mice,authors,The reviewer forgot which mice the authors had,cited,4,6,8
+84,The swim team captain recalled which champion the swimmer had defeated at last week's race. ,43,substitution,high-cloze,champion,swimmer,The swim team captain recalled which champion the swimmer had,defeated,6,8,10
+85,The swim team captain recalled which lifeguard the swimmer had defeated at last week's race. ,43,substitution,low-cloze,lifeguard,swimmer,The swim team captain recalled which lifeguard the swimmer had,defeated,6,8,10
+86,The zoologist marked which pup the seal had birthed over the weekend.,44,substitution,high-cloze,pup,seal,The zoologist marked which pup the seal had,birthed,4,6,8
+87,The zoologist marked which walrus the seal had birthed over the weekend.,44,substitution,low-cloze,walrus,seal,The zoologist marked which walrus the seal had,birthed,4,6,8
+88,The captain realized which stowaway the sailor had hidden in the cargo hold.,45,substitution,high-cloze,stowaway,sailor,The captain realized which stowaway the sailor had,hidden,4,6,8
+89,The captain realized which pirate the sailor had hidden in the cargo hold.,45,substitution,low-cloze,pirate,sailor,The captain realized which pirate the sailor had,hidden,4,6,8
+90,The father recalled which girl the boy had dated in junior high.,46,substitution,high-cloze,girl,boy,The father recalled which girl the boy had,dated,4,6,8
+91,The father recalled which dog the boy had dated in junior high.,46,substitution,low-cloze,dog,boy,The father recalled which dog the boy had,dated,4,6,8
+92,The Japanese scientists showed which salespeople the robots had replaced in the last decade. ,47,substitution,high-cloze,salespeople,robots,The Japanese scientists showed which salespeople the robots had,replaced,5,7,9
+93,The Japanese scientists showed which patients the robots had replaced in the last decade.,47,substitution,low-cloze,patients,robots,The Japanese scientists showed which patients the robots had,replaced,5,7,9
+94,The principal forgot which student the teacher had disciplined after school yesterday.,48,substitution,high-cloze,student,teacher,The principal forgot which student the teacher had,disciplined,4,6,8
+95,The principal forgot which parent the teacher had disciplined after school yesterday.,48,substitution,low-cloze,parent,teacher,The principal forgot which parent the teacher had,disciplined,4,6,8
+96,The shepherd saw which lamb the sheep had birthed by the barn.,49,substitution,high-cloze,lamb,sheep,The shepherd saw which lamb the sheep had,birthed,4,6,8
+97,The shepherd saw which predator the sheep had birthed by the barn.,49,substitution,low-cloze,predator,sheep,The shepherd saw which predator the sheep had,birthed,4,6,8
+98,The snoop determined which bouncer the alcoholic had punched last Friday night.,50,substitution,high-cloze,bouncer,alcoholic,The snoop determined which bouncer the alcoholic had,punched,4,6,8
+99,The snoop determined which psychologist the alcoholic had punched last Friday night.,50,substitution,low-cloze,psychologist,alcoholic,The snoop determined which psychologist the alcoholic had,punched,4,6,8
+100,Carla inquired which exterminator the landlord had used in the apartment.,51,substitution,high-cloze,exterminator,landlord,Carla inquired which exterminator the landlord had,used,3,5,7
+101,Carla inquired which neighbor the landlord had used in the apartment.,51,substitution,low-cloze,neighbor,landlord,Carla inquired which neighbor the landlord had,used,3,5,7
+102,Karen learned which teenager the mother had grounded for disobeying her.,52,substitution,high-cloze,teenager,mother,Karen learned which teenager the mother had,grounded,3,5,7
+103,Karen learned which baby the mother had grounded for disobeying her.,52,substitution,low-cloze,baby,mother,Karen learned which baby the mother had,grounded,3,5,7
+104,Sandra observed which biologists the zookeeper had consulted about the food.,53,substitution,high-cloze,biologists,zookeeper,Sandra observed which biologists the zookeeper had,consulted,3,5,7
+105,Sandra observed which gorillas the zookeeper had consulted about the food.,53,substitution,low-cloze,gorillas,zookeeper,Sandra observed which gorillas the zookeeper had,consulted,3,5,7
+106,The anthropologist discovered which animal the caveman had hunted with flint arrows.,54,substitution,high-cloze,animal,caveman,The anthropologist discovered which animal the caveman had,hunted,4,6,8
+107,The anthropologist discovered which goddess the caveman had hunted with flint arrows.,54,substitution,low-cloze,goddess,caveman,The anthropologist discovered which goddess the caveman had,hunted,4,6,8
+108,The mother wondered which trick-or-treaters the neighbor had scared with his costume.,55,substitution,high-cloze,trick-or-treaters,neighbor,The mother wondered which trick-or-treaters the neighbor had,scared,4,6,8
+109,The mother wondered which milkman the neighbor had scared with his costume.,55,substitution,low-cloze,milkman,neighbor,The mother wondered which milkman the neighbor had,scared,4,6,8
+110,The movie buff speculated which actor the stuntman had portrayed in the opening scene.,56,substitution,high-cloze,actor,stuntman,The movie buff speculated which actor the stuntman had,portrayed,5,7,9
+111,The movie buff speculated which director the stuntman had portrayed in the opening scene. ,56,substitution,low-cloze,director,stuntman,The movie buff speculated which director the stuntman had,portrayed,5,7,9
+112,The researcher recorded which chimpanzee the biologist had tagged to be studied.,57,substitution,high-cloze,chimpanzee,biologist,The researcher recorded which chimpanzee the biologist had,tagged,4,6,8
+113,The researcher recorded which assistant the biologist had tagged to be studied.,57,substitution,low-cloze,assistant,biologist,The researcher recorded which assistant the biologist had,tagged,4,6,8
+114,The sentry knew which guard the captain had fired from the position.,58,substitution,high-cloze,captain,captain,The sentry knew which guard the captain had,fired,6,6,8
+115,The sentry knew which townsperson the captain had fired from the position.,58,substitution,low-cloze,townsperson,captain,The sentry knew which townsperson the captain had,fired,4,6,8
+116,The team manager knew which athlete the officials had penalized for being unsportsmanlike.,59,substitution,high-cloze,athlete,officials,The team manager knew which athlete the officials had,penalized,5,7,9
+117,The team manager knew which umpire the officials had penalized for being unsportsmanlike. ,59,substitution,low-cloze,umpire,officials,The team manager knew which umpire the officials had,penalized,5,7,9
+118,The theater owner described which spectators the magician had amazed with his tricks.,60,substitution,high-cloze,spectators,magician,The theater owner described which spectators the magician had,amazed,5,7,9
+119,The theater owner described which rabbit the magician had amazed with his tricks.,60,substitution,low-cloze,rabbit,magician,The theater owner described which rabbit the magician had,amazed,5,7,9
+120,The librarian documented which celebrities the journalist had interviewed for the magazine.,61,reversal,canonical,celebrities,journalist,The librarian documented which celebrities the journalist had,interviewed,4,6,8
+121,The librarian documented which journalist the celebrities had interviewed for the magazine.,61,reversal,reversed,journalist,celebrities,The librarian documented which journalist the celebrities had,interviewed,4,6,8
+122,The old widower remembered which villager the ghost had haunted for many years.,62,reversal,canonical,villager,ghost,The old widower remembered which villager the ghost had,haunted,5,7,9
+123,The old widower remembered which ghost the villager had haunted for many years.,62,reversal,reversed,ghost,villager,The old widower remembered which ghost the villager had,haunted,5,7,9
+124,The firefighter reported which victim the paramedic had saved after the fire.,63,reversal,canonical,victim,paramedic,The firefighter reported which victim the paramedic had,saved,4,6,8
+125,The firefighter reported which paramedic the victim had saved after the fire.,63,reversal,reversed,paramedic,victim,The firefighter reported which paramedic the victim had,saved,4,6,8
+126,The historian documented which prince the assassin had killed in the 10th century.,64,reversal,canonical,prince,assassin,The historian documented which prince the assassin had,killed,4,6,8
+127,The historian documented which assassin the prince had killed in the 10th century.,64,reversal,reversed,assassin,prince,The historian documented which assassin the prince had,killed,4,6,8
+128,The park ranger documented which eagle the hunter had shot with a rifle.,65,reversal,canonical,eagle,hunter,The park ranger documented which eagle the hunter had,shot,5,7,9
+129,The park ranger documented which hunter the eagle had shot with a rifle.,65,reversal,reversed,hunter,eagle,The park ranger documented which hunter the eagle had,shot,5,7,9
+130,The judo master recognized which defender the assailant had attacked late last night.,66,reversal,canonical,defender,assailant,The judo master recognized which defender the assailant had,attacked,5,7,9
+131,The judo master recognized which assailant the defender had attacked late last night.,66,reversal,reversed,assailant,defender,The judo master recognized which assailant the defender had,attacked,5,7,9
+132,The naturalist observed which predators the deer had avoided by sleeping in the daytime.,67,reversal,canonical,predators,deer,The naturalist observed which predators the deer had,avoided,4,6,8
+133,The naturalist observed which deer the predators had avoided by sleeping in the daytime.,67,reversal,reversed,deer,predators,The naturalist observed which deer the predators had,avoided,4,6,8
+134,The restaurant owner forgot which customer the waitress had served during dinner yesterday.,68,reversal,canonical,customer,waitress,The restaurant owner forgot which customer the waitress had,served,5,7,9
+135,The restaurant owner forgot which waitress the customer had served during dinner yesterday.,68,reversal,reversed,waitress,customer,The restaurant owner forgot which waitress the customer had,served,5,7,9
+136,The head nun explained which friar the temptress had seduced after Sunday mass.,69,reversal,canonical,friar,temptress,The head nun explained which friar the temptress had,seduced,5,7,9
+137,The head nun explained which temptress the friar had seduced after Sunday mass.,69,reversal,reversed,temptress,friar,The head nun explained which temptress the friar had,seduced,5,7,9
+138,The housekeeper showed which mouse the cat had killed under the table.,70,reversal,canonical,mouse,cat,The housekeeper showed which mouse the cat had,killed,4,6,8
+139,The housekeeper showed which cat the mouse had killed under the table.,70,reversal,reversed,cat,mouse,The housekeeper showed which cat the mouse had,killed,4,6,8
+140,The nanny knew which housekeeper the billionaire had hired from their conversation.,71,reversal,canonical,housekeeper,billionaire,The nanny knew which housekeeper the billionaire had,hired,4,6,8
+141,The nanny knew which billionaire the housekeeper had hired from their conversation.,71,reversal,reversed,billionaire,housekeeper,The nanny knew which billionaire the housekeeper had,hired,4,6,8
+142,The researcher learned which whale the biologist had studied in the lab.,72,reversal,canonical,whale,biologist,The researcher learned which whale the biologist had,studied,4,6,8
+143,The researcher learned which biologist the whale had studied in the lab.,72,reversal,reversed,biologist,whale,The researcher learned which biologist the whale had,studied,4,6,8
+144,Tracy announced which applicant the administrator had chosen after the interview.,73,reversal,canonical,administrator,applicant,Tracy announced which applicant the administrator had,chosen,5,3,7
+145,Tracy announced which administrator the applicant had chosen after the interview.,73,reversal,reversed,applicant,administrator,Tracy announced which administrator the applicant had,chosen,5,3,7
+146,The birthday boy saw which friend the clown had scared at the party.,74,reversal,canonical,friend,clown,The birthday boy saw which friend the clown had,scared,5,7,9
+147,The birthday boy saw which clown the friend had scared at the party.,74,reversal,reversed,clown,friend,The birthday boy saw which clown the friend had,scared,5,7,9
+148,The columnist publicized which photographer the celebrity had punched in the nose.,75,reversal,canonical,photographer,celebrity,The columnist publicized which photographer the celebrity had,punched,4,6,8
+149,The columnist publicized which celebrity the photographer had punched in the nose.,75,reversal,reversed,celebrity,photographer,The columnist publicized which celebrity the photographer had,punched,4,6,8
+150,The documentarian showed which piglets the agriculturalist had raised at the farm.,76,reversal,canonical,piglets,agriculturalist,The documentarian showed which piglets the agriculturalist had,raised,4,6,8
+151,The documentarian showed which agriculturalist the piglets had raised at the farm.,76,reversal,reversed,agriculturalist,piglets,The documentarian showed which agriculturalist the piglets had,raised,4,6,8
+152,The police officer noted which jeweler the burglar had robbed on his spree.,77,reversal,canonical,jeweler,burglar,The police officer noted which jeweler the burglar had,robbed,5,7,9
+153,The police officer noted which burglar the jeweler had robbed on his spree.,77,reversal,reversed,burglar,jeweler,The police officer noted which burglar the jeweler had,robbed,5,7,9
+154,The royal cook asked which lord the chef had served for twenty years.,78,reversal,canonical,lord,chef,The royal cook asked which lord the chef had,served,5,7,9
+155,The royal cook asked which chef the lord had served for twenty years.,78,reversal,reversed,chef,lord,The royal cook asked which chef the lord had,served,5,7,9
+156,The trapeze artist indicated which lion the trainer had tamed for the circus.,79,reversal,canonical,lion,trainer,The trapeze artist indicated which lion the trainer had,tamed,5,7,9
+157,The trapeze artist indicated which trainer the lion had tamed for the circus.,79,reversal,reversed,trainer,lion,The trapeze artist indicated which trainer the lion had,tamed,5,7,9
+158,The wildlife curator mentioned which ape the zookeeper had fed some fresh fruit.,80,reversal,canonical,ape,zookeeper,The wildlife curator mentioned which ape the zookeeper had,fed,5,7,9
+159,The wildlife curator mentioned which zookeeper the ape had fed some fresh fruit.,80,reversal,reversed,zookeeper,ape,The wildlife curator mentioned which zookeeper the ape had,fed,5,7,9
+160,The aid worker realized which refugees the philanthropist had helped to escape starvation.,81,reversal,canonical,refugees,philanthropist,The aid worker realized which refugees the philanthropist had,helped,5,7,9
+161,The aid worker realized which philanthropist the refugees had helped to escape starvation.,81,reversal,reversed,philanthropist,refugees,The aid worker realized which philanthropist the refugees had,helped,5,7,9
+162,The camper reported which girl the bear had mauled in the forest.,82,reversal,canonical,girl,bear,The camper reported which girl the bear had,mauled,4,6,8
+163,The camper reported which bear the girl had mauled in the forest.,82,reversal,reversed,bear,girl,The camper reported which bear the girl had,mauled,4,6,8
+164,The dance instructor noticed which onlookers the performers had impressed in the audience.,83,reversal,canonical,onlookers,performers,The dance instructor noticed which onlookers the performers had,impressed,5,7,9
+165,The dance instructor noticed which performers the onlookers had impressed in the audience.,83,reversal,reversed,performers,onlookers,The dance instructor noticed which performers the onlookers had,impressed,5,7,9
+166,The high schooler heard which geek the jock had bullied in the hall.,84,reversal,canonical,geek,jock,The high schooler heard which geek the jock had,bullied,5,7,9
+167,The high schooler heard which jock the geek had bullied in the hall.,84,reversal,reversed,jock,geek,The high schooler heard which jock the geek had,bullied,5,7,9
+168,The parent saw which child the lifeguard had rescued from the pool.,85,reversal,canonical,child,lifeguard,The parent saw which child the lifeguard had,rescued,4,6,8
+169,The parent saw which lifeguard the child had rescued from the pool.,85,reversal,reversed,lifeguard,child,The parent saw which lifeguard the child had,rescued,4,6,8
+170,The ringmaster recognized which cheetah the tamer had trained three years ago.,86,reversal,canonical,cheetah,tamer,The ringmaster recognized which cheetah the tamer had,trained,4,6,8
+171,The ringmaster recognized which tamer the cheetah had trained three years ago.,86,reversal,reversed,tamer,cheetah,The ringmaster recognized which tamer the cheetah had,trained,4,6,8
+172,The travel agent recorded which innkeeper the guests had liked in his notebook.,87,reversal,canonical,innkeeper,guests,The travel agent recorded which innkeeper the guests had,liked,5,7,9
+173,The travel agent recorded which guests the innkeeper had liked in his notebook.,87,reversal,reversed,guests,innkeeper,The travel agent recorded which guests the innkeeper had,liked,5,7,9
+174,The bird watcher saw which photographer the hawk had attacked in the woods.,88,reversal,canonical,photographer,hawk,The bird watcher saw which photographer the hawk had,attacked,5,7,9
+175,The bird watcher saw which hawk the photographer had attacked in the woods.,88,reversal,reversed,hawk,photographer,The bird watcher saw which hawk the photographer had,attacked,5,7,9
+176,The costume designer confirmed which actor the barber had shaved for the part.,89,reversal,canonical,actor,barber,The costume designer confirmed which actor the barber had,shaved,5,7,9
+177,The costume designer confirmed which barber the actor had shaved for the part.,89,reversal,reversed,barber,actor,The costume designer confirmed which barber the actor had,shaved,5,7,9
+178,The Indian king identified which prince the elephant had trampled during the long journey.,90,reversal,canonical,prince,elephant,The Indian king identified which prince the elephant had,trampled,5,7,9
+179,The Indian king identified which elephant the prince had trampled during the long journey.,90,reversal,reversed,elephant,prince,The Indian king identified which elephant the prince had,trampled,5,7,9
+180,The investigator discovered which couple the abductor had taken during their vacation.,91,reversal,canonical,couple,abductor,The investigator discovered which couple the abductor had,taken,4,6,8
+181,The investigator discovered which abductor the couple had taken during their vacation.,91,reversal,reversed,abductor,couple,The investigator discovered which abductor the couple had,taken,4,6,8
+182,The jail keeper forgot which guard the prisoner had attacked in his cell.,92,reversal,canonical,guard,prisoner,The jail keeper forgot which guard the prisoner had,attacked,5,7,9
+183,The jail keeper forgot which prisoner the guard had attacked in his cell.,92,reversal,reversed,prisoner,guard,The jail keeper forgot which prisoner the guard had,attacked,5,7,9
+184,The sailor saw which whale the man had harpooned on the starboard side.,93,reversal,canonical,whale,man,The sailor saw which whale the man had,harpooned,4,6,8
+185,The sailor saw which man the whale had harpooned on the starboard side.,93,reversal,reversed,man,whale,The sailor saw which man the whale had,harpooned,4,6,8
+186,The sheriff recalled which locals the gangsters had robbed in a dark alleyway.,94,reversal,canonical,locals,gangsters,The sheriff recalled which locals the gangsters had,robbed,4,6,8
+187,The sheriff recalled which gangsters the locals had robbed in a dark alleyway.,94,reversal,reversed,gangsters,locals,The sheriff recalled which gangsters the locals had,robbed,4,6,8
+188,The undead king recognized which woman the zombie had bitten during the fight.,95,reversal,canonical,woman,zombie,The undead king recognized which woman the zombie had,bitten,5,7,9
+189,The undead king recognized which zombie the woman had bitten during the fight.,95,reversal,reversed,zombie,woman,The undead king recognized which zombie the woman had,bitten,5,7,9
+190,Tonia explained which housewife the conman had swindled over the phone.,96,reversal,canonical,housewife,conman,Tonia explained which housewife the conman had,swindled,3,5,7
+191,Tonia explained which conman the housewife had swindled over the phone.,96,reversal,reversed,conman,housewife,Tonia explained which conman the housewife had,swindled,3,5,7
+192,The broadcaster explained which contestant the judge had disqualified from the show.,97,reversal,canonical,contestant,judge,The broadcaster explained which contestant the judge had,disqualified,4,6,8
+193,The broadcaster explained which judge the contestant had disqualified from the show.,97,reversal,reversed,judge,contestant,The broadcaster explained which judge the contestant had,disqualified,4,6,8
+194,The campaign volunteer speculated which mayor the voters had elected by a landslide.,98,reversal,canonical,mayor,voters,The campaign volunteer speculated which mayor the voters had,elected,5,7,9
+195,The campaign volunteer speculated which voters the mayor had elected by a landslide.,98,reversal,reversed,voters,mayor,The campaign volunteer speculated which voters the mayor had,elected,5,7,9
+196,The family counselor understood which daughter the stepparent had abused on a daily basis.,99,reversal,canonical,daughter,stepparent,The family counselor understood which daughter the stepparent had,abused,5,7,9
+197,The family counselor understood which stepparent the daughter had abused on a daily basis.,99,reversal,reversed,stepparent,daughter,The family counselor understood which stepparent the daughter had,abused,5,7,9
+198,The newscaster confirmed which fugitive the policeman had arrested following the robbery.,100,reversal,canonical,fugitive,policeman,The newscaster confirmed which fugitive the policeman had,arrested,4,6,8
+199,The newscaster confirmed which policeman the fugitive had arrested following the robbery.,100,reversal,reversed,policeman,fugitive,The newscaster confirmed which policeman the fugitive had,arrested,4,6,8
+200,The opera composer revealed which pirate the singer had portrayed with the greatest finesse.,101,reversal,canonical,pirate,singer,The opera composer revealed which pirate the singer had,portrayed,5,7,9
+201,The opera composer revealed which singer the pirate had portrayed with the greatest finesse.,101,reversal,reversed,singer,pirate,The opera composer revealed which singer the pirate had,portrayed,5,7,9
+202,The prison warden guessed which jailer the inmate had stabbed with a knife.,102,reversal,canonical,jailer,inmate,The prison warden guessed which jailer the inmate had,stabbed,5,7,9
+203,The prison warden guessed which inmate the jailer had stabbed with a knife.,102,reversal,reversed,inmate,jailer,The prison warden guessed which inmate the jailer had,stabbed,5,7,9
+204,The producer observed which viewers the acrobats had impressed with their tricks.,103,reversal,canonical,viewers,acrobats,The producer observed which viewers the acrobats had,impressed,4,6,8
+205,The producer observed which acrobats the viewers had impressed with their tricks.,103,reversal,reversed,acrobats,viewers,The producer observed which acrobats the viewers had,impressed,4,6,8
+206,The queen recognized which nobleman the comedian had entertained with his jokes.,104,reversal,canonical,nobleman,comedian,The queen recognized which nobleman the comedian had,entertained,4,6,8
+207,The queen recognized which comedian the nobleman had entertained with his jokes.,104,reversal,reversed,comedian,nobleman,The queen recognized which comedian the nobleman had,entertained,4,6,8
+208,The reporter inquired which animals the groomer had cleaned with special shampoo.,105,reversal,canonical,animals,groomer,The reporter inquired which animals the groomer had,cleaned,4,6,8
+209,The reporter inquired which groomer the animals had cleaned with special shampoo.,105,reversal,reversed,groomer,animals,The reporter inquired which groomer the animals had,cleaned,4,6,8
+210,The ape researcher identified which chimpanzee the poacher had shot in the jungle.,106,reversal,canonical,chimpanzee,poacher,The ape researcher identified which chimpanzee the poacher had,shot,5,7,9
+211,The ape researcher identified which poacher the chimpanzee had shot in the jungle.,106,reversal,reversed,poacher,chimpanzee,The ape researcher identified which poacher the chimpanzee had,shot,5,7,9
+212,The boatman saw which shark the diver had speared just off the shore.,107,reversal,canonical,shark,diver,The boatman saw which shark the diver had,speared,4,6,8
+213,The boatman saw which diver the shark had speared just off the shore.,107,reversal,reversed,diver,shark,The boatman saw which diver the shark had,speared,4,6,8
+214,The committee member guessed which advisors the president had appointed to the Cabinet.,108,reversal,canonical,advisors,president,The committee member guessed which advisors the president had,appointed,5,7,9
+215,The committee member guessed which president the advisors had appointed to the Cabinet.,108,reversal,reversed,president,advisors,The committee member guessed which president the advisors had,appointed,5,7,9
+216,The farmer indicated which donkey the townsperson had bought in the neighboring village.,109,reversal,canonical,donkey,townsperson,The farmer indicated which donkey the townsperson had,bought,4,6,8
+217,The farmer indicated which townsperson the donkey had bought in the neighboring village.,109,reversal,reversed,townsperson,donkey,The farmer indicated which townsperson the donkey had,bought,4,6,8
+218,The military man knew which soldiers the general had promoted after their tour.,110,reversal,canonical,soldiers,general,The military man knew which soldiers the general had,promoted,5,7,9
+219,The military man knew which general the soldiers had promoted after their tour.,110,reversal,reversed,general,soldiers,The military man knew which general the soldiers had,promoted,5,7,9
+220,The parole officer confirmed which delinquent the psychologist had treated several times already.,111,reversal,canonical,delinquent,psychologist,The parole officer confirmed which delinquent the psychologist had,treated,5,7,9
+221,The parole officer confirmed which psychologist the delinquent had treated several times already.,111,reversal,reversed,psychologist,delinquent,The parole officer confirmed which psychologist the delinquent had,treated,5,7,9
+222,The policeman knew which suspect the detective had arrested for the recent crime.,112,reversal,canonical,suspect,detective,The policeman knew which suspect the detective had,arrested,4,6,8
+223,The policeman knew which detective the suspect had arrested for the recent crime.,112,reversal,reversed,detective,suspect,The policeman knew which detective the suspect had,arrested,4,6,8
+224,The priest knew which demon the exorcist had expelled with a cross.,113,reversal,canonical,demon,exorcist,The priest knew which demon the exorcist had,expelled,4,6,8
+225,The priest knew which exorcist the demon had expelled with a cross.,113,reversal,reversed,exorcist,demon,The priest knew which exorcist the demon had,expelled,4,6,8
+226,Jack observed which passenger the conductor had removed from the train.,114,reversal,canonical,passenger,conductor,Jack observed which passenger the conductor had,removed,3,5,7
+227,Jack observed which conductor the passenger had removed from the train.,114,reversal,reversed,conductor,passenger,Jack observed which conductor the passenger had,removed,3,5,7
+228,Teresa knew which neighbor the parrot had bitten at the block party.,115,reversal,canonical,neighbor,parrot,Teresa knew which neighbor the parrot had,bitten,3,5,7
+229,Teresa knew which parrot the neighbor had bitten at the block party.,115,reversal,reversed,parrot,neighbor,Teresa knew which parrot the neighbor had,bitten,3,5,7
+230,The art critic identified which model the artist had drawn in the studio.,116,reversal,canonical,model,artist,The art critic identified which model the artist had,drawn,5,7,9
+231,The art critic identified which artist the model had drawn in the studio.,116,reversal,reversed,artist,model,The art critic identified which artist the model had,drawn,5,7,9
+232,The cotton farmer wondered which master the slave had escaped by running through the woods.,117,reversal,canonical,master,slave,The cotton farmer wondered which master the slave had,escaped,5,7,9
+233,The cotton farmer wondered which slave the master had escaped by running through the woods.,117,reversal,reversed,slave,master,The cotton farmer wondered which slave the master had,escaped,5,7,9
+234,The farmhand recorded which goats the breeder had sold at the market.,118,reversal,canonical,goats,breeder,The farmhand recorded which goats the breeder had,sold,4,6,8
+235,The farmhand recorded which breeder the goats had sold at the market.,118,reversal,reversed,breeder,goats,The farmhand recorded which breeder the goats had,sold,4,6,8
+236,The four-year-old knew which hero the dragon had eaten for dinner last night.,119,reversal,canonical,hero,dragon,The four-year-old knew which hero the dragon had,eaten,4,6,8
+237,The four-year-old knew which dragon the hero had eaten for dinner last night.,119,reversal,reversed,dragon,hero,The four-year-old knew which dragon the hero had,eaten,4,6,8
+238,The security guard investigated which patrolman the loiterer had evaded for three hours.,120,reversal,canonical,patrolman,loiterer,The security guard investigated which patrolman the loiterer had,evaded,5,7,9
+239,The security guard investigated which loiterer the patrolman had evaded for three hours.,120,reversal,reversed,loiterer,patrolman,The security guard investigated which loiterer the patrolman had,evaded,5,7,9
