@@ -4,7 +4,9 @@ import os
 import pandas as pd
 from minicons import scorer
 
-from src.surprisal import surprisal_at_word
+import sys
+sys.path.append("..")
+from functions.surprisal import surprisal_at_word
 
 def main():
     parser = argparse.ArgumentParser()
